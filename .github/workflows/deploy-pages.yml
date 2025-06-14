@@ -1,0 +1,32 @@
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write # Required for pushing to gh-pages
+      pages: write # Required for GitHub Pages deployment
+      id-token: write # Required for actions/deploy-pages
+    steps:
+      - name: Checkout AUB Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18.17.0'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: |
+          npm install # In case static site needs npm dependencies
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        with:
+          source-path: . # Deploy everything in the main branch (images/ and Next.js output)
