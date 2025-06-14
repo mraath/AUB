@@ -18,6 +18,7 @@ jobs:
 
       - name: Debug Repository Contents
         run: |
+          echo "Current directory: $(pwd)"
           echo "Listing all files in main branch:"
           ls -R || echo "No files in repository"
           echo "Images directory:"
@@ -25,6 +26,7 @@ jobs:
           echo "Root directory (excluding .git, .github):"
           find . -maxdepth 1 -not -path './.git' -not -path './.github' -not -path '.' || echo "No files in root"
           git branch -a || echo "No branches found"
+          git status || echo "Git status unavailable"
 
       - name: Set up Git
         run: |
@@ -34,8 +36,8 @@ jobs:
       - name: Initialize gh-pages Branch
         run: |
           git checkout --orphan gh-pages || git checkout gh-pages
-          git rm -rf . || true
-          git clean -fd || true
+          # Clear files except .git and .nojekyll
+          find . -maxdepth 1 -not -path './.git' -not -path '.' -not -name '.nojekyll' -exec rm -rf {} \;
           touch .nojekyll # Prevent Jekyll processing
           git add .nojekyll
           git commit -m "Initialize gh-pages branch" || echo "No changes to commit"
@@ -43,20 +45,24 @@ jobs:
 
       - name: Copy Files to gh-pages
         run: |
+          # Store repository root
+          REPO_ROOT=$(pwd)
           git checkout main
-          mkdir -p gh-pages-tmp # Create temporary directory
+          mkdir -p "$REPO_ROOT/gh-pages-tmp" # Create temporary directory
           # Copy files, excluding .git and .github
-          rsync -av --delete --exclude='.git' --exclude='.github' ./ gh-pages-tmp/ || echo "No files to copy"
+          rsync -av --delete --exclude='.git' --exclude='.github' ./* "$REPO_ROOT/gh-pages-tmp/" || echo "No files to copy"
           echo "Listing files in gh-pages-tmp:"
-          ls -R gh-pages-tmp || echo "No files in gh-pages-tmp"
+          ls -R "$REPO_ROOT/gh-pages-tmp" || echo "No files in gh-pages-tmp"
           git checkout gh-pages
-          rm -rf ./* ./.??* || true # Clear existing files except .nojekyll
-          if [ -n "$(ls -A gh-pages-tmp)" ]; then
-            cp -r gh-pages-tmp/. ./ # Copy all contents, including subdirectories
+          # Clear files except .git and .nojekyll
+          find . -maxdepth 1 -not -path './.git' -not -path '.' -not -name '.nojekyll' -exec rm -rf {} \;
+          if [ -n "$(ls -A "$REPO_ROOT/gh-pages-tmp")" ]; then
+            cp -r "$REPO_ROOT/gh-pages-tmp"/* ./
           else
             echo "No files to copy to gh-pages"
+            exit 0 # Exit gracefully if no files
           fi
-          rm -rf gh-pages-tmp
+          rm -rf "$REPO_ROOT/gh-pages-tmp"
           git add .
           git commit -m "Deploy images and Next.js output to gh-pages" || echo "No changes to commit"
           git push origin gh-pages
@@ -64,10 +70,12 @@ jobs:
       - name: Debug gh-pages Contents
         run: |
           git checkout gh-pages
+          echo "Current directory: $(pwd)"
           echo "Listing files in gh-pages branch:"
           ls -R || echo "No files in gh-pages"
           echo "Images directory in gh-pages:"
           ls -R images || echo "No images directory"
+          git status || echo "Git status unavailable"
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
