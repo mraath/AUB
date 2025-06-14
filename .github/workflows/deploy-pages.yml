@@ -43,14 +43,25 @@ jobs:
       - name: Copy Files to gh-pages
         run: |
           git checkout main
-          cp -r ./* gh-pages-tmp/
+          mkdir -p gh-pages-tmp # Create temporary directory
+          # Copy files, excluding .git and .github
+          rsync -av --exclude='.git' --exclude='.github' ./ gh-pages-tmp/
           git checkout gh-pages
-          rm -rf ./* || true
+          rm -rf ./* ./.??* || true # Clear existing files except .nojekyll
           cp -r gh-pages-tmp/* ./
           rm -rf gh-pages-tmp
           git add .
           git commit -m "Deploy images and Next.js output to gh-pages" || echo "No changes to commit"
           git push origin gh-pages
+        env:
+          RSYNC_FLAGS: --exclude='.git' --exclude='.github'
+
+      - name: Debug gh-pages Contents
+        run: |
+          git checkout gh-pages
+          ls -R || echo "No files in gh-pages"
+          echo "Images directory in gh-pages:"
+          ls -R images || echo "No images directory"
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
