@@ -16,15 +16,18 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18.17.0'
-          cache: 'npm'
-
-      - name: Install Dependencies
+      - name: Debug Repository Contents
         run: |
-          npm install # In case static site needs npm dependencies
+          ls -R || echo "No files in repository"
+          echo "Images directory:"
+          ls -R images || echo "No images directory"
+          echo "Root directory:"
+          ls -R . || echo "No files in root"
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          static_site_generator: none # No build step needed for static files
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
