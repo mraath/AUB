@@ -1,0 +1,55 @@
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches:
+      - dis
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    steps:
+      - name: Checkout AUB Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Debug Main Branch Contents
+        run: |
+          echo "Main branch contents:"
+          ls -R || echo "No files in repository"
+          echo "Optimized images directory:"
+          ls -R optimized-images || echo "No optimized-images directory"
+          echo "Root directory files:"
+          find . -maxdepth 1 -type f || echo "No files in root"
+
+      - name: Setup gh-pages Branch
+        run: |
+          # Ensure gh-pages branch exists
+          git checkout gh-pages || git checkout --orphan gh-pages
+          
+          # Clear existing files in gh-pages
+          git rm -rf . || true
+          
+          # Copy all files from main branch
+          git checkout main -- .
+          
+          # Add and commit changes
+          git add .
+          git commit -m "Deploy to gh-pages from main" || echo "No changes to commit"
+          
+          # Push to gh-pages
+          git push origin gh-pages --force
+
+      - name: Debug gh-pages Branch
+        run: |
+          echo "gh-pages branch contents:"
+          ls -R || echo "No files in gh-pages"
+          find . -maxdepth 1 -type f || echo "No files in root"
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        with:
+          source-path: .
