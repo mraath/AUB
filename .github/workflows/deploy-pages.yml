@@ -2,21 +2,19 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main # Changed from 'dis' as per previous discussion, assuming your first workflow pushes to 'main'
-
+      - main # This should be the branch in your AUB repo that triggers the deploy (commonly 'main')
 jobs:
   deploy:
     runs-on: ubuntu-22.04
     permissions:
-      contents: read # Changed to 'read' because you're no longer pushing to 'gh-pages' within this workflow
+      contents: write
       pages: write
       id-token: write
-
     steps:
       - name: Checkout AUB Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Still good for debugging/visibility, but less critical here
+          fetch-depth: 0
 
       - name: Debug Main Branch Contents
         run: |
@@ -27,14 +25,30 @@ jobs:
           echo "Root directory files:"
           find . -maxdepth 1 -type f || echo "No files in root"
 
-      # --- NEW STEP: Upload the pages artifact ---
-      - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v3 # Use v3 or later
-        with:
-          path: './' # This tells the action to upload everything in the current directory (your AUB repo's main branch content)
+      - name: Setup gh-pages Branch
+        run: |
+          # Ensure gh-pages branch exists
+          git checkout gh-pages || git checkout --orphan gh-pages
+          
+          # Clear existing files in gh-pages
+          git rm -rf . || true
+          
+          # Copy all files from main branch
+          git checkout main -- .
+          
+          echo "--- Contents of gh-pages branch before commit ---" 
+          ls -R                                                    
+          echo "------------------------------------------------" 
+          
+          # Add and commit changes
+          git add .
+          git commit -m "Deploy to gh-pages from main" || echo "No changes to commit"
+          
+          # Push to gh-pages
+          git push origin gh-pages --force
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-        # No 'with: source-path: .' needed here anymore.
-        # It implicitly uses the artifact uploaded by 'actions/upload-pages-artifact'.
+      - name: Debug gh-pages Branch
+        run: |
+          echo "gh-pages branch contents:"
+          ls -R || echo "No files in gh-pages"
+          find . -maxdepth 1 -type f || echo "No files in root"
