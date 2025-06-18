@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main # This should be the branch in your AUB repo that triggers the deploy (commonly 'main')
+      - del # This should be the branch in your AUB repo that triggers the deploy (commonly 'main')
 jobs:
   deploy:
     runs-on: ubuntu-22.04
