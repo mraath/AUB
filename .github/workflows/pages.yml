@@ -1,0 +1,33 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v3
+
+      - name: Rewrite image URLs in HTML files
+        run: |
+          find . -type f -name '*.html' | while read file; do
+            # Change image src to point to ./AUB/optimized-images and make URLs lowercase
+            sed -i -E 's/src=["'\'']([^"'\'']+)["'\'']/src=".\/AUB\/optimized-images\/\L\1"/g' "$file"
+          done
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
