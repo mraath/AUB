@@ -16,8 +16,7 @@ jobs:
       - name: Rewrite image URLs in HTML files
         run: |
           find . -type f -name '*.html' | while read file; do
-            # Change image src to point to ./AUB/optimized-images and make URLs lowercase
-            sed -i -E 's/src=["'\'']([^"'\'']+)["'\'']/src=".\/AUB\/optimized-images\/\L\1"/g' "$file"
+            sed -i -E 's#src=["'\'']([^"'\'']*optimized-images/)([^"'\'']+)["'\'']#src="./AUB/optimized-images/\L\2"#g' "$file"
           done
 
       - name: Setup Pages
