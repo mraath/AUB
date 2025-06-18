@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Force url case and base Deploy to GitHub Pages
 
 on:
   push:
