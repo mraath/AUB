@@ -100,6 +100,26 @@
     "url": "/islands"
   },
   {
+    "folderName": "our-story",
+    "title": "Our Story",
+    "description": "HI, I’M LISELLE RAATH.\nLike many people, I knew what I wanted to do with my life when I was just 10 years old. A Hollywood actress. And like many of those people, life turned out a little different…But ‘different’ is what I have learned to embrace. See, ‘different’ also means ‘out of the ordinary’ - & this is exactly what I have found on my first-ever trip to another country.\n\nAt the age of 19, I hopped on a plane, left my world & my ways behind & stepped into a different world where people spoke a different language, ate different food & showed me that ‘different’ is pretty special.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "our-story",
+    "isFolder": false,
+    "url": "/our-story"
+  },
+  {
+    "folderName": "safaris",
+    "title": "SAFARIS",
+    "description": "Perhaps everyone on Planet Earth has dreamed of going on safari to Africa! The word safari means “journey” & enjoying a luxury African safari is a unique journey to say the least.\nGetting up close & personal with some of the world’s most impressive & endangered animals, sleeping in luxury tents at the best safari lodges & learning more about the fascinating African culture is what luxury safari holidays are all about.\nNot that you need further convincing, here are our top 6 reasons why you should book a luxury safari adventure today.\nLuxury African safaris offer you a unique combination of opulence, wildlife & adventure in a single experience, unmatched anywhere else in the world.\nSeeing the real Africa from an open 4x4 vehicle, boat or canoe is simply magical. Encountering the Big 5 – lion, leopard, elephant, buffalo & rhino – & spotting extraordinary bird species in their natural habitat, is something you will never forget.\nMost of our lives today are filled with long hours at the office & too much screen time! Visiting Africa allows us to slow down, kick off our shoes & escape to a world where we can only hear birds chirping.\nKids & adults around the world have one thing in common – we love to have fun while on holiday! You can be sure of this...A safari adventure will keep everyone entertained. (But if you are hoping to do as little as possible – you are most welcome to do so.)\nWhat is more magical than rounding off your afternoon with a popular safari ritual: sundowner drinks in the bush? You’re invited to watch the sun set while sipping on your drink of choice, surrounded by nature at the best safari lodges in Africa.\nProfessional photographers, & the ‘Average Joe’ who loves taking pictures, will all fall in love with Africa. Capture impressive animals, golden sunsets or interesting people & make memories that will last forever.\n\nA bucket list experience\nSee wildlife up close in a natural setting\nEscape to nature\nEnjoy a wide range of safari activities\nDrink a G&T while watching the sunset\nCapture amazing moments",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris",
+    "isFolder": false,
+    "url": "/safaris"
+  },
+  {
     "folderName": "blog/all-things-africa",
     "title": "All Things Africa",
     "description": "Remember the good old days when all your favourite photographs & books were stored in one place?  The photo album packed with memories (mostly of travel & loved ones) & the home library filled with books on your favourite topics?\n\nWell, we have created a space for you where you can have all of this at the click of a button!",
@@ -548,6 +568,16 @@
     "path": "islands/zanzibar",
     "isFolder": false,
     "url": "/islands/zanzibar"
+  },
+  {
+    "folderName": "safaris/botswana",
+    "title": "BOTSWANA",
+    "description": "Botswana is – without a doubt – Africa’s prime wildlife destination. And it is no surprise to visitors when they get to experience this bucket-list destination for themselves.\nHome to the world-renowned Moremi Game Reserve & beautiful Okavango Delta with its maze of lagoons, channels & islands, Botswana offers action-packed wildlife viewing in a remote setting. Witness large herds of elephants in Chobe National Park, meet the meerkats in the Makgadikgadi Pans or go on walking safaris with a San bushman in the Kalahari.\nBotswana is all about seclusion – in fact, the only way to reach most of these camps is via small plane. Viewing the bush from a bird’s eye view is spectacular & often big game can be spotted from the air. Both land & water-based safari activities can be experienced in Botswana. Popular activities include open 4x4 game drives, guided walking safaris, mokoro trips in dug-out canoes, boating & fishing. Botswana also easily combines with a trip to the majestic Victoria Falls.\n\nUtterly remote & beautifully luxurious, Botswana offers a variety of tented camps & lodges to choose from. Most range from classic traditional safari camps to opulent bush suites, although a larger percentage of the camps in Botswana cater for the discerning traveller in search of an authentic, luxurious safari experience.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana",
+    "isFolder": false,
+    "url": "/safaris/botswana"
   },
   {
     "folderName": "blog/all-things-africa/discover-botswana",
@@ -3338,5 +3368,525 @@
     "path": "islands/zanzibar/park-hyatt-zanzibar",
     "isFolder": false,
     "url": "/islands/zanzibar/park-hyatt-zanzibar"
+  },
+  {
+    "folderName": "islands/zanzibar/the-manta-resort",
+    "title": "THE MANTA RESORT",
+    "description": "Situated in the far north of Tanzania’s Pemba Island, Manta Resort is the quintessential secluded island getaway that is on everyone’s bucket list!\nOverlooking a pristine, white beach with a vibrant coral reef, this is the perfect holiday destination for blissful honeymoons or fun family getaways.  \nThe Manta Resort delivers a tropical paradise experience, coupled with exceptional service &amp; fresh cuisine from the crystal-clear ocean.\nProbably its biggest drawing card is the unique glass-fronted ‘underwater room’ that is situated within a conservation area &amp; surrounded by coral.  Guests will submerge themselves into the Indian Ocean to experience its beautiful marine life &amp; quiet waters.\n\nThe Manta Resort offers a wide range of accommodation to suit your needs.  These include the standard garden rooms, superior garden rooms, seafront villas &amp; the popular underwater room.  All rooms are en-suite.\nThe standard garden rooms are compact, open-plan in design &amp; feature small balconies overlooking the garden.\nIn addition, the superior garden rooms boast large Swahili baraza lounges where guests can relax in the peacefulness of the garden.\nOffering sensational ocean views, the seafront villas have a state-of-the-art EveningBreeze cooling system that cools &amp; cleans the air, promising a good night’s sleep.\nThe famed underwater room is a 3-storey glass-fronted suite where your bedroom is 4 metres below the water.  At night, spotlights illuminate the reef &amp; passing fish, allowing you to enjoy underwater wildlife viewing from the comfort of your bed!\nThe main area features a lounge, dining room, bar &amp; swimming pool.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "islands/zanzibar/the-manta-resort",
+    "isFolder": false,
+    "url": "/islands/zanzibar/the-manta-resort"
+  },
+  {
+    "folderName": "islands/zanzibar/the-residence-zanzibar",
+    "title": "THE RESIDENCE ZANZIBAR",
+    "description": "The Residence Zanzibar is set in isolated splendour on the southwest coast of the island, on 32 hectares of pristine land once occupied by Shirazi Princes.  \nOnly 55 minutes from the capital of Stone Town, The Residence Zanzibar lies on a mile-long powdery, white sand beach defined by palm trees &amp; the warm waters of the Indian Ocean.  \nThe famous village of Kizimkazi, known for its dolphin safaris, is just 20 minutes away.  The resort offers a range of exciting water-based activities, including excellent diving &amp; snorkelling.\nThe Residence Zanzibar offers only the best in barefoot luxury – from romantic in-villa dining to sublime cuisine &amp; innovative spa treatments.\n\nThe Residence Zanzibar consists of 66 villas, distinguished by private pools, personal butlers &amp; understated luxury.  Each villa features a comfortable living room &amp; en-suite bathroom.\nThe main area consists of a beautiful dining room where gastronomic feasts are served as well as a large swimming pool overlooking the ocean.  \nThe Residence’s star attraction is The Spa, which features 6 pavilions &amp; a rest area with a whirlpool nestled amongst 2 hectares of surrounding tropical gardens.  \nOther resort facilities include a swimming pool, fitness centre &amp; Kids Club where the little ones are kept safe &amp; entertained by professional childminders.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "islands/zanzibar/the-residence-zanzibar",
+    "isFolder": false,
+    "url": "/islands/zanzibar/the-residence-zanzibar"
+  },
+  {
+    "folderName": "islands/zanzibar/tui-blue-bahari-zanzibar",
+    "title": "TUI BLUE BAHARI",
+    "description": "Set directly on a breathtaking white, sandy beach on Zanzibar’s secluded northeast coast, lies Tui Blue Bahari, a 5-star resort-styled like an Arabian palace.\nThe resort entices couples, honeymooners &amp; families with a large selection of restaurants, bars &amp; swimming pools, along with flood-lit tennis courts &amp; an exquisite wellness spa.\nGuests can go from the pool to the white, sandy beach in a matter of minutes.  \nExciting water sports &amp; day excursions are available at Tui Blue Bahari, including diving, snorkelling &amp; amazing dolphin safaris.\n\nAccommodation comprises 157 rooms &amp; villas, some with garden views, some with ocean views &amp; some with jacuzzis.  \nEach room &amp; villa has been tastefully designed &amp; come complete with a lavish en-suite bathroom.\nAt the main resort, you will find a comfortable lounge &amp; a variety of restaurants &amp; bars where guests can relax or enjoy pre-dinner drinks.  There is also a cosy library, flood-lit tennis court &amp; a fitness centre for those wishing to stay active while on holiday.\nThe exquisite wellness spa offers a range of innovative treatments &amp; guests can relax at one of the resort’s swimming pools - the perfect place to relax while sipping on a delicious cocktail, truly island-style.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "islands/zanzibar/tui-blue-bahari-zanzibar",
+    "isFolder": false,
+    "url": "/islands/zanzibar/tui-blue-bahari-zanzibar"
+  },
+  {
+    "folderName": "islands/zanzibar/tulia-zanzibar-unique-beach-resort",
+    "title": "TULIA ZANZIBAR UNIQUE BEACH RESORT",
+    "description": "Staying true to its name, Tulia Zanzibar Unique Beach Resort is unlike any other in Zanzibar.  Set on the popular Pongwe Beach, guests can look forward to exceptional service, stunning sea views &amp; tailor-made itineraries.\nExciting water sports &amp; day excursions are available at Tulia Zanzibar, including diving, snorkelling &amp; amazing dolphin safaris.\nGastronomy feasts of the highest quality can be anticipated here.  Guests will experience fresh farm-to-table dining in a relaxed, beach-side setting.\nHome to the island’s only waterslides, young &amp; old alike can connect with their inner child or venture out to the crystal-clear waters of the Indian Ocean in search of dolphins.\n\nTulia Zanzibar Unique Beach Resort offers a variety of rooms that are great for couples &amp; families.  \nThey range from deluxe garden bungalows with large terraces, set in lush gardens to royal garden villas with jacuzzis &amp; beachfront luxury villas that are set on a clifftop above the water, offering sensational ocean views.\nEach bungalow is sophisticated &amp; tastefully decorated, featuring hammocks, sunbeds &amp; private terraces.\nResort facilities include the island’s only pool with waterslide, a wellness spa offering relaxing treatments as well as a fitness centre &amp; a sundowner beach bar with the tranquil waters of the ocean as your view.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "islands/zanzibar/tulia-zanzibar-unique-beach-resort",
+    "isFolder": false,
+    "url": "/islands/zanzibar/tulia-zanzibar-unique-beach-resort"
+  },
+  {
+    "folderName": "islands/zanzibar/zanzibar-serena-hotel",
+    "title": "ZANZIBAR SERENA HOTEL",
+    "description": "With an ideal setting on the seafront of Zanzibar’s ancient Stone Town, lies The Zanzibar Serena Hotel – a member of Small Luxury Hotels of the World.\nBoasting a truly beautiful location, the hotel is ideal for romantics who want to experience a vibrant island getaway combined with traditional dhow boats &amp; bright bazaars.\nNearby you will find many of the city’s popular attractions, so guests can either explore the colourful Zanzibar capital &amp; enjoy laid-back afternoons on the beach or beside the pool.\n\nZanzibar Serena Hotel features a range of room types, including standard rooms, prime rooms &amp; suites – all of which are beautifully appointed &amp; decorated in traditional Swahili interiors &amp; hand-carved furnishings.\nThe spacious, air-conditioned standard rooms feature balconies &amp; relaxing hammocks – the perfect place to catch an afternoon siesta or soak up the beautiful views.  In addition, the prime rooms are more spacious &amp; feature magnificent views.  \nThe 3 suites (executive, honeymoon &amp; presidential) can be found in a separate wing of the hotel - a private haven for honeymooners or romantics who need a little extra privacy &amp; seclusion.  These suites feature private balconies with jaw-dropping views across the Zanzibar waterfront, &amp; have access to a private beach.  Inter-connected rooms &amp; suites are available to families.\nHotel facilities include a bar, coffee shop, crystal-clear swimming pool &amp; spacious terrace with indoor &amp; outdoor seating.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "islands/zanzibar/zanzibar-serena-hotel",
+    "isFolder": false,
+    "url": "/islands/zanzibar/zanzibar-serena-hotel"
+  },
+  {
+    "folderName": "islands/zanzibar/zawadi-hotel",
+    "title": "ZAWADI HOTEL",
+    "description": "Zawadi Hotel is perched atop a cliff overlooking the gorgeous Indian Ocean on the quiet southeast coast of Zanzibar Island.\nWith an unspoiled beach that is ideal for swimming &amp; snorkelling, an exquisite spa offering relaxing treatments &amp; a beautiful infinity pool, the resort is perfect for honeymooners or couples looking for an indulgent, romantic getaway.\nGuests can learn how to scuba dive at the on-site PADI dive centre or enjoy cooking classes with the hotel’s chef.\nExciting water sports &amp; day excursions are available at Zawadi, including diving, snorkelling &amp; amazing dolphin safaris.\n\nZawadi Hotel offers private &amp; luxurious 100-square meter villas, each equipped with a private terrace &amp; palm-shaded plunge pool.  \nSpectacular ocean views can be enjoyed from the king-sized bed &amp; in the lavish en-suite bathroom, you will find a freestanding tub &amp; spacious walk-in shower.\nResort facilities include a restaurant &amp; beach bar, a tranquil spa, infinity pool &amp; dining room where delicious cuisine is served daily.  The PADI dive centre offers a range of water-based activities.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "islands/zanzibar/zawadi-hotel",
+    "isFolder": false,
+    "url": "/islands/zanzibar/zawadi-hotel"
+  },
+  {
+    "folderName": "islands/zanzibar/zuri-zanzibar",
+    "title": "ZURI ZANZIBAR",
+    "description": "Situated in Kendwa, a long, private beach on Zanzibar’s sunset-facing west coast, lies Zuri Zanzibar – the first hotel in the world to be award EarthCheck’s Sustainable Design Gold Certification.\nA gorgeous clifftop &amp; 300 meters of white, sandy beach welcome guests as they arrive at this tropical slice of paradise.  Its remarkable setting enjoys favourable tidal patterns that ensure safe swimming conditions all day long.  \nZuri offers a wide range of land &amp; water-based activities, such as traditional sunset dhow boat cruises, snorkelling, diving &amp; even cooking classes in the hotel’s Spice Garden.\n\nAccommodation at Zuri consists of 56 bungalows, suites &amp; villas, all hidden in a large tropical garden within a short walk of the azure waters of the Indian Ocean.\nAll bungalows, suites &amp; villas are fitted out with a mix of stylish contemporary furniture &amp; local artisanal features &amp; artwork, ensuring a wonderful tropical experience of indoor &amp; outdoor living, with rooms flowing seamlessly out to generous terraces surrounded by lush tropical gardens.  \nEach of the bungalows boasts a large private terrace &amp; modern bathroom with an outdoor shower while the exclusive suites enjoy a double-sized terrace, private outdoor jacuzzi &amp; a separate living room.  \nSet on the oceanfront with your private stretch of beach &amp; jacuzzi, the 3-bedroom villas enable guests to enjoy only the best in barefoot luxury.\nResort facilities include a water sports &amp; dive centre, spa, restaurant &amp; swimming pool.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "islands/zanzibar/zuri-zanzibar",
+    "isFolder": false,
+    "url": "/islands/zanzibar/zuri-zanzibar"
+  },
+  {
+    "folderName": "safaris/botswana/chobe-national-park",
+    "title": "CHOBE NATIONAL PARK",
+    "description": "Chobe National Park, globally acclaimed as the 'home of elephants,' is a premier destination for those seeking an unforgettable Chobe National Park elephant safari experience. This remarkable park harbors Africa's largest congregation of wildlife, offering visitors unparalleled encounters with vast herds of elephants &amp buffaloes.\nIn fact, about 120,000 elephants live in &amp; around the national park, &amp; inconceivable numbers of these gentle giants can be seen crowding the banks of the Chobe River during Botswana’s dry season from May to October.\nHosting about 120,000 elephants, Chobe National Park presents an unparalleled opportunity for wildlife spotting in the dry season. During Botswana’s dry season from May to October, witness the majestic sight of elephants along the Chobe River. This park is also a hotspot for spotting predators like lions, leopards, wild dogs, hyenas, &amp jackals.\n\nThe Chobe River, the park's lifeblood, sets the stage for the best birdwatching tours in Chobe National Park &amp exclusive Chobe River sunset boat tours. Embark on guided 4x4 game drives in Chobe National Park, always in the company of expert rangers. For a more intimate experience with nature, partake in unique walking safari experiences in Chobe, Botswana.\nThe highlight for many visitors is the Chobe River boat safari photography opportunities, allowing for stunning wildlife shots. The park's birdlife is particularly rich, offering year-round birdwatching, with the Green Season being especially rewarding",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/chobe-national-park",
+    "isFolder": false,
+    "url": "/safaris/botswana/chobe-national-park"
+  },
+  {
+    "folderName": "safaris/botswana/linyanti-wildlife-reserve",
+    "title": "LINYANTI WILDLIFE RESERVE",
+    "description": "This remote &amp wild region houses just a few private game lodges, accessible by small plane. Enjoy a bird's-eye view, &amp you might spot elephants or giraffes.\nLinyanti’s permanent rivers &amp floodplains attract diverse wildlife &amp birds year-round, including predators &amp large elephant herds.\nThe Linyanti is renowned for its exceptional wild dog &amp bird sightings, making it a prime destination.\n\nChoose from a variety of land &amp water-based safari activities. Thanks to private management, you can enjoy off-road driving, thrilling night drives, &amp nature walks. Explore by motorboat &amp unwind on serene sunset cruises.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/linyanti-wildlife-reserve",
+    "isFolder": false,
+    "url": "/safaris/botswana/linyanti-wildlife-reserve"
+  },
+  {
+    "folderName": "safaris/botswana/makgadikgadi-pans",
+    "title": "MAKGADIKGADI PANS",
+    "description": "Botswana’s Makgadikgadi Pans, remnants of an ancient lake, are considered the largest collection of salt flats in the world. A large part of the year, they are dry &amp covered in algae while the unpredictable rain of the wet season transforms the flats into a lush, oasis – an inviting haven to thirsty animals migrating from the surrounding Kalahari Desert. For the best time to travel to Makgadikgadi Pans for wildlife viewing, consider the wet months between December to March when the rain transforms the flats into a lush oasis, attracting a variety of wildlife.\nDuring the rainy season, the Makgadikgadi Pans is home to the second-largest zebra migration in the world. Water fills the pans &amp the salt pans start attracting thousands of zebras &amp wildebeest passing through – a wonderful sight to behold.\nThe area is also famous for its amazing meerkat encounters – the only place in Botswana where guests can enjoy interactions with one of the resident meerkat colonies.\n\nVisitors to the Makgadikgadi will have their pick from a wide selection of exciting safari activities. A favorite remains close-up encounters &amp interactions with meerkats.\nOpen 4x4 game drives &amp guided nature walks with San Bushmen are also offered. Guests will learn more about their ancient culture, survival techniques &amp historic way of life. Many lodges also offer romantic sleep-outs under the stars &amp exciting night drives. Looking for nocturnal animals with a spotlight is quite an adventure!\nFrequent wildlife sightings of zebra, wildebeest, oryx, kudu &amp springbok can be expected while aardwolf, bat-eared fox &amp striped polecat can also be seen.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/makgadikgadi-pans",
+    "isFolder": false,
+    "url": "/safaris/botswana/makgadikgadi-pans"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve",
+    "title": "MOREMI GAME RESERVE",
+    "description": "Protecting 3,000 square km of the central &amp eastern Okavango Delta, Moremi is a stunning blend of lily-covered wetlands, sparkling floodplains, open grassland &amp dappled forests, offering guests a beautiful contrast between permanent water &amp dry land. For a Chief’s Island luxury safari experience guide, look no further than Moremi Game Reserve.\nHome to the famous Chief’s Island – Botswana’s best wildlife destination – it is not surprising that travelers from across the globe prefer to add the Moremi Game Reserve to their bucket list.\nHere, guests will experience action-packed wildlife encounters, phenomenal predator sightings &amp great bird watching on the lagoons.\n\nVisitors to the Moremi Game Reserve will have their pick from a wide selection of exciting safari activities.\nThese include open 4x4 game drives, bush walks, boating safaris, mokoro trips in traditional dug-out canoes &amp even fishing.\nAccommodation should be chosen carefully because some lodges offer land-based activities while others offer water-based activities. A handful of lodges offer both. It is important to stay at a mix of lodges where guests can explore all the activities Moremi has to offer, including photographic retreats in Moremi Game Reserve's diverse landscapes.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve"
+  },
+  {
+    "folderName": "safaris/botswana/chobe-national-park/chobe-game-lodge",
+    "title": "CHOBE NATIONAL PARK",
+    "description": "Chobe National Park, globally acclaimed as the 'home of elephants,' is a premier destination for those seeking an unforgettable Chobe National Park elephant safari experience. This remarkable park harbors Africa's largest congregation of wildlife, offering visitors unparalleled encounters with vast herds of elephants &amp buffaloes.\nIn fact, about 120,000 elephants live in &amp; around the national park, &amp; inconceivable numbers of these gentle giants can be seen crowding the banks of the Chobe River during Botswana’s dry season from May to October.\nHosting about 120,000 elephants, Chobe National Park presents an unparalleled opportunity for wildlife spotting in the dry season. During Botswana’s dry season from May to October, witness the majestic sight of elephants along the Chobe River. This park is also a hotspot for spotting predators like lions, leopards, wild dogs, hyenas, &amp jackals.\n\nThe Chobe River, the park's lifeblood, sets the stage for the best birdwatching tours in Chobe National Park &amp exclusive Chobe River sunset boat tours. Embark on guided 4x4 game drives in Chobe National Park, always in the company of expert rangers. For a more intimate experience with nature, partake in unique walking safari experiences in Chobe, Botswana.\nThe highlight for many visitors is the Chobe River boat safari photography opportunities, allowing for stunning wildlife shots. The park's birdlife is particularly rich, offering year-round birdwatching, with the Green Season being especially rewarding",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/chobe-national-park/chobe-game-lodge",
+    "isFolder": false,
+    "url": "/safaris/botswana/chobe-national-park/chobe-game-lodge"
+  },
+  {
+    "folderName": "safaris/botswana/chobe-national-park/chobe-princess",
+    "title": "CHOBE PRINCESS",
+    "description": "The Chobe Princess is a luxury houseboat based on the Chobe River in Botswana, but it is officially a joint Namibian &amp; Botswana property as the river forms the boundary between these two countries.\nA unique &amp; elegant experience, The Chobe Princess will take you on a journey through some of Africa’s most beautiful &amp; scenic regions.\n\nTwo of the Chobe Princess houseboats have four cabins each:  3 Standard and 1 Superior Cabin.\nThe third Princess is larger with five cabins: 3 Standard and 2 Superior Cabins – one with a front balcony and the other located on the upper (top) deck.\nEach cabin on The Chobe Princess is tastefully decorated in a contemporary style, &amp; each has a private view of the ever-changing landscapes beyond.  On the upper entertainment deck, a spacious lounge &amp; bar area encourages you to take time out while there is also a plunge pool that’s perfect for a refreshing dip.\nThe entire boat can also be booked exclusively.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/chobe-national-park/chobe-princess",
+    "isFolder": false,
+    "url": "/safaris/botswana/chobe-national-park/chobe-princess"
+  },
+  {
+    "folderName": "safaris/botswana/chobe-national-park/chobe-savanna-lodge",
+    "title": "CHOBE SAVANNA LODGE",
+    "description": "Chobe Savanna Lodge is set in the Eastern Caprivi, a narrow strip of country on the Northern bank of the Chobe River.  The lodge enjoys spectacular views over the Chobe National Park, home to large herds of elephants, buffalo &amp; hippo.\nThe most prominent feature at Chobe Savanna is a thatched open-sided section of the lodge where guests can enjoy a 270 degrees view over the Chobe River &amp; Chobe National Park.\n\nSmall &amp; intimate, the lodge has 12 luxury chalets, each with a private deck, integrated bedroom &amp; lounge, as well as en-suite facilities.  Room are all air-conditioned. \nThe main area is set on the banks of the Chobe River, &amp; consists of a swimming pool, gazebo &amp; open-air boma, where guests can dine under the stars while enjoying beautiful panoramic views over the bushveld.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/chobe-national-park/chobe-savanna-lodge",
+    "isFolder": false,
+    "url": "/safaris/botswana/chobe-national-park/chobe-savanna-lodge"
+  },
+  {
+    "folderName": "safaris/botswana/chobe-national-park/chobe-under-canvas",
+    "title": "CHOBE UNDER CANVAS",
+    "description": "Chobe Under Canvas is a luxury mobile camp, ideally positioned close to the Chobe River in the world-renowned Chobe National Park.\nA Botswana safari is not complete without a visit to Chobe where large herds of elephants &amp; buffalo are frequently seen.  Chobe Under Canvas combines rustic luxury with iconic wildlife encounters, &amp; therefore is a wildlife enthusiast’s dream come true.\n\nThere are only 5 luxury canvas tents at Chobe Under Canvas, each with an en-suite bathroom &amp; alfresco bucket shower, with hot water delivered on request.\nGuests can relax or enjoy pre-dinner drinks in the communal guest area. Personal butler services are also available.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/chobe-national-park/chobe-under-canvas",
+    "isFolder": false,
+    "url": "/safaris/botswana/chobe-national-park/chobe-under-canvas"
+  },
+  {
+    "folderName": "safaris/botswana/chobe-national-park/elephant-valley-lodge",
+    "title": "ELEPHANT VALLEY LODGE",
+    "description": "Elephant Valley Lodge lies between the world-renowned Chobe National Park &amp; the Matetsi Wildlife Conservancy in the Kasane Forest Reserve of Botswana.\nThe lodge overlooks an extremely productive waterhole, which serves as one of the main attractions at camp as passing wildlife often gather here.\n\nThe lodge comprises 12 Meru-style forest tents located under the shady canopy of trees as well as 8 valley tents with views overlooking the valley &amp; waterhole.  Each tent is comfortably furnished with a luxurious en-suite bathroom &amp; private verandah.\nThe main camp features a spacious lounge &amp; dining area, swimming pool with sundeck &amp; a secluded hide where guests can enjoy excellent bird-watching opportunities.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/chobe-national-park/elephant-valley-lodge",
+    "isFolder": false,
+    "url": "/safaris/botswana/chobe-national-park/elephant-valley-lodge"
+  },
+  {
+    "folderName": "safaris/botswana/chobe-national-park/ngoma-safari-lodge",
+    "title": "NGOMA SAFARI LODGE",
+    "description": "Ngoma Safari Lodge is located within the Chobe Forest Reserve in Western Botswana, a mere 3 km from the Chobe National Park.  This region is renowned for its outstanding wildlife, including the famous Chobe Elephants, &amp; home to more than 75 mammals &amp; 450 bird species.\nThe lodge is set on the edge of a plateau, offering endless views over the seasonal Chobe flood plains.  Magnificent sunsets are celebrated here – the perfect way to end an African day.\n\nNgoma Safari Lodge boasts 8 river-facing suites, designed with an emphasis on space &amp; comfort.  \nEach suite comes complete with air-conditioning, an en-suite bathroom with bath, indoor &amp; outdoor showers, as well as a private living area with a plunge pool &amp; sun loungers.\nAfter lunch, guests love to spend time taking a dip in their plunge pools or relaxing in the sun while reading a book.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/chobe-national-park/ngoma-safari-lodge",
+    "isFolder": false,
+    "url": "/safaris/botswana/chobe-national-park/ngoma-safari-lodge"
+  },
+  {
+    "folderName": "safaris/botswana/chobe-national-park/sanctuary-chobe-chilwero",
+    "title": "SANCTUARY CHOBE CHILWERO",
+    "description": "Chobe Chilwero is set deep in the heart of the Botswana wilderness &amp; borders the world-famous Chobe National Park.  Its superb location on the edge of the Chobe River allows for magnificent sunsets &amp; breathtaking scenery.\nGame viewing in this area is phenomenal, especially in the dryer winter months when animals make their way towards the river, one of their only life sources in the area.\n\nChobe Chilwero is a luxurious riverside retreat with only 14 suites &amp; 1 pool suite, ensuring guests have an intimate safari experience.  This is the first lodge with a full-service spa on the Botswana circuit.\nEach suite features a sunken handcrafted bath, indoor &amp; outdoor shower, private garden with hammock &amp; balcony overlooking the Chobe River.\nThe main area with lounge &amp; dining room commands fabulous views over the river which attracts a variety of game, including large elephant &amp; buffalo herds.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/chobe-national-park/sanctuary-chobe-chilwero",
+    "isFolder": false,
+    "url": "/safaris/botswana/chobe-national-park/sanctuary-chobe-chilwero"
+  },
+  {
+    "folderName": "safaris/botswana/chobe-national-park/zambezi-queen",
+    "title": "ZAMBEZI QUEEN",
+    "description": "The Zambezi Queen is a luxury houseboat based on the Chobe River in Botswana, but it is officially a joint Namibian &amp; Botswana property as the river forms the boundary between these two countries.\nA unique &amp; elegant experience, The Zambezi Queen will take you on a journey through some of Africa’s most beautiful &amp; scenic regions.\n\nThe first &amp; second levels of the boat consist of 14 cabins – all equipped with private balconies.  The cabins have been tastefully furnished with either a double or 2 single beds.  Of these 14 suites, 4 are master suites, some with private outdoor areas.  \nThe main areas of the boat feature a living &amp; dining area as well as a stunning pool deck, the ideal place to cool off while reading a book or watch nearby animals in their natural environment.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/chobe-national-park/zambezi-queen",
+    "isFolder": false,
+    "url": "/safaris/botswana/chobe-national-park/zambezi-queen"
+  },
+  {
+    "folderName": "safaris/botswana/linyanti-wildlife-reserve/camp-linyanti",
+    "title": "CAMP LINYANTI",
+    "description": "Camp Linyanti is a water wonderland & located in the uncrowded north-western corner of Chobe National Park.  \nThe camp is all about offering guests a raw safari experience, so guests who favour safari quality over luxury accommodation will feel right at home.\n\nA safari to Camp Linyanti is small & intimate.  There are only 5 Meru-style safari tents with elevated wooden decks, allowing only a maximum of 10 guests in camp at a time.  One of these tents is ideal for honeymooners looking for a bit more privacy.\nEach tent has an en-suite bathroom with an outdoor shower, as well as a lounge area & deck with beautiful views over the bush.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/linyanti-wildlife-reserve/camp-linyanti",
+    "isFolder": false,
+    "url": "/safaris/botswana/linyanti-wildlife-reserve/camp-linyanti"
+  },
+  {
+    "folderName": "safaris/botswana/linyanti-wildlife-reserve/dumatau",
+    "title": "DUMATAU",
+    "description": "In the heart of the private 125,000-hectare Linyanti Wildlife Reserve, you will find DumaTau.  This luxury tented camp is situated close to the source of the Savute Channel on one of the Linyanti lagoons.  \nWildlife viewing at DumaTau is fantastic.  The region has a great variety of animals, a highlight being the massive herds of elephants congregating around the waterways &amp; lagoons during the winter months.\n\nThere are 7 luxury tents as well as a 2-bedroom family unit, ideal for parents travelling with young children.  Each tent has a private plunge pool &amp; a comfortable lounge, &amp; feature a bathroom with indoor &amp; outdoor showers.\nThe main area has a comfortable chill-out lounge, dining room, bar, swimming pool, wellness centre, gym &amp; famous guest bathroom with an extraordinary view over the Linyanti swamps.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/linyanti-wildlife-reserve/dumatau",
+    "isFolder": false,
+    "url": "/safaris/botswana/linyanti-wildlife-reserve/dumatau"
+  },
+  {
+    "folderName": "safaris/botswana/linyanti-wildlife-reserve/kings-pool",
+    "title": "KING’S POOL",
+    "description": "King’s Pool is set in the beautiful Linyanti Wildlife Reserve in the northern part of Botswana.  The Linyanti Reserve is a private concession located on the western boundary of the Chobe National Park, ensuring spectacular wildlife viewing.\nWhat makes King’s Pool great, is the camp’s unique location on the banks of the Linyanti River.  Excellent game viewing can be experienced around the riverbed, allowing guests to sit on the deck while enjoying wildlife activity in or around the river.\n\nKing’s Pool has 7 luxurious canvas tents as well as a 2-bedroom suite, ideal for families.  Each tent is equipped with a bedroom, lounge, private plunge pool &amp; sala.  A lovely touch in the en-suite bathrooms is the double showers &amp; hand-basins, as well as an outdoor shower for those who wish to get close to nature.\nThe main area is on expansive raised decks.  For dining under the stars, there is an open-air boma where stories of the day can be shared around a crackling fire.  The camp also has a communal pool for cooling off after a day out in the African sun.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/linyanti-wildlife-reserve/kings-pool",
+    "isFolder": false,
+    "url": "/safaris/botswana/linyanti-wildlife-reserve/kings-pool"
+  },
+  {
+    "folderName": "safaris/botswana/linyanti-wildlife-reserve/lagoon-camp",
+    "title": "LAGOON CAMP",
+    "description": "Kwando Lagoon Camp is perched on the banks of the wild Kwando River in Botswana’s Linyanti concession, overlooking the Namibian Caprivi strip.\nLagoon Camp has a well-earned reputation for big game &amp; large herds of elephants &amp; buffaloes, especially in the dryer winter months when herds of up to a thousand are not uncommon.\n\nThe camp is nestled between towering trees &amp; consists of 8 traditionally styled safari tents, each with an en-suite bathroom including indoor &amp; outdoor shower as well as a private deck &amp; spacious living area, all offering picturesque views over the river.  One of these tents also comprises a second bedroom with twin beds, ideal for families.\nThe main area boasts a sparkling swimming pool set on the edge of the river, as well as a comfortable lounge &amp; dining room.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/linyanti-wildlife-reserve/lagoon-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/linyanti-wildlife-reserve/lagoon-camp"
+  },
+  {
+    "folderName": "safaris/botswana/linyanti-wildlife-reserve/lebala-camp",
+    "title": "LEBALA CAMP",
+    "description": "Kwando Lebala Camp is situated in the southern region of the Kwando concession in Botswana, adjacent to the Linyanti marshes that form the boundary between Botswana &amp; Namibia.\nThe Kwando River disappears into the marshland before emerging as the Linyanti River, an important source of life to a wide variety of animals &amp; birds.\n\nLebala means ‘wide open spaces’ in Setswana &amp; after visiting, it is not surprising to see why.  The scenery is dominated by vast plains with scattered palms &amp; tree islands backed by wooden savannahs.\nThe camp itself is comprised of 8 stylish safari tents, each with an en-suite bathroom &amp; unique mosquito net walls, allowing for unobstructed views over the Linyanti.  Each tent has a double outdoor shower overlooking the bush.  One of the tents has an additional twin bedroom within the unit for family use.\nThe main lodge area has a boma where guests can sit around the campfire, sharing some of their wildlife stories as well as a dining room &amp; deck with a sparkling swimming pool.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/linyanti-wildlife-reserve/lebala-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/linyanti-wildlife-reserve/lebala-camp"
+  },
+  {
+    "folderName": "safaris/botswana/linyanti-wildlife-reserve/linyanti-bush-camp",
+    "title": "LINYANTI BUSH CAMP",
+    "description": "Linyanti Bush Camp is situated on the banks of the Linyanti Marsh in a private reserve, which borders the western boundary of Chobe in the Chobe Enclave.  \nBeing the only water source for miles around, the marshes attract water-adapted &amp; desert-adapted wildlife, including large populations of elephants &amp; buffaloes.  The area also offers spectacular birding all year round.\n\nLinyanti Bush Camp consists of 6 luxury tents, each with en-suite facilities, sofa &amp; writing desk.  The tents are all positioned to offer spectacular views of the Linyanti Marsh, ensuring an up, close &amp; personal encounter with Africa’s wildest animals.\nThe main lodge area is a large open-sided canvas tent raised on wooden decking with a dining room, bar &amp; lounge, with comfortable sofas.  \nThe deck ensures unobstructed views over the Linyanti floodplains &amp; marsh where large herds of elephants &amp; buffaloes are often seen.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/linyanti-wildlife-reserve/linyanti-bush-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/linyanti-wildlife-reserve/linyanti-bush-camp"
+  },
+  {
+    "folderName": "safaris/botswana/linyanti-wildlife-reserve/linyanti-ebony-camp",
+    "title": "LINYANTI EBONY CAMP",
+    "description": "Linyanti Ebony Camp is set in a private concession on the banks of the Linyanti Marsh, adjacent to its sister, Linyanti Bush Camp.  \nBecause the marshes are the only water source for miles around, the camp experiences a fantastic variety of wildlife making their way to camp in search of water.\n\nLinyanti Ebony Camp is small &amp; consists of only 4 spacious en-suite safari tents, all built on elevated decks ensuring stunning views of the endless vistas &amp; lagoons of the Linyanti River system.  One of these 4 tents consists of 2-bedrooms, &amp; is ideal for families travelling with small children.  \nThe camps’ main area includes a dining &amp; lounge area looking out over a sparkling swimming pool.  For large groups or families, Linyanti Ebony &amp; Linyanti Bush Camps can be booked together on request for groups of up to 20 people.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/linyanti-wildlife-reserve/linyanti-ebony-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/linyanti-wildlife-reserve/linyanti-ebony-camp"
+  },
+  {
+    "folderName": "safaris/botswana/linyanti-wildlife-reserve/linyanti-tented-camp",
+    "title": "LINYANTI TENTED CAMP",
+    "description": "Linyanti Tented Camp is located on the iconic Linyanti Marsh, within easy access to a combination of habitats, floodplains, open-dry land savannah &amp; woodland, &amp; therefore attracts large numbers of big game &amp; birds.\nThe camp offers the perfect blend between adventure &amp; luxury, offering guests a thrilling &amp; intimate safari experience.  Families &amp; small groups love to include a stop here since this hugely diverse area not only provides excellent wildlife opportunities but ensures a comfortable night’s rest in luxury tents.\n\nLinyanti Tented Camp consists of an East &amp; West wing.  Each wing boasts 4 spacious twin-bedded tents under canvas, each with two three quarter beds, en-suite bathrooms and shaded outdoor decks.\nThe camp’s main area is built on a slightly raised deck with impressive views, &amp; the ideal place from which to watch the passing parade of wildlife.  Evenings are spent around the crackling fire under the stars or in the traditional boma.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/linyanti-wildlife-reserve/linyanti-tented-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/linyanti-wildlife-reserve/linyanti-tented-camp"
+  },
+  {
+    "folderName": "safaris/botswana/linyanti-wildlife-reserve/savuti-camp",
+    "title": "SAVUTI CAMP",
+    "description": "Set in an isolated part of the Linyanti Concession along the Savute Channel, Savuti Camp has an ideal location – 17 kilometres downstream from the Zibadianja Lagoon, the source of the Savute Channel.  \nThe Channel stopped flowing between 1980 &amp; 2008; during this time it served as a corridor &amp; feeding ground for a wide variety of herbivores.  In 2008, the Savute Channel once more became a deep, clear waterway for animals to congregate &amp; drink, thus ensuring an abundance of game surrounding the camp &amp; front row seats for Savuti’s guests.\n\nAccommodation consists of 5 large walk-in tents, raised off the ground &amp; facing the Savute Channel.  All tents are spacious &amp; have en-suite bathrooms.  There is also an additional family tent, consisting of 2 inter-leading bedrooms, each with bathroom &amp; private entrance.\nThe main area includes a plunge pool, thatched dining area &amp; large viewing deck with boma, providing a breathtaking view of the teeming Savute Channel.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/linyanti-wildlife-reserve/savuti-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/linyanti-wildlife-reserve/savuti-camp"
+  },
+  {
+    "folderName": "safaris/botswana/makgadikgadi-pans/camp-kalahari",
+    "title": "CAMP KALAHARI",
+    "description": "Camp Kalahari is an authentic tented safari camp, located in the magnificent Makgadikgadi Pans area of Botswana.\nCamp Kalahari offers travellers a more affordable alternative to its luxurious sister camps:  Jack’s Camp &amp; San Camp.  The best time to visit is during the wet season when guests will have a good opportunity to see the zebra &amp; wildebeest migration as well as flamingos in their hundreds.\n\nThe lodge consists of 12 comfortable Meru-styled tents – each equipped with an en-suite bathroom.  Two of these tents make up a family tent, comprising of 2 bedrooms &amp; a joined bathroom.  Each tent is furnished with rich textiles, Moroccan kilims &amp; four-poster beds.\nThe main area features a traditional thatched lounge, library, dining room &amp; sparkling swimming pool for cooling off on warm summer days.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/makgadikgadi-pans/camp-kalahari",
+    "isFolder": false,
+    "url": "/safaris/botswana/makgadikgadi-pans/camp-kalahari"
+  },
+  {
+    "folderName": "safaris/botswana/makgadikgadi-pans/jacks-camp",
+    "title": "JACK’S CAMP",
+    "description": "Jack’s Camp, an authentic &amp; luxurious camp is set in a private concession on the border of the Makgadikgadi Pans of Botswana.\nSurrounded by desert &amp; salt pans, Jack’s Camp provides a unique safari experience that cannot be found anywhere else in the country.  It is the only camp in Africa with a swimming pool tent, &amp; one of a few that offers exciting Meerkat encounters.\n\nAccommodation is in 10 beautiful canvas tents, decorated in a classic 1940’s safari style.  Each tent is equipped with an en-suite bathroom boasting an indoor &amp; outdoor shower.  The tent decks offer spectacular views over the desert, along with gorgeous sunrises &amp; sunsets.\nThe central guest area consists of a comfortable lounge &amp; bar area overlooking the salt pans as well as a cosy fireplace &amp; sparkling swimming pool.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/makgadikgadi-pans/jacks-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/makgadikgadi-pans/jacks-camp"
+  },
+  {
+    "folderName": "safaris/botswana/makgadikgadi-pans/leroo-la-tau",
+    "title": "LEROO LA TAU",
+    "description": "Leroo La Tau is situated in the Makgadikgadi Pans National Park.  Raised majestically above the Boteti River, guests have an opportunity to view the bush from an elevated platform, allowing for unobstructed views of Africa’s wildlife.\nThe park, populated by up to 30,000 zebra and wildebeest closely accompanied by predators, offers guests the chance to experience the exhilaration of seeing large concentrations of game &amp; the resultant predator interaction.\n\nLeroo La Tau offers 12 thatched chalets overlooking the Makgadikgadi Pans National Park, each with beautiful en-suite bathrooms.  The main lodge offers a dining room, reading room &amp; bar as well as expansive wooden decks &amp; plunge pool – perfect for cooling off after a day out.  \nThe lodge also boasts a raised hide above the river where guests can enjoy spectacular wildlife sightings.  The hide is an ideal place to relax or simply read a book while listening to the sounds of the wild.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/makgadikgadi-pans/leroo-la-tau",
+    "isFolder": false,
+    "url": "/safaris/botswana/makgadikgadi-pans/leroo-la-tau"
+  },
+  {
+    "folderName": "safaris/botswana/makgadikgadi-pans/meno-a-kwena",
+    "title": "MENO A KWENA",
+    "description": "Meno a Kwena boasts a spectacular location on the Boteti River overlooking the Makgadikgadi Pans National Park – a completely contrasting location to the green &amp; lush Okavango Delta region.\nThe zebra migration is resident here for much of the year, &amp; in the dry season there is no other water around, so the Boteti River becomes the magnet for wildlife.\n\nThere are 8 double safari tents at Meno a Kwena, 6 of which are twin tents &amp; 2 are king tents.  Each twin tent is equipped with an indoor &amp; outdoor shower, whereas the king tents all have outdoor showers.  \nMeno a Kwena also has 2 family tents.  One of them accommodates a family of 5 with 1 king bed &amp; 3 single beds.  The second family tent can accommodate a family of 4, with 1 king bed &amp; 2 single beds.  Each tent is en-suite with indoor &amp; outdoor showers.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/makgadikgadi-pans/meno-a-kwena",
+    "isFolder": false,
+    "url": "/safaris/botswana/makgadikgadi-pans/meno-a-kwena"
+  },
+  {
+    "folderName": "safaris/botswana/makgadikgadi-pans/nxai-pan-camp",
+    "title": "NXAI PAN CAMP",
+    "description": "Nxai Pan Camp is located in the wildlife-rich Nxai Pan National Park, a unique reserve encompassing a fossilized lakebed &amp; the famous Baines’ Baobabs.\nHere, in the remote corners of Botswana, a unique mix of savannah &amp; Kalahari species can be found.  The biggest draw to the park is during summer when zebras migrate by the thousands to the area to drop their young – the second-largest land animal migration in Southern Africa.\n\nThe camp is located on the western edge of the fossil pan from which the camp takes its name.  \nWith spectacular views over the open grasslands of the pans, 9 environmentally designed en-suite rooms offer guests excellent game viewing opportunities from the comfort of their room.  One of these rooms includes an additional twin bedroom for family use.\nThe main camp area consists of a lounge, dining room &amp; viewing deck overlooking the permanent waterhole which draws a multitude of mammal species.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/makgadikgadi-pans/nxai-pan-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/makgadikgadi-pans/nxai-pan-camp"
+  },
+  {
+    "folderName": "safaris/botswana/makgadikgadi-pans/san-camp",
+    "title": "SAN CAMP",
+    "description": "San Camp, a romantic &amp; luxurious desert camp is set in a private concession on the border of the Makgadikgadi Pans of Botswana.\nWith only the desert &amp; salt pans as a backdrop, San Camp provides an opportunity for guests to get away from it all &amp; enjoy the solitude &amp; tranquillity that can only be found in the desert.\n\nA maximum of 14 guests is accommodated in 7 large, white canvas tents on slightly elevated wooden platforms, each equipped with an en-suite bathroom.  The views from the tent’s viewing decks are truly magnificent.\nThe lodge’s main area consists of an open-plan comfortable lounge, dining room, bar &amp; exercise pavilion.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/makgadikgadi-pans/san-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/makgadikgadi-pans/san-camp"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/belmond-khwai-river-lodge",
+    "title": "BELMOND KHWAI RIVER LODGE",
+    "description": "Belmond Khwai River Lodge nestles on the edge of a forest, overlooking the vast floodplains of the Moremi Wildlife Reserve &amp; offers excellent year-round game viewing.\nKnown for its exceptional range of big game, guests have an opportunity to view wildlife from the comfort of their private decks.\n\nThe camp consists of 14 luxury en-suite tents, all housed on wooden stilts, offering magnificent views &amp; gorgeous sunsets.  The large private decks are furnished with hammocks &amp; easy chairs, ideal for relaxing &amp; watching wildlife.  \nThere is also an exclusive private suite with a spacious deck, set away from the other rooms to ensure the utmost privacy.  \nEach tent or suite boasts an open-air double shower &amp; deep copper-framed Victorian bath, with only the tree canopy as a roof, allowing guests to further commune with nature.\nThe camp’s heated swimming pool is perfect for cooling off after a day out in the sun &amp; the open campfire is a popular place to gather under the beautiful African sky.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/belmond-khwai-river-lodge",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/belmond-khwai-river-lodge"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/camp-moremi",
+    "title": "CAMP MOREMI",
+    "description": "Peering out beneath giant ebony trees, Camp Moremi is situated on the magnificent Xaxanaka Lagoon in the heart of the Moremi Wildlife Reserve within the Okavango Delta.\nThis area is known to have the best game viewing in Botswana, with superb predator sightings &amp; excellent year-round birding.\n\nCamp Moremi provides only 11 African-style safari tents, each individually sited on a raised teak platform with private adjacent facilities &amp; viewing deck, most offering unsurpassed views of the Xakanaxa Lagoon.  \nThere is also a luxury family safari tent, consisting of 2 separate bedrooms, 2 bathrooms &amp; a private deck with beautiful views over the Moremi Game Reserve.  All tents are en-suite.\nAn elegant, elevated thatch &amp; timber structure serves as the main building comprising a main sitting area, wildlife reference library, dining room and cocktail bar - inviting a true sense of the African wilderness. \nOther facilities include a secluded swimming pool with sundeck &amp; thatched boma where brunch and high tea are served.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/camp-moremi",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/camp-moremi"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/camp-okuti",
+    "title": "CAMP OKUTI",
+    "description": "Camp Okuti lies alongside the Maunachira River which flows through the Xakanaxa Lagoon within the world-renowned Moremi Game Reserve.  \nSet in one of Botswana’s prime game viewing areas, Camp Okuti never fails to impress as it is the perfect combination of traditional safari &amp; elegant luxury.  Guests staying at Camp Okuti will be blown away by its unusual hut-type safari accommodation &amp; excellent game viewing.\n\nCamp Okuti has 5 curved “Masasas” (ancient tribal word for house of reeds), each with an en-suite bathroom, outdoor bush shower &amp; bath.  There are also 2 separate family “Masasas”, consisting of 2 rooms which share spacious bathroom facilities – ideal for families travelling with young children.\nThe outdoor boma area remains a favourite amongst guests who enjoy dining under the beautiful African skies.  Other facilities at camp include a lounge, library, swimming pool, bar &amp; gift shop.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/camp-okuti",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/camp-okuti"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/camp-xakanaxa",
+    "title": "CAMP XAKANAXA",
+    "description": "A sophisticated tented bush camp of note, Camp Xakanaxa is set in the lush northern region of the Moremi Game Reserve in the Okavango Delta.\nThis unique area is made up of permanent waterways, open savanna, dry woodlands &amp; seasonal floodplains, making this diverse region attractive to a variety of wildlife.\n\nAccommodation at Camp Xakanaxa consists of 12 luxury Meru-styled tents, each built on wooden stilts overlooking the beautiful Khwai River.  All tents are en-suite &amp; have private viewing decks with comfortable loungers.\nOne of these tents is a 2-bedroom / 2-bathroom unit connected by a private deck, ideal for families.\nConstructed of local timber, reed &amp; thatch, the stylish main building comprises an elegant lounge with a comprehensive library, dining room, expansive sun deck, plunge pool &amp; sala with a day bed as well as a fire deck set under giant Jackalberry trees.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/camp-xakanaxa",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/camp-xakanaxa"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/hyena-pan-camp",
+    "title": "HYENA PAN CAMP",
+    "description": "Hyena Pan Camp boasts a remarkable location in the 200,000-hectare Khwai Private Reserve next to the only permanent water source for miles around, ensuring top-notch wildlife viewing from the comfort of your viewing deck.\nDue to the camp’s lagoon-front location, it is a magnet for predators &amp; other wildlife, including elephant, buffalo &amp; hordes of plains game.\n\nWith only 8 beautifully appointed spacious tents, Hyena Pan Camp offers guests an intimate, comfortable &amp; welcoming safari experience.  Each tent is equipped with en-suite facilities &amp; solar-powered lighting to keep things eco-friendly.  \nThe camp’s main area consists of a dining deck, lounge &amp; swimming pool overlooking an active waterhole where plenty of animal activity takes place.  After the sun has set, the waterhole is illuminated so that guests can still enjoy the magic of the bush after dark.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/hyena-pan-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/hyena-pan-camp"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/khwai-bush-camp",
+    "title": "KHWAI BUSH CAMP",
+    "description": "Khwai Bush Camp is set in a private community-run concession on the eastern border of the world-renowned Moremi Game Reserve.\nThe Khwai River runs through the concession &amp; offers spectacular views into the untamed wilderness.  The Khwai area comprises varied ecosystems – from forests, grasslands, floodplains &amp; lagoons – offering one of the most consisting areas for wildlife encounters year-round. \nFamilies looking for a luxury Botswana safari will love Khwai Bush Camp since a variety of exciting kids activities are on offer.\n\nKhwai Bush Camp consists of 6 spacious thatched chalets, complete with comfortable beds &amp; en-suite bathrooms.  Two of these units are family chalets consisting of 2 bedrooms &amp; 2 en-suite bathrooms each.\nThe main area boasts a comfortable lounge, dining room, bar &amp; sparkling swimming pool where guests can spend afternoons relaxing while enjoying views over the serene floodplain surrounds.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/khwai-bush-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/khwai-bush-camp"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/khwai-leadwood-camp",
+    "title": "KHWAI LEADWOOD CAMP",
+    "description": "Khwai Leadwood Camp is set in a private community-run concession on the eastern border of the world-renowned Moremi Game Reserve.\nThe Khwai River runs through the concession &amp; forms a boundary between the reserve &amp; the community area, allowing for excellent wildlife viewing year-round.  Since the area is generally quite dry, the Khwai River is often the only water source for thirsty animals, allowing for a game-packed safari experience.\n\nKhwai Leadwood Camp consists of 6 spacious Meru-style tents, complete with comfortable beds &amp; en-suite bathrooms.  There is also a family unit for parents travelling with children.\nIn the main area, you will find a comfortable lounge, dining room, bar &amp; pool where guests can put up their feet &amp; relax after a day out in the bush.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/khwai-leadwood-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/khwai-leadwood-camp"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/little-machaba",
+    "title": "LITTLE MACHABA",
+    "description": "Little Machaba is situated in the wildlife-rich Khwai concession in the northeast Okavango adjacent to the Moremi Reserve.  \nThe camp is located on the same island as its sister camp - Machaba Camp but is run separately.  Guests staying at Little Machaba will enjoy a luxury Botswana safari in a 1950’s style setting.\nLittle Machaba is the epitome of an intimate &amp; personal safari experience.\n\nLittle Machaba boasts only 4 luxury tents, bringing the maximum capacity at camp to only 8 guests.  This camp set-up promises an intimate, luxury Botswana safari experience – &amp; also enables guests to book the entire camp exclusively so that their group or family can have a luxury safari experience of note.\nThe tents are built on raised decks that are linked to a pathway that winds through the riverine trees.  Each classic tent has an en-suite bathroom, patio deck &amp; relaxation area as well as a romantic outdoor bathtub &amp; shower.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/little-machaba",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/little-machaba"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/little-mombo",
+    "title": "LITTLE MOMBO",
+    "description": "Little Mombo is located on the famous Chief’s Island in the Moremi Wildlife Reserve in Botswana.  The camp is built under a shady canopy of jackalberry &amp; sausage trees &amp; shares the same island as its sister camp, Mombo, overlooking a floodplain that is host to an astonishing variety of wildlife.\nDue to the abundance of wildlife frequently seen here, the Mombo wildlife area has been given the name “Place of Plenty.”  It is also home to the Botswana Rhino Reintroduction Project.\nLittle Mombo is the epitome of a premier Botswana safari experience where luxury &amp; amazing wildlife viewing take centre stage.\n\nThis intimate, premier camp boasts only 4 luxury suites tucked away under a shady canopy of jackalberry &amp; sausage trees, overlooking a floodplain regularly visited by herds of herbivores &amp; their predators.\nEach suite is designed with luxury in mind &amp; enjoys spectacular views over the floodplains, huge four-poster bed, en-suite bathroom, outdoor shower &amp; private sala for midday siestas.\nThe main area includes a dining room, bar &amp; lounge.  Little Mombo shares a spa, gym &amp; lap pool with Mombo.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/little-mombo",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/little-mombo"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/machaba-camp",
+    "title": "MACHABA CAMP",
+    "description": "Machaba Camp is a colonial-style tented camp nestling in the wildlife-rich Khwai area in the northeastern section of the world-famous Okavango Delta, sharing a westerly border with the Moremi Game Reserve.\nThe camp combines tented luxury &amp; amazing wildlife opportunities, ensuring a wonderful safari experience from start to finish.  Decorated in an understated 1950’s colonial style, Machaba Camp is the perfect choice for the discerning traveller.\nGuests will enjoy excellent river views, an abundance of game &amp; superb fine dining.\n\nMachaba Camp boasts 10 beautifully appointed luxury tented suites that are connected by a footpath that winds its way under shady trees to the main lodge.  Each tented suite has a spacious en-suite bathroom &amp; private verandah with uninterrupted views of the passing wildlife.\nThere are also 2 luxury family tented suites, each sleeping 4 people.  The family suites each have a central lounge area &amp; shared bathroom.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/machaba-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/machaba-camp"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/mankwe-tented-retreat",
+    "title": "MANKWE TENTED RETREAT",
+    "description": "Mankwe Tented Retreat boasts an unbeatable setting in a private concession on the doorstep of the game-rich Moremi Game Reserve.\nThe retreat is tucked away in a grove of mopane trees &amp; mysterious woodlands, offering guests the best of both land &amp; water-based safari activities.\nSmall &amp; intimate, Mankwe Tented Retreat is an oasis for the safari soul in search for a tranquil atmosphere - away from crowds.\n\nThe retreat features 10 tented suites that are built on raised wooden platforms, each with an en-suite bathroom &amp; a private viewing deck overlooking the surrounding wilderness.\nThe main lodge houses 2 sparkling swimming pools, a dining area, a small boma &amp; a lounge/reading area branching off from the meandering walkway, offering a complete sense of privacy.  \nThere is also a small spa room for relaxing post-safari treatments. (Bookings have to be made in advance.)",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/mankwe-tented-retreat",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/mankwe-tented-retreat"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/mma-dinare",
+    "title": "MMA DINARE",
+    "description": "Mma Dinare boasts a spectacular setting in a private concession, adjacent to the Moremi Game Reserve on the southeastern side of the Okavango Delta.  \nOverlooking the Gomoti River &amp; its floodplains, this eco-friendly camp offers its guests beautiful views &amp; wonderful game viewing opportunities from the comfort of your viewing deck.\n\nMma Dinare comprises 8 classic en-suite tents as well as a 2-bedroom family tent with a shared bathroom.  Each luxury tent is set on a raised wooden deck &amp; features a cosy lounge &amp; a secluded veranda, providing uninterrupted views over the bush.  \nThe spacious main area consists of a dining area, lounge with open-air boma &amp; swimming pool where guests can cool off &amp; relax after a day out in the bush.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/mma-dinare",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/mma-dinare"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/mombo-camp",
+    "title": "MOMBO CAMP",
+    "description": "Mombo Camp is located within the Mombo Concession on the tip of Chief’s Island within the Okavango Delta’s Moremi Game Reserve.\nEveryone knows that this area boasts enormous concentrations of plains game &amp; predators – providing the best game viewing in all of Africa.  Black &amp; white rhino have been reintroduced to the region, so guests have the privilege of seeing the Big 5 up, close &amp; personal.\n\nThe camp is built under large, shady trees overlooking the game-packed floodplains.  \nMombo Camp comprises 9 luxurious tents, each with an en-suite bathroom, private plunge pool as well as indoor &amp; outdoor shower.  Two of these tents make up a 2-bedroom family unit.\nThe main living &amp; dining areas are under thatch, but a traditional open-air boma allows for an outdoor dining experience of note.  In the main area, you will find a bar, pool, gym &amp; library.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/mombo-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/mombo-camp"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/moremi-crossing",
+    "title": "MOREMI CROSSING",
+    "description": "Moremi Crossing is a luxury tented camp built on a palm-fringed island surrounded by the Moremi’s game-rich seasonal floodplains &amp; overlooking Chief’s Island.  \nThe eco-friendly camp combines luxury with simplicity &amp; boasts spectacular views over the Boro River onto Chief’s Island.\n\nAccommodation consists of 16 en-suite spacious tents on raised decks, each with an eco-friendly shower heated by solar power &amp; veranda overlooking the bush.  There is also a 2-bedroom family tent &amp; a honeymoon tent with a romantic outdoor bath.\nMoremi Crossing’s crescent-shaped main area consists of a large open plan deck looking out over the Boro River &amp; Chief’s Island.  \nThere is also a dining room, bar &amp; lounge as well as various small private lounge areas, created with privacy in mind.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/moremi-crossing",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/moremi-crossing"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/pelo-camp",
+    "title": "PELO CAMP",
+    "description": "As the name suggests, Pelo means ‘heart’ in Setswana, &amp; from the air, the island on which this beautiful camp is situated appears heart-shaped.  \nPelo Camp has been designed to respect the environment, so this light-footprint eco-friendly camp is built from natural materials, operating on 100% solar power &amp; offering low-impact carbon-neutral activities.\n\nAccommodation at Pelo Camp consists of only 5 spacious tents looking out over the surrounding water.  Each tent boasts an en-suite bathroom &amp; veranda offering beautiful views over the bush.\nThe main area comprises a tented dining area &amp; lounge situated under impressive jackalberry &amp; mahogany trees.   The raised viewing platform built onto an old anthill provides uninterrupted views over the wild.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/pelo-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/pelo-camp"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/qorokwe-camp",
+    "title": "QOROKWE CAMP",
+    "description": "Fittingly, the name Qorokwe means “the place where the buffalo broke through the bush into the water,” evoking the high-density game area in which this camp is situated. \nDue to the mix of habitats that lie between its western &amp; eastern borders, this region is a magnet for wildlife.\nQorokwe Camp is a blend of eco-chic within a beautiful Okavango Delta setting &amp; attracts good concentrations of larger predators – lion, leopard, spotted hyena, cheetah &amp; wild dog.  Elephant herds are also frequently spotted here.\n\nThe camp combines a contemporary style with a classic bush feel.  It has 8 tented suites as well as 1 spacious family unit with a private plunge pool.  All tents have en-suite bathrooms.\nThe entire camp, including the spacious main area, enjoy wonderful views over the lagoon.  There is also an infinity pool where guests can put up their feet or relax after a day out in the bush.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/qorokwe-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/qorokwe-camp"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/rra-dinare",
+    "title": "RRA DINARE",
+    "description": "Rra Dinare (meaning “Father Buffalo”) lies on a private concession adjacent to the Moremi Game Reserve in the southeastern side of the Delta, an area with varied &amp; exciting game viewing.\nWith beautiful views over the Gomoti River &amp; floodplains, Rra Dinare’s scenic setting enjoys a steady stream of wildlife throughout the day.\n\nTraditional &amp; unassuming, but comfortable, Rra Dinare boasts 8 spacious tents, each consisting of a private lounge area with a secluded veranda &amp; en-suite bathroom. \nThe tents are each equipped with a large outdoor deck area, so guests can enjoy excellent game viewing opportunities from the comfort of their rooms.\nThe main area consists of a dining room, bar area &amp; sparkling swimming pool.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/rra-dinare",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/rra-dinare"
+  },
+  {
+    "folderName": "safaris/botswana/moremi-game-reserve/sable-alley-camp",
+    "title": "SABLE ALLEY CAMP",
+    "description": "Sable Alley Camp is set within one of Botswana’s best-kept secrets:  The Khwai Private Concession, offering one of Africa’s greatest &amp; most exclusive safari experiences. \nLocated on the banks of a lily-covered lagoon that attracts a variety of wildlife like hippo, elephant &amp; buffalo, big game literally comes to you at Sable Alley Camp.\n\nThis small &amp; intimate camp offers 10 luxury tents, each equipped with an en-suite bathroom, romantic outdoor shower &amp; raised deck with a private veranda.  \nHoneymooners will be happy to stay in their honeymoon tent, also equipped with an en-suite bathroom, outdoor shower &amp; extra large verandah with day beds.\nThere are also 2 family units, each consisting of 2 tents with 1 king-size bed &amp; 2 single beds, with their own bathrooms, but connected with a shared stairway &amp; deck.\nSable Alley’s main area comprises a beautiful dining room, bar area &amp; swimming pool.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/botswana/moremi-game-reserve/sable-alley-camp",
+    "isFolder": false,
+    "url": "/safaris/botswana/moremi-game-reserve/sable-alley-camp"
   }
 ]
