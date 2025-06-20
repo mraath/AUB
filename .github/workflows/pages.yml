@@ -21,7 +21,7 @@ jobs:
       - name: Rewrite image URLs in HTML files
         run: |
           find . -type f -name '*.html' | while read file; do
-            sed -i -E 's#src=["'\'']([^"'\'']*optimized-images/)([^"'\'']+)["'\'']#src="./AUB/optimized-images/\L\2"#g' "$file"
+            sed -i -E 's#["'\'']([^"'\'']*/optimized-images/)([^"'\'']+)["'\'']#"/AUB/optimized-images/\L\2"#g' "$file"
           done
 
       - name: Setup Pages
