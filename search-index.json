@@ -122,7 +122,7 @@
   {
     "folderName": "test2",
     "title": "TEST2",
-    "description": "TEST2\n\nA bucket list experience\nSee wildlife up close in a natural setting\nEscape to nature\nEnjoy a wide range of safari activities\nDrink a G&T while watching the sunset\nCapture amazing moments",
+    "description": "TEST\n\nA bucket list experience\nSee wildlife up close in a natural setting\nEscape to nature\nEnjoy a wide range of safari activities\nDrink a G&T while watching the sunset\nCapture amazing moments",
     "image": "optimized-images/default.webp",
     "type": "page",
     "path": "test2",
