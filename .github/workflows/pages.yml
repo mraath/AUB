@@ -3,7 +3,7 @@ name: Force url case and base Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - del
 
 permissions:
   id-token: write
