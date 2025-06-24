@@ -3,7 +3,7 @@ name: Optimize ALL images
 on:
   push:
     branches:
-      - del
+      - main
 
 permissions:
   id-token: write
