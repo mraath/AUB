@@ -1,0 +1,177 @@
+
+
+/* .articleTitle {
+  font-size: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+} */
+
+.articleWrapper {
+  margin: 2rem auto;
+  padding-bottom: 30px;
+  /* max-width: 1200px; */
+}
+
+
+.articleContent {
+  column-count: 3;
+  column-gap: 2.5rem;
+  text-align: left;
+  /* line-height: 1.6; */
+  color: #777;
+  font-family: Montserrat, serif;
+
+  column-fill: balance;
+  column-gap: 4em;
+  column-rule: 1px dotted #ddd;
+  /* line-height: 30px; */
+
+  color: #777;
+  font-size: 1.4rem;
+  line-height: 24px;
+
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+
+.articleContent p {
+  margin-bottom: 1em;
+}
+
+.firstArticleSection  p:first-of-type::first-letter {
+  /* initial-letter: 2;
+  -webkit-initial-letter: 2;
+  padding-right: .1em;
+  font-size: 3em; */
+  font-size: 6rem;
+  text-transform: uppercase;
+  border-radius: 2px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-right: 0;
+  float: left;
+}
+
+.articleContent h4 {
+  break-after: avoid;
+  -webkit-column-break-after: avoid;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  /* font-size: 1.2em; */
+  font-weight: 600;
+  line-height: 1.4rem;
+}
+
+.articleContent h4 + p {
+  break-before: avoid;
+  -webkit-column-break-before: avoid;
+}
+
+@media (max-width: 1024px) {
+  .articleContent {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 768px) {
+  .articleContent {
+    column-count: 1;
+  }
+  
+  .firstArticleSection  p:first-of-type::first-letter {
+    font-size: 3em;
+  }
+}
+
+.articleContent a {
+  font-weight: bolder;
+  cursor: pointer;
+  text-decoration: none;
+  color: #777;
+}
+
+.articleContent a:hover {
+  color: #000!important;
+  font-weight: 700!important
+}
+
+.articleContent h3 {
+  /* text-transform: capitalize; */
+  padding-top: 15px;
+  column-span: all;
+  text-align: center;
+  /* margin-top: 1em;
+  margin-bottom: 1em; */
+  break-after: column;
+  -webkit-column-break-after: column;
+}
+
+/* Optional: Adjust margin for the paragraph immediately following the h3 */
+.articleContent h3 + h4 {
+  margin-top: 0; 
+}
+
+.alternate {
+  background: red;
+  /* Add padding or other styles as needed */
+  padding: 1em;
+}
+
+.articleContent h5 {
+  font-family: SpecialFirst, Special, GiselliaSignature, sans-serif;
+  font-size: 3rem !important;
+}
+
+/* NEW MULTI PART */
+.articleContainerDefault {
+  width: 100%;
+  padding: 2rem 0; /* Add vertical padding as needed */
+  background-color: #f0f0f0; /* Example default background */
+  padding-bottom: 45px;
+}
+
+.articleContainerWhite {
+  width: 100%;
+  padding: 2rem 0; /* Add vertical padding as needed */
+  background-color: white;
+  padding-bottom: 45px;
+}
+
+.articleContentWrapper {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;  /* Add horizontal padding if needed */
+  padding-right: 1rem; /* Add horizontal padding if needed */
+}
+
+/* Optional: Add styling for elements within the content */
+.articleContentWrapper h3 {
+  /* Your H3 styles */
+  margin-top: 0; /* Adjust margins if splitting adds extra space */
+  text-transform: capitalize; /* Your original request */
+}
+
+.articleContentWrapper p {
+ /* Your paragraph styles */
+}
+
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto; /* Centers it horizontally */
+  padding: 0; /* Remove padding */
+  overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+.htmlYouTube {
+  /* column-span: all; */
+  /* width: 100%; */
+  margin-top: 20px;
+  /* margin-bottom: -24px; */
+  /* position: relative; */
+  /* padding-bottom: 56.25%; */
+  height: 49vw;
+  overflow: hidden;
+}
