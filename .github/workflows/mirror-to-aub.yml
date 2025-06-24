@@ -18,11 +18,12 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          git config core.autocrlf false
+          git config core.fileMode false
           git clone -b main https://x-access-token:${AUB_ACCESS_TOKEN}@github.com/mraath/AUB.git aub-repo
-          rsync -av --exclude='.git' ./ aub-repo/
+          rsync -av --exclude='.git' --checksum ./ aub-repo/
           cd aub-repo
 
-          # Find all staged changes
           git add .
           changed_files=$(git diff --cached --name-only)
           if [ -z "$changed_files" ]; then
