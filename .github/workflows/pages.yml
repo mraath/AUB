@@ -21,7 +21,7 @@ jobs:
         env:
           CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
           DELETED_FILES: ${{ steps.changed-files.outputs.deleted_files }}
-          FORCE_OPTIMIZE_ALL: ${{ env.FORCE_OPTIMIZE_ALL }}
+          FORCE_OPTIMIZE_ALL: 1
         run: |
           if [ "$FORCE_OPTIMIZE_ALL" = "1" ]; then
             echo "Forcing optimization of ALL images in content/..."
