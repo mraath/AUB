@@ -1,0 +1,18 @@
+.article {
+  width: 100%;
+  padding: 20px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.h3class {
+  margin-bottom: 30px;
+}
+
+.content {
+  line-height: 1.6;
+}

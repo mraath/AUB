@@ -48,5 +48,9 @@ package-lock.json
 package-lock.json
 
 # images optimised
+public/optimized-images/
+public/content/
 package-lock.json
 
+# Static pages
+public/legacy-page/*
