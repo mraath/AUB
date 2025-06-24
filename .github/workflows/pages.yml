@@ -1,4 +1,4 @@
-name: Force url case and base Deploy to GitHub Pages
+name: Optimize ALL images
 
 on:
   push:
@@ -13,7 +13,8 @@ permissions:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-
+    env:
+      FORCE_OPTIMIZE_ALL: 1
     steps:
       - name: Run Image Optimizer
         if: steps.changed-files.outputs.any_changed == 'true' || steps.changed-files.outputs.any_deleted == 'true' || env.FORCE_OPTIMIZE_ALL == '1'
