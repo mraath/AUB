@@ -1,0 +1,17 @@
+.container1 {
+  /* width: 98%; */
+  /* max-width: 1280px; */
+  margin: 0 auto;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  font-family: Montserrat, sans-serif;
+  font-size: 1.1rem;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  letter-spacing: 3.63px;
+  line-height: 23px;
+  /* padding: 1em; */
+  height: 9rem;
+}
