@@ -1,0 +1,693 @@
+/* Base Layout & Section */
+.container {
+  /* Styles for the overall container, adjust if needed */
+  /* padding: 20px; Example padding */
+  max-width: 550px; /* Limit width like legacy */
+  margin: 120px auto 40px auto; /* Top margin like legacy .area, auto horizontal */
+  position: absolute;
+  top: 0px;
+  /* width: 500px; */
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: Montserrat, serif;
+
+}
+
+.area {
+  /* This might not be needed if .container handles positioning */
+  /* display: flex;
+  flex-direction: column;
+  justify-items: center;
+  justify-content: flex-start;
+  min-height: 457px;
+  align-self: flex-start;
+  margin-top: 120px; */
+}
+
+.contactusform {
+  border: 1px solid silver;
+  padding: 15px;
+  border-radius: 15px;
+  width: 100%; /* Take full width of container */
+  background: #fff;
+  min-height: 457px; /* Keep min-height */
+  margin-bottom: 20px; /* Add space between sections */
+  width: 515px;
+}
+
+.section {
+  
+
+}
+
+.sectionlast {
+  padding-bottom: 12px; /* Specific padding from legacy */
+}
+
+/* Typography & Headings */
+.h4class {
+  font-family: Montserrat, serif;
+  font-weight: 700;
+  font-size: 1.8rem;
+  color: #000;
+  letter-spacing: 0;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  position: inherit;
+  text-shadow: 0 0 0 #333;
+}
+
+.choose {
+  /* Combined with h4class in legacy, can be added if needed */
+  /* font-size: 1.8rem; */
+  /* margin-bottom: 6px; */
+}
+
+/* Rows and Columns */
+.row {
+  display: flex;
+  align-content: center;
+  align-items: baseline;
+  margin-bottom: 10px; /* Add some spacing between rows */
+}
+
+.flexrow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center; /* Center items like legacy */
+}
+
+.colleft {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  justify-items: center;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  padding-right: 10px; /* Add spacing */
+  min-width: 39%;
+}
+
+.colright {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  justify-items: center;
+  width: 60%;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+/* Specific Row Types */
+.daterow {
+  height: 40px; /* From legacy */
+  margin-bottom: 15px;
+}
+
+.stylerow {
+  height: 65px; /* From legacy */
+  margin-bottom: 15px;
+}
+
+.contactrow {
+  min-height: 30px; /* From legacy */
+  margin-bottom: 5px;
+}
+
+/* Buttons & Interactive Elements */
+.btnsmall {
+  width: 35px;
+  height: 35px;
+  border: 1px solid silver;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 5px 0px 5px 0px;
+  font-weight: 700;
+  display: flex; /* Center content */
+  align-items: center; /* Center content */
+  justify-content: center; /* Center content */
+  -webkit-user-select: none; /* Safari */
+  user-select: none; /* From .noselect */
+}
+
+.btnmore {
+  background: #41b0b3a1;
+  color: #ebebd3;
+}
+
+.noleftmargin {
+  margin-left: 0; /* From legacy */
+}
+
+.noselect {
+  -webkit-user-select: none; /* Safari */
+  user-select: none;
+}
+
+/* Step 1: Destinations */
+.destinations label {
+  width: 110px;
+  height: 40px;
+  border: 1px solid silver;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin: 5px;
+  font-size: 1.4rem; /* Adjust for readability */
+  text-align: center;
+  transition: background-color 0.2s, color 0.2s; /* Add transition */
+}
+
+.destinations input[type="checkbox"]:checked + label { /* Use + selector */
+  background: #41b0b3a1;
+  color: #ebebd3;
+}
+
+/* Step 2: Travelers */
+.numberwidth {
+  width: 25px; /* Slightly wider */
+  text-align: center;
+  font-size: 1.4rem;
+  margin: 0 5px; /* Add spacing */
+}
+
+.peoplelabel {
+  width: 95px !important; /* From legacy */
+  margin-left: 0 !important; /* From legacy */
+  color: #555;
+  font-size: 1.4rem;
+
+}
+
+/* Step 3: Dates */
+.dates input[type="date"] {
+  border: 1px solid silver;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 3px 5px;
+  width: 140px;
+  height: 30px; /* Adjust height */
+  font-family: Montserrat, serif;
+  font-size: 1.4rem; /* Adjust font size */
+  color: #7b7777;
+  /* Basic date picker icon styling if needed */
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAASAAAAEgARslrPgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAB5SURBVDiN7ZQxCsAgDEN9/6e7G89gISIZCSHqFnzPewEgKkFr/A8kQH8CgKkFrfE/kAD9CQCmFrTGPyAB+hMApja0xj8gAfobAKY2tMY/IAH6GwCmNrTGPyAB+hsApja0xj8gAfobAKY2tMY/IAH6GwCmtrQG/wARiAX+ARAvAbEAAAAASUVORK5CYII='); /* Simple calendar icon */
+  background-position: 97% 50%;
+  background-repeat: no-repeat;
+}
+
+.dates input[type="date"]::-webkit-inner-spin-button,
+.dates input[type="date"]::-webkit-calendar-picker-indicator {
+  opacity: 0; /* Hide default indicators */
+  cursor: pointer; /* Ensure cursor changes */
+  width: 100%; /* Make clickable area cover input */
+}
+
+.date {
+  font-size: 1.4rem;
+  margin-top: 5px;
+}
+
+.travellabel {
+  width: 95px !important; /* From legacy */
+  margin-left: 0 !important; /* From legacy */
+  font-size: 1.4rem;
+  color: #555;
+  /* margin-top: 18px !important; From legacy - might not be needed */
+}
+
+/* Step 4: Style */
+.radiocontainer {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 1.4rem; /* Adjusted */
+  -webkit-user-select: none; /* Safari */
+  user-select: none;
+  min-height: 25px; /* Ensure space */
+  display: flex; /* Align label text */
+  align-items: center; /* Align label text */
+}
+
+.radiocontainer input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.radiocheckmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+  /* margin-top: -10px; From legacy - adjust alignment instead */
+  transition: background-color 0.2s;
+}
+
+.radiocontainer:hover input ~ .radiocheckmark {
+  background-color: #ccc;
+}
+
+.radiocontainer input:checked ~ .radiocheckmark {
+  background-color: #41b0b3a1;
+}
+
+.radiocheckmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+  top: 9px; /* Center dot */
+  left: 9px; /* Center dot */
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+
+.radiocontainer input:checked ~ .radiocheckmark:after {
+  display: block;
+}
+
+.styleHeading {
+  font-size: 1.4rem; /* Adjusted */
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.stylePrice {
+  font-size: 1.2rem; /* Adjusted */
+  color: #555;
+  margin-bottom: 2px;
+}
+
+.stylePP {
+  font-size: 0.8rem; /* Adjusted */
+  color: #777;
+}
+
+.styleDescription {
+  font-size: 1.4rem;
+  color: #333;
+  padding-left: 10px; /* Space between radio and text */
+}
+
+/* Step 5: Contact & Verify */
+.colleftrow {
+  flex-direction: row !important; /* From legacy */
+  align-items: center; /* Align text and asterisk */
+  font-size: 1.4rem;
+  color: #555;
+}
+
+.contact input[type="text"],
+.contact input[type="email"],
+.contact input[type="tel"],
+.tellmore textarea {
+  border: 1px solid silver;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 5px 8px; /* Adjusted padding */
+  width: 100%; /* Full width within colright */
+  font-family: Montserrat, serif;
+  font-size: 1.4rem; /* Adjusted */
+  color: #7b7777;
+  box-sizing: border-box; /* Include padding in width */
+  height: 25px; /* Consistent height */
+}
+
+.tellmore textarea {
+  resize: none; /* From legacy */
+  height: 70px; /* From legacy */
+}
+
+.verify input[type="text"] {
+  width: 185px; /* From legacy */
+}
+
+.typecode {
+  font-size: 1rem;
+  margin: 0 5px; /* From legacy */
+  color: #555;
+}
+
+.verificationImage {
+  border: 1px solid #ccc;
+  margin-left: 0px;
+  vertical-align: middle;
+  width: 65px;
+}
+
+/* Error Handling */
+.errorline {
+  border: 1px solid #ff2525 !important; /* From legacy */
+}
+
+.errorMessage {
+  color: #ff2525;
+  font-size: 1rem;
+  /* margin-top: 4px; */
+  /* margin-bottom: 10px; */
+  display: block;
+  margin-left: 7px;
+  width: 100%;
+}
+
+.errorverify {
+  margin-top: -5px;
+  margin-left: 5px;
+  margin-bottom: -5px;
+}
+
+.required {
+  font-size: 1.4rem; /* From legacy */
+  color: #ff2525; /* Make asterisk red */
+  margin-left: 3px;
+  font-weight: bold;
+}
+
+.errorRequired {
+  /* color: #ff2525; From legacy - already handled by .required */
+  /* font-weight: 700; From legacy - already handled by .required */
+}
+
+.flexrow label {
+  width: 110px;
+  height: 40px;
+  border: 1px solid silver;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin: 5px;
+  font-size: 1.4rem;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.flexrow input[type="checkbox"]:checked + label {
+  background: #41b0b3a1;
+  color: #ebebd3;
+}
+
+
+
+/* Navigation & Progress */
+.navigationButtons {
+  display: flex;
+    justify-content: space-between;
+    /* margin-top: 20px; */
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+    align-items: baseline;
+}
+
+.rowspace {
+  /* Container for prev/next buttons in legacy */
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 15px; /* Adjusted from -65px */
+}
+
+.rowend {
+  /* Container for progress indicator in legacy */
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.progress {
+  font-size: 10px;
+    color: #888;
+    position: absolute;
+    bottom: 35px;
+}
+
+.prevButton {
+  /* Inherit from btnsmall, add specific styles if needed */
+  margin-right: 20px;
+}
+
+.nextButton {
+  /* Inherit from btnsmall and btnmore */
+}
+
+.submitButton {
+  background-color: #eb534d; /* Legacy .btn color */
+  border: none;
+  color: #fff;
+  padding: 10px 20px; /* Adjusted padding */
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.1rem; /* Adjusted */
+  margin: 20px auto 5px auto; /* Center button */
+  opacity: 0.9;
+  transition: opacity 0.3s;
+  cursor: pointer;
+  border-radius: 5px;
+  display: block; /* Center using margin auto */
+  min-width: 150px;
+}
+
+.submitButton:hover {
+  opacity: 1;
+}
+
+.submitButton:disabled {
+  background-color: gray; /* Legacy .invalidform */
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+/* Submission Result */
+.submissionResult {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.messageContent {
+  font-family: Montserrat, serif;
+  font-size: 1.4rem;
+  line-height: 1.6;
+  padding: 20px;
+  margin: 15px 0;
+}
+
+.messageContent .h4class {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.messageContent a {
+  color: #777;
+  text-decoration: none;
+  transition: color 0.2s ease;
+  font-weight: bolder;
+
+}
+
+.messageContent a:hover {
+  color: #eb534d;
+}
+
+.messageContent br {
+  display: block;
+  margin: 15px 0;
+  content: "";
+}
+
+.submissionSuccess {
+  /* color: inherit; */
+  /* background: none; */
+  /* border: none; */
+  line-height: 1.3;
+  border: 1px solid silver;
+  padding: 15px;
+  border-radius: 15px;
+  width: 100%; /* Take full width of container */
+  background: #fff;
+  min-height: 457px; /* Keep min-height */
+  margin-bottom: 20px; /* Add space between sections */
+  width: 515px;
+}
+
+.submissionError {
+  color: #cc0000;
+  background: #f7e6e6;
+  border: 1px solid #e6b3b3;
+  border-radius: 5px;
+}
+
+.sent {
+  /* Legacy class for success message area */
+  padding-bottom: 30px;
+}
+
+/* Media Queries (Simplified from legacy) */
+@media (max-width: 550px) {
+  .container {
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0px;
+    height: 100vh;
+    width: 100%;
+    /* width: 100vw; */
+    /* top: 0; */
+    /* left: 0;*/
+  }
+
+  .contactusform {
+    border: 0px solid silver;
+    padding: 80px 15px 15px 15px;
+    border-radius: 0px;
+    margin: 0px;
+    max-height: 100%;
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+  }
+
+  .navigationButtons {
+    bottom: 50px;
+  }
+
+  
+
+  .section {
+    /* width: 90vw; Use 100% of container instead */
+    min-height: auto; /* Allow height to adjust */
+    padding: 10px;
+  }
+
+  .h4class {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .colleft {
+    width: 40%;
+    padding-right: 0;
+    margin-bottom: 10px;
+  }
+  .colright {
+    width: 60%;
+    padding-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .row {
+    align-items: center; /* Stretch items */
+  }
+
+  .colright {
+    align-items: center; /* Align items left */
+  }
+
+  
+
+  .peoplelabel,
+  .travellabel,
+  .colleftrow {
+    width: 37% !important;
+    margin-bottom: 5px;
+  }
+
+  .dates input[type="date"] {
+    width: 100%;
+  }
+
+  .daterow {
+    height: auto;
+    margin-bottom: 20px;
+  }
+
+  .stylerow {
+    height: auto;
+    margin-bottom: 20px;
+    align-items: baseline;
+  }
+
+  .styleHeading {
+    width: 100%;
+    padding-left: 0;
+    margin-bottom: 5px;
+  }
+  .stylePrice {
+    padding-left: 0;
+  }
+  .stylePP {
+    padding-left: 0;
+  }
+  .radiocontainer {
+    padding-left: 30px; /* Adjust */
+  }
+  .radiocheckmark {
+    left: 0;
+  }
+  .styleDescription {
+    padding-left: 5px;
+  }
+
+  .contactrow {
+    min-height: auto;
+    margin-bottom: 0px;
+  }
+
+  .typecode {
+    margin: -10px 0px;
+  }
+
+  .contact input[type="text"],
+  .contact input[type="email"],
+  .contact input[type="tel"],
+  .tellmore textarea,
+  .verify input[type="text"] {
+    width: 100%;
+    font-size: 1.4rem;
+  }
+
+  .contacttext {
+    font-size: 1.4rem;
+  }
+
+  .verificationContainer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .verify input[type="text"] {
+    margin-bottom: 10px;
+  }
+
+  .verificationImage {
+    margin-left: 0;
+    margin-top: 9px;
+  }
+}
+
+@media (max-width: 380px) {
+  /* .destinations label {
+    width: calc(50% - 8px);
+    height: 35px;
+    font-size: 0.75rem;
+  } */
+}
