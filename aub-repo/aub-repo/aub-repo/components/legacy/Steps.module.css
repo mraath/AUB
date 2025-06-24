@@ -1,0 +1,25 @@
+.stepsGrid {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  margin: 2rem auto;
+  max-width: 1200px;
+  gap: 2rem;
+}
+
+.stepItem {
+  flex: 1;
+  text-align: center;
+  max-width: 300px;
+}
+
+@media (max-width: 768px) {
+  .stepsGrid {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .stepItem {
+    margin-bottom: 2rem;
+  }
+}
