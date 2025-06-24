@@ -310,7 +310,9 @@ try {
             const imageFile = imageFiles.find(file => /\.(jpg|jpeg|png|gif)$/i.test(file));
             if (imageFile) {
               const baseName = path.basename(imageFile, path.extname(imageFile));
-              cardImage = ['content', ...params.slug, folderName, `${baseName}.webp`]
+              const ext = path.extname(imageFile);
+              // config.basePath
+              cardImage = ['content', ...params.slug, folderName, `${baseName}.${ext}`]
                 .join('/');
             }
           } catch (error) {
@@ -367,7 +369,8 @@ try {
               const imageFile = imageFiles.find(file => /\.(jpg|jpeg|png|gif)$/i.test(file));
               if (imageFile) {
                 const baseName = path.basename(imageFile, path.extname(imageFile));
-                cardImage = ['content', ...params.slug.slice(0, -1), folderName, `${baseName}.webp`]
+                const ext = path.extname(imageFile);
+                cardImage = ['content', ...params.slug.slice(0, -1), folderName, `${baseName}.${ext}`]
                   .join('/');
               }
             } catch (error) {
@@ -448,7 +451,8 @@ if (params.slug.length > 1) {
                 // Fix: Don't clean the whole path, only clean the segments
                 const cleanedCategory = cleanPath(category);
                 const cleanedBaseName = cleanPath(baseName);
-                cardImage = `content/${cleanedCategory}/${cleanedBaseName}.webp`;
+                const ext = path.extname(imageFile);
+                cardImage = `content/${cleanedCategory}/${cleanedBaseName}.${ext}`;
               }
             } catch (error) {
               console.error(`Error reading category image directory for ${category}:`, error);
@@ -499,7 +503,8 @@ if (params.slug.length > 1) {
                   .map(segment => cleanPath(segment))
                   .join('/');
                 const cleanedBaseName = cleanPath(baseName);
-                cardImage = `content/${cleanedPath}/${cleanedBaseName}.webp`;
+                const ext = path.extname(imageFile);
+                cardImage = `content/${cleanedPath}/${cleanedBaseName}.${ext}`;
               }
             } catch (error) {
               console.error('Error reading folder image directory:', error);
