@@ -15,23 +15,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout branch
-        uses: actions/checkout@v3
-
-      - name: Rewrite image URLs in HTML files
+      - name: Run Image Optimizer
+        if: steps.changed-files.outputs.any_changed == 'true' || steps.changed-files.outputs.any_deleted == 'true' || env.FORCE_OPTIMIZE_ALL == '1'
+        env:
+          CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+          DELETED_FILES: ${{ steps.changed-files.outputs.deleted_files }}
+          FORCE_OPTIMIZE_ALL: ${{ env.FORCE_OPTIMIZE_ALL }}
         run: |
-          find . -type f -name '*.html' | while read file; do
-            sed -i -E 's#["'\'']([^"'\'']*/optimized-images/)([^"'\'']+)["'\'']#"/AUB/optimized-images/\L\2"#g' "$file"
+          if [ "$FORCE_OPTIMIZE_ALL" = "1" ]; then
+            echo "Forcing optimization of ALL images in content/..."
+            find content -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" -o -iname "*.webp" \) > changed-files.txt
+            > deleted-files.txt
+          else
+            echo -e "${CHANGED_FILES}" > changed-files.txt
+            echo -e "${DELETED_FILES}" > deleted-files.txt
+          fi
+
+          echo "Contents of changed-files.txt:"
+          cat changed-files.txt || echo "Empty changed-files.txt"
+          echo "Contents of deleted-files.txt:"
+          cat deleted-files.txt || echo "Empty deleted-files.txt"
+
+          # Batch processing: split file list and process each batch
+          split -l 100 changed-files.txt batch_
+          for batch in batch_*; do
+            echo "Optimizing batch $batch..."
+            node --max-old-space-size=4096 scripts/optimize-images.js $(cat "$batch") || { echo "optimize-images.js failed for $batch"; exit 1; }
           done
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: '.'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          echo "Optimized images:"
+          ls -R optimized-images-temp || echo "No optimized-images-temp files"
