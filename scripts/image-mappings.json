@@ -1,0 +1,6 @@
+{
+  "test2/1.1": "images/test2/1.1",
+  "../copy": "images/../copy",
+  "../2.jpg\n": "images/../2.jpg\n",
+  "../3.jpg\n": "images/../3.jpg\n"
+}

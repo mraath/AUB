@@ -1,0 +1,31 @@
+SEARCH
+WHY SEARCH?
+6 REASONS TO SEARCH
+Africa is on everyone’s Bucket List! And rightly so.
+SPECTACULAR WILDLIFE
+If you are coming this far, you should experience it all. Breathtaking scenery, spectacular wildlife, pristine beaches & vibrant cultures.
+CUSTOM DESIGNED
+Leave the planning to us. Our dedicated team will custom design your holiday from beginning to end, allowing you time to dream.
+FIRST-HAND KNOWLEDGE
+We travel the length & breadth of Africa to provide you with first-hand knowledge, professional travel tips & exceptional service.
+At SEARCH we love to make dreams come true - so sit back, relax & allow us to do just that.
+Come to Africa... And Unwind.
+H1: h1
+H2: h2
+H3: h3
+Page Title: pagetitle
+Alt Text 1: alt1
+Alt Text 2: alt2
+Alt Text 3: alt3
+Alt Text 4: alt4
+Alt Text 5: alt5
+Alt Text 6: alt6
+Alt Text 7: alt7
+Alt Text 8: alt8
+Meta Description: meta
+Rel=canonical: true
+Schema.org: 
+{
+    "@context": "https://schema.org"
+    /* Replace this json object with the real one */
+}
