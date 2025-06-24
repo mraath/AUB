@@ -1,0 +1,121 @@
+.areacontainer {
+  text-align: center;
+  background-color: #efefef;
+  color: #000;
+}
+
+.area {
+  max-width: 1280px;
+  text-align: center;
+  display: inline-block;
+  padding-bottom: 50px;
+}
+
+.gridContainer {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: auto auto;
+}
+
+.gridItem {
+  text-align: center;
+  font-size: 3rem;
+}
+
+.steps {
+  padding: 0 19px 19px;
+  font-size: 1.7rem;
+  letter-spacing: 6.6px;
+  line-height: 39.93px;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none solid #000;
+  word-spacing: 0;
+}
+
+.whyus {
+  padding: 0 19px 35px;
+  font-size: 1.1rem;
+  letter-spacing: 2px;
+  line-height: 22px;
+  text-align: center;
+  text-decoration: none solid #000;
+  word-spacing: 0;
+}
+
+.gridHeader {
+  font-size: 17px;
+}
+
+.h3class {
+  margin-bottom: 0;
+}
+
+.center {
+  text-align: center;
+}
+
+.coverheading {
+  background-color: transparent;
+  padding: 25px 0;
+}
+
+/* Grid positioning */
+.item6 { grid-column: 1; grid-row: 1; }
+.item7 { grid-column: 2; grid-row: 1; }
+.item8 { grid-column: 3; grid-row: 1; }
+.item9 { grid-column: 4; grid-row: 1; }
+.item11 { grid-column: 1; grid-row: 2; }
+.item12 { grid-column: 2; grid-row: 2; }
+.item13 { grid-column: 3; grid-row: 2; }
+.item14 { grid-column: 4; grid-row: 2; }
+
+@media (max-width: 1000px) {
+  .area {
+    max-width: 640px;
+  }
+  
+  .gridContainer {
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto auto auto auto;
+  }
+
+  .item8 { grid-column: 1; grid-row: 3; }
+  .item9 { grid-column: 2; grid-row: 3; }
+  .item13 { grid-column: 1; grid-row: 4; }
+  .item14 { grid-column: 2; grid-row: 4; }
+}
+
+@media (max-width: 500px) {
+  .area {
+    max-width: 320px;
+  }
+  
+  .gridContainer {
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(8, auto);
+  }
+
+  .gridItem {
+    margin-right: 0;
+  }
+
+  .item6 { grid-column: 1; grid-row: 1; }
+  .item11 { grid-column: 1; grid-row: 2; }
+  .item7 { grid-column: 1; grid-row: 3; }
+  .item12 { grid-column: 1; grid-row: 4; }
+  .item8 { grid-column: 1; grid-row: 5; }
+  .item13 { grid-column: 1; grid-row: 6; }
+  .item9 { grid-column: 1; grid-row: 7; }
+  .item14 { grid-column: 1; grid-row: 8; }
+}
+
+@media (max-width: 320px) {
+  .area {
+    max-width: 100%;
+  }
+  
+  .gridHeader {
+    font-size: calc(8px + (17 - 8) * ((100vw - 100px) / (280 - 100)));
+  }
+}
