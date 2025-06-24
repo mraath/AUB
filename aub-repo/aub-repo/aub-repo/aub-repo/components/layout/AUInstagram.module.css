@@ -1,0 +1,39 @@
+.instagramTitle {
+  font-size: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.instagramGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+  margin: 2rem auto;
+  max-width: 1200px;
+  padding: 0 1rem;
+}
+
+.instagramImage {
+  position: relative;
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+
+.instagramImage img {
+  transition: transform 0.3s ease;
+}
+
+.instagramImage:hover img {
+  transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+  .instagramGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .instagramTitle {
+    font-size: 2rem;
+  }
+}
