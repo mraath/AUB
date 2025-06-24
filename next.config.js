@@ -5,8 +5,8 @@ const isProd = process.env.NODE_ENV = 'production';
 const nextConfig = {
   output: 'export', // Makes Next.js produce static HTML/CSS/JS
   reactStrictMode: true,
-  basePath: isProd ? '/AUB' | '', // IMPORTANT: Matches your repository name
-  assetPrefix: isProd ? '/AUB/' | '', // IMPORTANT: Matches your repository name with trailing slash
+  basePath: isProd ? '/AUB' : '', // IMPORTANT: Matches your repository name
+  assetPrefix: isProd ? '/AUB/' : '', // IMPORTANT: Matches your repository name with trailing slash
   images: {
     unoptimized: true, // Often needed for static export
   },
