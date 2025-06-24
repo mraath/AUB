@@ -1,0 +1,32 @@
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto; /* Centers it horizontally */
+  padding: 0; /* Remove padding */
+  overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+.backgroundgrey {
+  background-color: #efefef;
+}
+
+.w100 {
+  width: 100%;
+  text-align: center;
+}
+
+.pt15 {
+  padding-top: 15px;
+}
+
+.pb45 {
+  padding-bottom: 45px;
+}
+
+.mb45 {
+  margin-bottom: 45px;
+}
+
+.pink {
+  background-color: #eb534d !important;
+}
