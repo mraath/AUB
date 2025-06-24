@@ -1,0 +1,354 @@
+/* Menu.css - Complete CSS based on Angular project files */
+
+/* Global resets and font from styles.scss */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Ubuntu, sans-serif; /* Or your desired font */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Ubuntu, sans-serif;
+}
+
+/* App component CSS - might contain general layout styles */
+/* From app.component.css - minimal, but included for completeness */
+
+
+/* Styles from menu.component.css - Menu specific styles */
+.main-nav { /* Renamed to .site-nav to match Navigation.js and avoid conflict with original .main-nav from simpler menu */
+  display: flex; /* Already in original menu.component.css, but might be overridden, so kept for clarity */
+  justify-content: center; /* Center the menu items horizontally - already present */
+  background-color: #f8f8f8; /* Light grey background - already present */
+}
+
+
+/* styles.scss - Global styles that are very important for layout and appearance */
+
+/* Container and Grid system (from styles.scss - very important for layout) */
+.container1 {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 576px) {
+  .container1 {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container1 {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container1 {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container1 {
+    max-width: 1140px;
+  }
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap; /* Added to ensure responsiveness */
+  margin-right: -15px;
+  margin-left: -15px;
+  width: auto; /* Added to ensure proper width */
+}
+
+.gridspacer {
+  padding-right: 15px;
+  padding-left: 15px;
+  flex-basis: auto;
+  flex-grow: 1;
+  max-width: 100%;
+}
+
+
+/* Logo Styles (from styles.scss) */
+.containerlogo {
+  padding-right: 15px;
+  padding-left: 15px;
+  flex: 0 0 33.33333%; /* Adjust as needed for logo width */
+  max-width: 33.33333%; /* Adjust as needed for logo width */
+}
+
+.h1class.logo {
+  font-size: 1.75rem;
+  line-height: 2rem;
+  font-weight: 700;
+  /* Other logo styles from styles.scss - if any, add here */
+}
+
+.h1class.logo a {
+  text-decoration: none; /* Remove underline from logo link */
+  color: inherit; /* Inherit color from parent */
+}
+
+
+/* Navigation Styles (from styles.scss and menu.component.css combined and adapted) */
+.navigation {
+  padding-right: 15px;
+  padding-left: 15px;
+  flex: 0 0 58.33333%; /* Adjust as needed for navigation width */
+  max-width: 58.33333%; /* Adjust as needed for navigation width */
+  display: flex;
+  justify-content: flex-end; /* Align navigation to the right */
+}
+
+
+.site-nav { /* Renamed from main-nav - consistent with Navigation.js */
+  display: flex; /* Ensure it's flex for alignment */
+  justify-content: flex-end; /* Align menu items to the right within site-nav */
+  background-color: transparent; /* Make background transparent if needed, or adjust */
+}
+
+.site-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex; /* Horizontal menu items */
+  align-items: center; /* Vertically align menu items */
+  justify-content: flex-end; /* Ensure items align to the right */
+}
+
+.site-nav li {
+  margin: 0 0 0 20px; /* Spacing between menu items - adjust as needed */
+  position: relative; /* For submenu positioning */
+}
+
+.site-nav a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: #333; /* Dark grey text color - adjust if needed */
+  font-size: 1rem; /* Adjust font size if needed */
+}
+
+
+/* "Let's Plan" Button Styles (from styles.scss and Navigation.js) */
+.round-text {
+  padding-right: 15px;
+  padding-left: 15px;
+  flex: 0 0 auto; /* auto width */
+  max-width: none; /* No max width */
+  display: flex; /* For centering content if needed */
+  align-items: center; /* Vertically center button */
+}
+
+
+.plan.round {
+  border-radius: 25px;
+  background-color: #e0e0e0; /* Example background color - adjust */
+  padding: 10px 20px; /* Adjust padding */
+  text-align: center;
+  white-space: nowrap; /* Prevent text wrapping */
+}
+
+.plan .button {
+  color: #333; /* Example button text color - adjust */
+  text-decoration: none; /* Remove underline from button link */
+  font-weight: bold; /* Make button text bold */
+  display: inline-block; /* Or block if you want it to fill width */
+}
+
+/* Hover and Active States (from menu.component.css and adjusted) */
+.nav-item.active a,
+.site-nav li.active a { /* Apply active style to li or nav-item with 'active' class */
+  font-weight: bold;
+  color: #007bff; /* Example active link color - adjust */
+}
+
+.nav-item a:hover,
+.site-nav li a:hover,
+.plan .button:hover { /* Added hover for button too */
+    color: #0056b3;
+    background-color: #eee; /* Lighter grey background on hover for visual feedback */
+}
+
+
+/* Mega Dropdown Styles (from Navigation.js and adapted - needs more styling from your project if available) */
+.mega-drop-down .submenu {
+  display: none; /* Hidden by default */
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 15px;
+  min-width: 600px; /* Example width - adjust */
+  z-index: 100;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1); /* Example shadow for dropdown */
+}
+
+.mega-drop-down:hover .submenu {
+  display: block; /* Show on hover */
+}
+
+.submenu-item {
+  margin-bottom: 15px; /* Spacing between submenu sections */
+}
+
+.flexrow {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px; /* Spacing between title rows */
+}
+
+.h2class.submenu-title,
+.h2class.submenu-title-half {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.h2class.submenu-title-half {
+  width: 48%; /* Example for two columns side-by-side */
+}
+
+.submenu-top {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.submenu-top-item {
+  margin-bottom: 8px; /* Spacing between submenu links */
+}
+
+.submenu-top-item a {
+  display: block;
+  padding: 8px 0;
+  text-decoration: none;
+  color: #555; /* Example submenu link color */
+}
+
+/* Search Icon Styles (from Navigation.js - assuming Font Awesome is used) */
+.wrapper {
+  padding-right: 15px;
+  padding-left: 15px;
+  flex: 0 0 auto; /* auto width */
+  max-width: none; /* No max width */
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  /* Styles for the container around the search icon */
+}
+
+.icon-items.icon-1 {
+  /* Styles for the search icon - you might need to adjust based on your Font Awesome setup */
+  font-size: 1.5rem; /* Example icon size - adjust */
+  color: #777; /* Example icon color - adjust */
+}
+.icon-items.icon-1 i { /* targeting the i element inside */
+  cursor: pointer; /* Indicate it's clickable */
+}
+
+
+/* Listar/Star Item Style (from Navigation.js) */
+.li.listar {
+  display: flex;
+  align-items: center; /* Vertically center star */
+}
+
+.star i {
+  color: gold; /* Example star color */
+  font-size: 1.2rem; /* Example star size */
+}
+
+
+/* Menu Toggle (Hamburger) Styles - basic styling, needs more for functionality */
+.menu-toggle {
+  display: none; /* Hidden by default on larger screens - you'll need to control visibility with media queries and JS for responsiveness */
+  padding-right: 15px;
+  padding-left: 15px;
+  flex: 0 0 auto;
+  max-width: none;
+  cursor: pointer;
+}
+
+.hamburger {
+  width: 30px;
+  height: 3px;
+  background-color: #333; /* Example hamburger color */
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+
+/* --- Media Query for Responsive Design (Example - adjust breakpoints as needed) --- */
+@media (max-width: 991px) { /* Example breakpoint - adjust */
+  .navigation {
+    display: none; /* Hide full navigation on smaller screens - you'll control this with JS for mobile menu toggle */
+  }
+  .menu-toggle {
+    display: block; /* Show hamburger menu toggle on smaller screens */
+  }
+  .containerlogo {
+    flex: 1; /* Let logo take up more space on mobile */
+    max-width: 100%; /* Full width for logo area on mobile */
+  }
+  .round-text { /* Adjust "Let's Plan" button on mobile if needed */
+    display: none; /* Example: hide button on mobile, or adjust styling */
+  }
+  .container1 {
+    flex-direction: row-reverse; /* Example: swap logo and actions order on mobile */
+    justify-content: space-between; /* Ensure space between logo and toggle */
+  }
+  .grid {
+    flex-direction: column; /* Example: stack logo on top of other elements in grid if needed */
+  }
+
+  .site-nav ul {
+    flex-direction: column; /* Stack menu items vertically in mobile menu */
+    text-align: center; /* Center text in mobile menu */
+  }
+
+  .site-nav li {
+    margin: 10px 0; /* Add vertical spacing between mobile menu items */
+  }
+
+  .mega-drop-down .submenu {
+    position: relative; /* Adjust submenu positioning in mobile - maybe relative instead of absolute */
+    top: auto;
+    left: auto;
+    width: 100%; /* Full width submenu on mobile */
+    box-shadow: none; /* Remove shadow in mobile menu */
+    border: none; /* Remove border in mobile menu */
+  }
+  .mega-drop-down:hover .submenu, /* Consider removing hover on mobile, and use click to toggle in JS */
+  .mega-drop-down.active .submenu { /* Class 'active' might be used in JS to control mobile submenu toggle */
+    display: none; /* Or block if you implement mobile submenu toggle */
+  }
+
+}
+
+
+/* --- Additional Styling (You might need to adjust or add more based on your design) --- */
+
+/* Ensure header is visible - set basic height and display */
+header {
+  display: block; /* Ensure header is displayed */
+  width: 100%; /* Take full width */
+  position: absolute; /* Fixed position for sticky header */
+  z-index: 10;
+  /* Add other header styling as needed, like background color, padding, etc. if not already defined */
+}
