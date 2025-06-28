@@ -122,7 +122,7 @@
   {
     "folderName": "test2",
     "title": "TEST2",
-    "description": "TEST 10\n\nA bucket list experience\nSee wildlife up close in a natural setting\nEscape to nature\nEnjoy a wide range of safari activities\nDrink a G&T while watching the sunset\nCapture amazing moments",
+    "description": "WHHHHAAAAAA\n\nA bucket list experience\nSee wildlife up close in a natural setting\nEscape to nature\nEnjoy a wide range of safari activities\nDrink a G&T while watching the sunset\nCapture amazing moments",
     "image": "optimized-images/default.webp",
     "type": "page",
     "path": "test2",
@@ -610,6 +610,16 @@
     "url": "/islands/zanzibar"
   },
   {
+    "folderName": "safaris/Namibia",
+    "title": "NAMIBIA",
+    "description": "Namibia lies between the Kalahari & the Atlantic Ocean & offers its visitors dramatic, untouched scenery, beautiful stargazing & excellent photographic opportunities.\nIt is of course the impressive & incomparable red sand dunes of the Namib Desert that feature most on a Namibia safari itinerary. You can enjoy scenic hot air balloon flights over Sossusvlei’s dunes, go quad biking or even take a hike up to the much-photographed Dune 45 for breathtaking views.\nFurther stops should also include the mystical, shipwreck-strewn Skeleton Coast with its large Cape Fur seal colonies, the rugged & wild Damaraland where you will look for desert-adapted elephants in open 4x4 jeeps, the culturally rich Kunene region: home to the Himba people, & the game-packed Etosha National Park with its superb Big 5 wildlife encounters.\nEtosha is famous for its many waterholes that are scattered throughout the park – a well-watered answer to thirsty animals. Namibia has decent infrastructure & easy-to-access destinations, which means that you can enjoy luxurious fly-in safaris or rent a car & explore the country at your own pace.\n\nLuxurious lodges are tucked away in some of Namibia’s most remote regions. The country offers accommodation for all types of travellers – including exclusive, romantic hideaways, family-friendly lodges & luxury tented camps for the adventurous traveller.\nSince Namibia is all about dramatic scenery & open spaces – most lodges have been designed to enhance the beautiful views.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia",
+    "isFolder": false,
+    "url": "/safaris/Namibia"
+  },
+  {
     "folderName": "safaris/botswana",
     "title": "BOTSWANA",
     "description": "Botswana is – without a doubt – Africa’s prime wildlife destination. And it is no surprise to visitors when they get to experience this bucket-list destination for themselves.\nHome to the world-renowned Moremi Game Reserve & beautiful Okavango Delta with its maze of lagoons, channels & islands, Botswana offers action-packed wildlife viewing in a remote setting. Witness large herds of elephants in Chobe National Park, meet the meerkats in the Makgadikgadi Pans or go on walking safaris with a San bushman in the Kalahari.\nBotswana is all about seclusion – in fact, the only way to reach most of these camps is via small plane. Viewing the bush from a bird’s eye view is spectacular & often big game can be spotted from the air. Both land & water-based safari activities can be experienced in Botswana. Popular activities include open 4x4 game drives, guided walking safaris, mokoro trips in dug-out canoes, boating & fishing. Botswana also easily combines with a trip to the majestic Victoria Falls.\n\nUtterly remote & beautifully luxurious, Botswana offers a variety of tented camps & lodges to choose from. Most range from classic traditional safari camps to opulent bush suites, although a larger percentage of the camps in Botswana cater for the discerning traveller in search of an authentic, luxurious safari experience.",
@@ -638,16 +648,6 @@
     "path": "safaris/malawi",
     "isFolder": false,
     "url": "/safaris/malawi"
-  },
-  {
-    "folderName": "safaris/namibia",
-    "title": "NAMIBIA",
-    "description": "Namibia lies between the Kalahari & the Atlantic Ocean & offers its visitors dramatic, untouched scenery, beautiful stargazing & excellent photographic opportunities.\nIt is of course the impressive & incomparable red sand dunes of the Namib Desert that feature most on a Namibia safari itinerary. You can enjoy scenic hot air balloon flights over Sossusvlei’s dunes, go quad biking or even take a hike up to the much-photographed Dune 45 for breathtaking views.\nFurther stops should also include the mystical, shipwreck-strewn Skeleton Coast with its large Cape Fur seal colonies, the rugged & wild Damaraland where you will look for desert-adapted elephants in open 4x4 jeeps, the culturally rich Kunene region: home to the Himba people, & the game-packed Etosha National Park with its superb Big 5 wildlife encounters.\nEtosha is famous for its many waterholes that are scattered throughout the park – a well-watered answer to thirsty animals. Namibia has decent infrastructure & easy-to-access destinations, which means that you can enjoy luxurious fly-in safaris or rent a car & explore the country at your own pace.\n\nLuxurious lodges are tucked away in some of Namibia’s most remote regions. The country offers accommodation for all types of travellers – including exclusive, romantic hideaways, family-friendly lodges & luxury tented camps for the adventurous traveller.\nSince Namibia is all about dramatic scenery & open spaces – most lodges have been designed to enhance the beautiful views.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia",
-    "isFolder": false,
-    "url": "/safaris/namibia"
   },
   {
     "folderName": "safaris/rwanda",
@@ -3570,6 +3570,66 @@
     "url": "/islands/zanzibar/zuri-zanzibar"
   },
   {
+    "folderName": "safaris/Namibia/damaraland",
+    "title": "DAMARALAND",
+    "description": "Damaraland, situated amidst rugged mountains, holds its own unique charm within Namibia's wild heart.\nUnder a star-studded canopy, you'll be captivated by the dramatic, harsh landscape—acacia woodland &amp rolling grasslands stretching as far as the eye can see. The region's iconic desert-adapted elephants, elusive mountain zebras, black rhinos, &amp even lions roam freely. But the pièce de résistance is Twyfelfontein, a UNESCO World Heritage Site boasting around 5,000 ancient rock carvings &amp paintings. Crafted by Stone Age &amp Khoikhoi hunter-gatherers, this open-air gallery tells the story of Africa's fauna through the ages.\n\nBeyond Twyfelfontein, Damaraland offers a wealth of desert activities. Embark on open 4x4 game drives, guided nature walks, &amp captivating night drives, where a spotlight reveals the secrets of nocturnal creatures. Yet, it's not just about wildlife; the region exudes profound peace &amp tranquility, providing the perfect canvas for stargazing in the pristine desert environment.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/damaraland",
+    "isFolder": false,
+    "url": "/safaris/Namibia/damaraland"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park",
+    "title": "ETOSHA NATIONAL PARK",
+    "description": "Etosha National Park, spanning 23,000 square km, stands tall as one of Africa's top wildlife destinations. This haven is celebrated for its simplicity, safety, &amp rich game-viewing experiences in Southern Africa.\nWithin Etosha's boundaries resides the famed Big 5—lion, leopard, elephant, buffalo, &amp rhino, alongside the elusive cheetah &amp a myriad of other wildlife. Photographers find paradise here, thanks to numerous game-packed waterholes, where the wildlife spectacle never ends. With the flexibility of self-drive access, couples, honeymooners, &amp families can explore Namibia at their pace, culminating their journey with a safari in this premier wildlife destination.\n\nEtosha caters to diverse safari interests. Open 4x4 game drives &amp guided nature walks top the list. Witnessing waterhole gatherings is an unmissable highlight, with some camps offering photographic hides for close encounters with passing wildlife.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park"
+  },
+  {
+    "folderName": "safaris/Namibia/kunene",
+    "title": "KUNENE",
+    "description": "Nestled in northern Namibia, bordering Angola, the Kunene region beckons adventurers with its remote, untouched allure, almost isolated by its rugged terrain—a pristine jewel among Africa's safari destinations.\nKunene's remoteness is a defining feature, accessible solely by small aircraft, captivating travelers seeking a genuinely secluded &amp uncrowded safari. Amidst an otherwise harsh, arid landscape, the Kunene River carves an oasis-like haven, drawing nomadic wildlife from afar. This refuge boasts two remarkable waterfalls: Epupa, cascading against unique rock walls, &amp Ruacana, one of Africa's widest &amp most voluminous waterfalls. Amid this enchanting backdrop reside the Himba tribe, a unique people who lead a nomadic lifestyle &amp are known for their distinctive full-body skin treatment, safeguarding them from the African sun &amp adorning them in rich red hues.\n\nKunene offers diverse land and water-based activities, including dune excursions and responsible cultural encounters with the Himba people. These encounters may reveal the nomadic desert existence &amp survival strategies in this otherworldly landscape. Nature drives, hiking, quad biking, Kunene River boating safaris, &amp scenic desert picnics are also on the menu. Additionally, guests can partake in rafting, canoeing, fishing, swimming in rock pools, &amp bird watching.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/kunene",
+    "isFolder": false,
+    "url": "/safaris/Namibia/kunene"
+  },
+  {
+    "folderName": "safaris/Namibia/skeleton-coast",
+    "title": "SKELETON COST",
+    "description": "Namibia boasts a mystifying stretch of coastline, scattered with the ghosts of shipwrecks, extending from Swakopmund to the Angolan border. It's a place that has earned its enigmatic name – the Skeleton Coast.\nOnce a graveyard for ill-fated sailors whose vessels succumbed to the Atlantic's treacherous currents, ever-shifting sandbanks, and thick fog, the Skeleton Coast now stands as one of Namibia's most remote and captivating regions, promising surprises at every turn.\nThis untouched coastline unfolds with spectacular vistas that seamlessly blend desert, ocean, &amp sky. Here, nature's artwork paints the scene, &amp you'll encounter nearly 250 species of birds soaring through the azure sky. While exploring freshwater seeps, you might come across antelope species like gemsbok, kudu, &amp springbok, occasionally joined by the remarkable desert-adapted elephants.\nHowever, the most dramatic spectacle awaits at Cape Cross, where an astonishing 80,000 to 100,000 Cape fur seals call home. During the breeding season, between November &amp December, the shores welcome as many as 200,000 seals. It's also a prime time to witness predators like the brown hyena &amp black-backed jackal seizing opportunities in this dynamic ecosystem.\n\nThe Skeleton Coast is a treasure trove of unique and thrilling safari activities. Set off on scenic flights to seek out bleached whale bones &amp shipwrecks, revealing the maritime history that has shaped this coastline. Additionally, immerse yourself in the rich culture of the region with trips to meet the nomadic Himba people, renowned for their use of reddish-brown powder mixed with butter for their distinctive appearance.\nFor those seeking adventure, 4x4 drives lead you to encounters with desert-adapted wildlife, while day trips offer opportunities to witness the astounding Cape fur seal colonies &amp the Suiderkruis Shipwreck. As the day draws to a close, embark on sundowner drives to the resplendent, roaring sand dunes of the Namib Desert.\nThe thrill-seekers among us can partake in dune boarding and quad bike excursions, or simply savor romantic beachfront lunches amidst this natural wonderland.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/skeleton-coast",
+    "isFolder": false,
+    "url": "/safaris/Namibia/skeleton-coast"
+  },
+  {
+    "folderName": "safaris/Namibia/sossusvlei",
+    "title": "SOSSUSVLEI",
+    "description": "Sossusvlei, nestled at the heart of Namibia's renowned Namib Naukluft National Park, is unequivocally one of Namibia's premier safari destinations. Here, the landscape unfolds with sweeping, sinuous dunes that soar to a breathtaking 300 meters, creating one of the most astonishing sights on our planet.\nThe area boasts spectacular scenery, where the desert hues paint a mesmerizing canvas. It's often hailed by safari enthusiasts as a photographer's paradise, offering a plethora of opportunities to capture its captivating beauty. \nScattered throughout this captivating landscape, you'll find luxurious lodges that provide unparalleled views of the desert's remarkable setting. It's a place where you can bask in the lap of luxury while immersing yourself in the serenity of the desert.\nSossusvlei is uniquely accessible by road, making it an ideal addition to your self-drive holiday itinerary through Namibia. Without a doubt, it's a destination that merits a top spot on your bucket list.\n\nIn Sossusvlei, the list of activities is as extensive as the desert horizon is endless.\nGuests can embark on open 4x4 game drives &amp interpretive nature walks, allowing you to connect intimately with the unique flora &amp fauna of the region. Visits to the colossal sand dunes are a must, and a highlight of your adventure awaits as you hike up the iconic Dune 45, revealing awe-inspiring views over the ocean of red Namib sand.\nFor those seeking elevated experiences, scenic hot air balloon safaris offer a bird's-eye perspective of this surreal landscape. Alternatively, you can opt for horse-back adventures, tracing the footsteps of ancient nomads through this captivating desert. As night descends, indulge in stargazing evenings, immersing yourself in the mesmerizing celestial wonders of Sossusvlei.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/sossusvlei",
+    "isFolder": false,
+    "url": "/safaris/Namibia/sossusvlei"
+  },
+  {
+    "folderName": "safaris/Namibia/windhoek",
+    "title": "WINDHOEK",
+    "description": "Windhoek, Namibia's bustling capital, lies nestled in a picturesque valley, cradled by rolling mountains. It serves as a prominent gateway for tourists passing through the city, making it an essential stop on your Namibian adventure.\nWindhoek offers a unique blend of modern design &amp old-world charm, characterized by its well-preserved German colonial architecture. Accommodation choices here cater to every traveler, be it couples, honeymooners, families, or friends, ensuring a comfortable stay amidst the city's vibrant atmosphere.\nThe German influence is palpable, particularly in the realm of cuisine &amp, of course, the beer. Namibian beer is celebrated as one of Africa's finest, and its heart is in Windhoek, where it's meticulously brewed to perfection.\nKnown for its relaxed ambiance, Windhoek is an ideal stopover for self-drive holidaymakers exploring Namibia or travelers catching a connecting flight the next day.\n\nIn Windhoek, a myriad of activities awaits to enchant you.\nExplore the city's rich history through guided tours, allowing you to immerse yourself in its diverse culture &amp architecture. Sample the local brew at one of the charming sidewalk cafes or restaurants, savoring the flavors that make Namibian beer legendary.\nFor those seeking adventure, embark on horseback riding excursions or delve into the local culture with a visit to a nearby township. If your wanderlust extends beyond the city limits, Windhoek serves as an excellent launchpad for exploring the wonders of the surrounding region.\nVenture further afield to visit The Cheetah Conservation Park, a testament to Namibia's commitment to wildlife conservation. The pristine Namib Rand Natural Reserve &amp the ethereal Namib Desert beckon, promising awe-inspiring landscapes &amp remarkable desert exploration.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/windhoek",
+    "isFolder": false,
+    "url": "/safaris/Namibia/windhoek"
+  },
+  {
     "folderName": "safaris/botswana/chobe-national-park",
     "title": "CHOBE NATIONAL PARK",
     "description": "Chobe National Park, globally acclaimed as the 'home of elephants,' is a premier destination for those seeking an unforgettable Chobe National Park elephant safari experience. This remarkable park harbors Africa's largest congregation of wildlife, offering visitors unparalleled encounters with vast herds of elephants &amp buffaloes.\nIn fact, about 120,000 elephants live in &amp; around the national park, &amp; inconceivable numbers of these gentle giants can be seen crowding the banks of the Chobe River during Botswana’s dry season from May to October.\nHosting about 120,000 elephants, Chobe National Park presents an unparalleled opportunity for wildlife spotting in the dry season. During Botswana’s dry season from May to October, witness the majestic sight of elephants along the Chobe River. This park is also a hotspot for spotting predators like lions, leopards, wild dogs, hyenas, &amp jackals.\n\nThe Chobe River, the park's lifeblood, sets the stage for the best birdwatching tours in Chobe National Park &amp exclusive Chobe River sunset boat tours. Embark on guided 4x4 game drives in Chobe National Park, always in the company of expert rangers. For a more intimate experience with nature, partake in unique walking safari experiences in Chobe, Botswana.\nThe highlight for many visitors is the Chobe River boat safari photography opportunities, allowing for stunning wildlife shots. The park's birdlife is particularly rich, offering year-round birdwatching, with the Green Season being especially rewarding",
@@ -3728,66 +3788,6 @@
     "path": "safaris/malawi/majete-wildlife-reserve",
     "isFolder": false,
     "url": "/safaris/malawi/majete-wildlife-reserve"
-  },
-  {
-    "folderName": "safaris/namibia/damaraland",
-    "title": "DAMARALAND",
-    "description": "Damaraland, situated amidst rugged mountains, holds its own unique charm within Namibia's wild heart.\nUnder a star-studded canopy, you'll be captivated by the dramatic, harsh landscape—acacia woodland &amp rolling grasslands stretching as far as the eye can see. The region's iconic desert-adapted elephants, elusive mountain zebras, black rhinos, &amp even lions roam freely. But the pièce de résistance is Twyfelfontein, a UNESCO World Heritage Site boasting around 5,000 ancient rock carvings &amp paintings. Crafted by Stone Age &amp Khoikhoi hunter-gatherers, this open-air gallery tells the story of Africa's fauna through the ages.\n\nBeyond Twyfelfontein, Damaraland offers a wealth of desert activities. Embark on open 4x4 game drives, guided nature walks, &amp captivating night drives, where a spotlight reveals the secrets of nocturnal creatures. Yet, it's not just about wildlife; the region exudes profound peace &amp tranquility, providing the perfect canvas for stargazing in the pristine desert environment.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/damaraland",
-    "isFolder": false,
-    "url": "/safaris/namibia/damaraland"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park",
-    "title": "ETOSHA NATIONAL PARK",
-    "description": "Etosha National Park, spanning 23,000 square km, stands tall as one of Africa's top wildlife destinations. This haven is celebrated for its simplicity, safety, &amp rich game-viewing experiences in Southern Africa.\nWithin Etosha's boundaries resides the famed Big 5—lion, leopard, elephant, buffalo, &amp rhino, alongside the elusive cheetah &amp a myriad of other wildlife. Photographers find paradise here, thanks to numerous game-packed waterholes, where the wildlife spectacle never ends. With the flexibility of self-drive access, couples, honeymooners, &amp families can explore Namibia at their pace, culminating their journey with a safari in this premier wildlife destination.\n\nEtosha caters to diverse safari interests. Open 4x4 game drives &amp guided nature walks top the list. Witnessing waterhole gatherings is an unmissable highlight, with some camps offering photographic hides for close encounters with passing wildlife.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park"
-  },
-  {
-    "folderName": "safaris/namibia/kunene",
-    "title": "KUNENE",
-    "description": "Nestled in northern Namibia, bordering Angola, the Kunene region beckons adventurers with its remote, untouched allure, almost isolated by its rugged terrain—a pristine jewel among Africa's safari destinations.\nKunene's remoteness is a defining feature, accessible solely by small aircraft, captivating travelers seeking a genuinely secluded &amp uncrowded safari. Amidst an otherwise harsh, arid landscape, the Kunene River carves an oasis-like haven, drawing nomadic wildlife from afar. This refuge boasts two remarkable waterfalls: Epupa, cascading against unique rock walls, &amp Ruacana, one of Africa's widest &amp most voluminous waterfalls. Amid this enchanting backdrop reside the Himba tribe, a unique people who lead a nomadic lifestyle &amp are known for their distinctive full-body skin treatment, safeguarding them from the African sun &amp adorning them in rich red hues.\n\nKunene offers diverse land and water-based activities, including dune excursions and responsible cultural encounters with the Himba people. These encounters may reveal the nomadic desert existence &amp survival strategies in this otherworldly landscape. Nature drives, hiking, quad biking, Kunene River boating safaris, &amp scenic desert picnics are also on the menu. Additionally, guests can partake in rafting, canoeing, fishing, swimming in rock pools, &amp bird watching.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/kunene",
-    "isFolder": false,
-    "url": "/safaris/namibia/kunene"
-  },
-  {
-    "folderName": "safaris/namibia/skeleton-coast",
-    "title": "SKELETON COST",
-    "description": "Namibia boasts a mystifying stretch of coastline, scattered with the ghosts of shipwrecks, extending from Swakopmund to the Angolan border. It's a place that has earned its enigmatic name – the Skeleton Coast.\nOnce a graveyard for ill-fated sailors whose vessels succumbed to the Atlantic's treacherous currents, ever-shifting sandbanks, and thick fog, the Skeleton Coast now stands as one of Namibia's most remote and captivating regions, promising surprises at every turn.\nThis untouched coastline unfolds with spectacular vistas that seamlessly blend desert, ocean, &amp sky. Here, nature's artwork paints the scene, &amp you'll encounter nearly 250 species of birds soaring through the azure sky. While exploring freshwater seeps, you might come across antelope species like gemsbok, kudu, &amp springbok, occasionally joined by the remarkable desert-adapted elephants.\nHowever, the most dramatic spectacle awaits at Cape Cross, where an astonishing 80,000 to 100,000 Cape fur seals call home. During the breeding season, between November &amp December, the shores welcome as many as 200,000 seals. It's also a prime time to witness predators like the brown hyena &amp black-backed jackal seizing opportunities in this dynamic ecosystem.\n\nThe Skeleton Coast is a treasure trove of unique and thrilling safari activities. Set off on scenic flights to seek out bleached whale bones &amp shipwrecks, revealing the maritime history that has shaped this coastline. Additionally, immerse yourself in the rich culture of the region with trips to meet the nomadic Himba people, renowned for their use of reddish-brown powder mixed with butter for their distinctive appearance.\nFor those seeking adventure, 4x4 drives lead you to encounters with desert-adapted wildlife, while day trips offer opportunities to witness the astounding Cape fur seal colonies &amp the Suiderkruis Shipwreck. As the day draws to a close, embark on sundowner drives to the resplendent, roaring sand dunes of the Namib Desert.\nThe thrill-seekers among us can partake in dune boarding and quad bike excursions, or simply savor romantic beachfront lunches amidst this natural wonderland.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/skeleton-coast",
-    "isFolder": false,
-    "url": "/safaris/namibia/skeleton-coast"
-  },
-  {
-    "folderName": "safaris/namibia/sossusvlei",
-    "title": "SOSSUSVLEI",
-    "description": "Sossusvlei, nestled at the heart of Namibia's renowned Namib Naukluft National Park, is unequivocally one of Namibia's premier safari destinations. Here, the landscape unfolds with sweeping, sinuous dunes that soar to a breathtaking 300 meters, creating one of the most astonishing sights on our planet.\nThe area boasts spectacular scenery, where the desert hues paint a mesmerizing canvas. It's often hailed by safari enthusiasts as a photographer's paradise, offering a plethora of opportunities to capture its captivating beauty. \nScattered throughout this captivating landscape, you'll find luxurious lodges that provide unparalleled views of the desert's remarkable setting. It's a place where you can bask in the lap of luxury while immersing yourself in the serenity of the desert.\nSossusvlei is uniquely accessible by road, making it an ideal addition to your self-drive holiday itinerary through Namibia. Without a doubt, it's a destination that merits a top spot on your bucket list.\n\nIn Sossusvlei, the list of activities is as extensive as the desert horizon is endless.\nGuests can embark on open 4x4 game drives &amp interpretive nature walks, allowing you to connect intimately with the unique flora &amp fauna of the region. Visits to the colossal sand dunes are a must, and a highlight of your adventure awaits as you hike up the iconic Dune 45, revealing awe-inspiring views over the ocean of red Namib sand.\nFor those seeking elevated experiences, scenic hot air balloon safaris offer a bird's-eye perspective of this surreal landscape. Alternatively, you can opt for horse-back adventures, tracing the footsteps of ancient nomads through this captivating desert. As night descends, indulge in stargazing evenings, immersing yourself in the mesmerizing celestial wonders of Sossusvlei.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/sossusvlei",
-    "isFolder": false,
-    "url": "/safaris/namibia/sossusvlei"
-  },
-  {
-    "folderName": "safaris/namibia/windhoek",
-    "title": "WINDHOEK",
-    "description": "Windhoek, Namibia's bustling capital, lies nestled in a picturesque valley, cradled by rolling mountains. It serves as a prominent gateway for tourists passing through the city, making it an essential stop on your Namibian adventure.\nWindhoek offers a unique blend of modern design &amp old-world charm, characterized by its well-preserved German colonial architecture. Accommodation choices here cater to every traveler, be it couples, honeymooners, families, or friends, ensuring a comfortable stay amidst the city's vibrant atmosphere.\nThe German influence is palpable, particularly in the realm of cuisine &amp, of course, the beer. Namibian beer is celebrated as one of Africa's finest, and its heart is in Windhoek, where it's meticulously brewed to perfection.\nKnown for its relaxed ambiance, Windhoek is an ideal stopover for self-drive holidaymakers exploring Namibia or travelers catching a connecting flight the next day.\n\nIn Windhoek, a myriad of activities awaits to enchant you.\nExplore the city's rich history through guided tours, allowing you to immerse yourself in its diverse culture &amp architecture. Sample the local brew at one of the charming sidewalk cafes or restaurants, savoring the flavors that make Namibian beer legendary.\nFor those seeking adventure, embark on horseback riding excursions or delve into the local culture with a visit to a nearby township. If your wanderlust extends beyond the city limits, Windhoek serves as an excellent launchpad for exploring the wonders of the surrounding region.\nVenture further afield to visit The Cheetah Conservation Park, a testament to Namibia's commitment to wildlife conservation. The pristine Namib Rand Natural Reserve &amp the ethereal Namib Desert beckon, promising awe-inspiring landscapes &amp remarkable desert exploration.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/windhoek",
-    "isFolder": false,
-    "url": "/safaris/namibia/windhoek"
   },
   {
     "folderName": "safaris/rwanda/akagera-national-park",
@@ -4238,6 +4238,406 @@
     "path": "safaris/zimbabwe/victoria-falls",
     "isFolder": false,
     "url": "/safaris/zimbabwe/victoria-falls"
+  },
+  {
+    "folderName": "safaris/Namibia/damaraland/camp-kipwe",
+    "title": "CAMP KIPWE",
+    "description": "In the remote Twyfelfontein region of Namibia’s dramatic Damaraland, you will find the luxurious &amp; intimate Camp Kipwe.\nThe beautiful hut-styled camp is set amongst large boulders so that it blends in with the natural desert landscape.  \nTravellers looking for an off-the-beaten-track &amp; unique desert experience will fall in love with Camp Kipwe.\n\nThere are 9 elegant bungalows &amp; 1 suite – all offering spectacular views over the desert.\nThe bungalows have cave-like boulder, cement &amp; rock walls with outdoor decks to admire the view.  The en-suite open-air private bathrooms are built amongst the rocks, allowing guests to take advantage of the lovely weather.\nThe main area comprises a lounge, bar &amp; small plunge pool, offering 360-degree views over the desert.  Meals can be enjoyed under the thatched dining dome, outside in the boma or on your private wooden deck.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/damaraland/camp-kipwe",
+    "isFolder": false,
+    "url": "/safaris/Namibia/damaraland/camp-kipwe"
+  },
+  {
+    "folderName": "safaris/Namibia/damaraland/damaraland-camp",
+    "title": "DAMARALAND CAMP",
+    "description": "Damaraland Camp is situated in the Huab River Valley of Namibia, arguable the most pristine wilderness area in the country.  \nAs one of the country's most loved camps, Damaraland Camp offers sensational views over the surrounding desert, valleys &amp; mountains. \nDamaraland Camp is proud to present guests with an eco-friendly safari experience &amp; a wide range of exciting safari activities.\n\nThere are 9 luxury tents &amp; 1 family tent comprising of 2-bedrooms.\nEach en-suite tent is built on a raised wooden platform – part of which extends out to form a large viewing deck with magnificent views over the surrounding vistas.  \nThe main area consists of a spacious thatched lounge, dining room &amp; bar, complete with a fireplace for chilly winter evenings.  \nDinners are often prepared over an open fire &amp; served under the stars.  There is also a swimming pool &amp; outdoor boma where superb stargazing evenings can be enjoyed.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/damaraland/damaraland-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/damaraland/damaraland-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/damaraland/desert-rhino-camp",
+    "title": "DESERT RHINO CAMP",
+    "description": "Desert Rhino Camp lies in the 450,000 hectares Palmwag Concession in Namibia's Damaraland.  \nThis region is marked for its tranquil, minimalist beauty, wealth of desert-adapted wildlife &amp; the largest free-roaming black rhino population in Africa.\nDesert Rhino Camp enjoys magnificent views of the surrounding Etendeka Mountains.\n\nAccommodation at Desert Rhino Camp consists of 8 Meru-style canvas tents that sleep a maximum of 16 guests.  \nEach tent has been raised from the ground on a wooden deck &amp; features an en-suite bathroom with a shower.  \nThe main lodge area features a tented lounge &amp; dining room, also raised on a wooden deck – offering panoramic views through the tent's partially open sides.  \nDinners can be enjoyed al fresco around the firepit or on the deck.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/damaraland/desert-rhino-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/damaraland/desert-rhino-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/damaraland/doro-nawas-camp",
+    "title": "DORO NAWAS CAMP",
+    "description": "Doro Nawas Camp is tucked away in the dry Aba-Huab River Valley in central Damaraland &amp; commands magnificent mountain views to the north &amp; red sandstone cliffs of Twyfelfontein to the south.\nThe camp provides an excellent base for self-drive or fly-in guests wishing to explore one of Namibia's most remarkable areas. \n\nAccommodation at Doro Nawas consists of 15 chalets &amp; 1 two-bedroom family chalet, each built from natural stone, canvas, wood, glass &amp; thatch.  \nEach chalet has been carefully designed to blend into the surrounding scenery.  Completed by an en-suite bathroom with an outdoor shower &amp; bed with wheels that you can roll out to the verandah for romantic sleepouts, Doro Nawas provides the best in desert luxury.\nThe main area is perched on a rocky knoll &amp; offers unspoilt views over some of Namibia's most diverse &amp; dramatic landscapes.  There are indoor &amp; outdoor dining areas, a swimming pool, a bar &amp; a staircase to the roof where relaxing sundowners or stargazing can be enjoyed.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/damaraland/doro-nawas-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/damaraland/doro-nawas-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/damaraland/etendeka-mountain-camp",
+    "title": "ETENDEKA MOUNTAIN CAMP",
+    "description": "Amidst the raw &amp; natural beauty of dramatic Damaraland in Namibia, lies Etendeka Mountain Camp.\nRugged &amp; untouched Damaraland is a place of dramatic boulders, beautiful mountains &amp; an abundance of wildlife like African wildcats, aardwolves, mountain zebras &amp; even the Big 5. \nThe small &amp; intimate Etendeka Mountain Camp is popular among adventure-seekers who are looking for a special, off-the-beaten-track safari experience.\n\nWith only 10 Meru-style tents, Etendeka offers spectacular views over the desert landscape &amp; grazing wildlife.\nEach tent has a private patio &amp; an en-suite bathroom with an open-air bucket shower, flush toilet &amp; solar-heated water.\nThe main lodge area consists of a lounge, dining room, bar &amp; swimming pool – a favourite among travellers during the warm summer months.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/damaraland/etendeka-mountain-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/damaraland/etendeka-mountain-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/damaraland/hoanib-valley-camp",
+    "title": "HOANIB VALLEY CAMP",
+    "description": "The remote Hoanib Valley Camp boasts a spectacular setting in the unspoilt Sesfontein Community Conservation Area in Namibia’s Kaokoveld.\nThe Kaokoveld is one of Southern Africa’s last untouched wilderness areas &amp; home to a variety of wildlife, including the desert-adapted elephant, lion, oryx &amp; springbok.\nWith breathtaking views over the never-ending dunes &amp; picturesque Hoanib River Valley, a linear oasis of vegetation that runs through earth’s oldest wilderness – the Namib Desert – guests will be amazed at just how remote the camp’s location is.\n\nHoanib Valley Camp has 5 luxury tents as well as a 2-bedroom family tent, comprising of 2 adjoining tents.\nEach luxury tent has an en-suite bathroom &amp; private veranda that offers inviting views over the desert.  The family unit has 2 en-suite bedrooms with private verandas – ideal for 2 adults &amp; 2 children.\nThe communal area boasts an inviting tented lounge with a dining area where delicious dinners are served.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/damaraland/hoanib-valley-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/damaraland/hoanib-valley-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/damaraland/mowani-mountain-camp",
+    "title": "MOWANI MOUNTAIN CAMP",
+    "description": "Mowani Mountain Camp, as the name suggests, is perched on a high rock between a crescent of mountains in the Twyfelfontein Conservancy in Namibia.\nThis remote desert area is known for its frequent sightings of the rare black rhino &amp; the elusive desert elephant, making this one of Africa's most exciting safari destinations.\n\nMowani offers 12 view rooms (4 superior view rooms, 3 view rooms &amp; 5 standard rooms), 1 luxury room &amp; 2 suites.  All rooms have en-suite facilities.\nThe view rooms are built between large granite boulders &amp; offer uninterrupted views, private decks &amp; open-air bathrooms.\nThe luxury room boasts a private deck overlooking the valley.  It is situated close to the lodge &amp; is ideal for guests who are not too mobile.\nThe 2 suites have spectacular wrap-around views, private lounges, dining &amp; bar facilities where drinks are included.  A personal waiter will attend to guests’ needs &amp; requirements upon request.  These suites also feature outdoor bush baths &amp; showers with beautiful views over the desert.\nThe main area at Mowani Mountain Camp comprises a lounge, bar &amp; pool.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/damaraland/mowani-mountain-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/damaraland/mowani-mountain-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/anderssons-at-ongava",
+    "title": "ANDERSSON’S AT ONGAVA",
+    "description": "Andersson’s at Ongava is located in one of Africa’s largest game reserves – the Etosha National Park in Northern Namibia.  \nThis family-friendly camp offers sensational waterhole game viewing, with frequent sightings of the famous white &amp; black rhino, amongst a variety of other game.\n\nSet against the backdrop of a spectacular mountain range, Andersson’s offers breathtaking views over the reserve.  \nThere are 6 standard suites &amp; 1 family unit, built from a combination of wood &amp; stone in keeping with Etosha’s natural surroundings.  All have en-suite facilities &amp; private viewing decks with 180-degree panoramic views.\nEach suite has a double-door entrance &amp; a small verandah offering privacy &amp; seclusion.  The family unit comprises 2 suites connected by a raised boardwalk.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/anderssons-at-ongava",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/anderssons-at-ongava"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/little-ongava",
+    "title": "LITTLE ONGAVA",
+    "description": "Little Ongava is one of Namibia’s most luxurious &amp; exclusive safari camps.  Built on a rocky outcrop in the Ongava Game Reserve to the south of Etosha, the lodge provides awe-inspiring views over the reserve.\nThe Etosha National Park is one of Africa’s largest game parks &amp; boasts a variety of wildlife &amp; large herds of plains game.  The elusive black rhino can also be found here.\n\nLittle Ongava, as the name suggests, consists of only 3 spacious, luxurious &amp; private suites.  Here guests will experience remote exclusivity like nowhere else in the country.\nEach suite features a private plunge pool, a sala &amp; an en suite bathroom with both indoor &amp; outdoor showers for those wishing to get closer to nature.  The bath has a magnificent view over the surrounding reserve.  \nThe main lodge consists of a dining &amp; lounge area, both looking out over the waterhole below.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/little-ongava",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/little-ongava"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/mushara-bush-camp",
+    "title": "MUSHARA BUSH CAMP",
+    "description": "Mushara Bush Camp is located just 10km from the Von Lindequist Gate on the eastern boundary of Etosha National Park in northern Namibia.  \nAn ideal base for visitors to the reserve, Mushara Bush Camp welcomes families with children of all ages.  Friendly &amp; hospitable staff will go out of their way to make your stay special.\nThe name Mushara is derived from the Purple Pod Terminalia tree which grows abundantly on the lodge grounds &amp; in the surroundings.\n\nMushara Bush Camp consists of 12 tents &amp; 4 family units sleeping 2 adults &amp; 3 children each.\nEach of the en-suite tents is built from canvas, wood &amp; local limestone.  The very spacious private verandah allows for quiet afternoon reading &amp; the shower offers beautiful views of the surrounding bush.\nThe main house is thatched &amp; has a true bush camp feel to it.  Drinks are often served around the campfire where stories are shared &amp; friendships are formed.  All meals are served under the thatched verandah with the bush being a mere step away.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/mushara-bush-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/mushara-bush-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/mushara-lodge",
+    "title": "MUSHARA LODGE",
+    "description": "Mushara Lodge is located just 10km from the Von Lindequist Gate on the eastern boundary of Etosha National Park in northern Namibia.  \nAn ideal overnight stop for visitors to the reserve, Mushara Lodge welcomes families with children of all ages.  Friendly &amp; hospitable staff will go out of their way to make your stay special.\nThe name Mushara is derived from the Purple Pod Terminalia tree which grows abundantly on the lodge grounds &amp; in the surroundings.\n\nMushara Lodge consists of 10 en-suite luxury chalets &amp; 1 family house, ideal for families travelling with young children.  All chalets are arranged in a horseshoe shape around the swimming pool.\nThe spacious family house offers 2 bedrooms, each with an en-suite bathroom – making this an ideal option for families travelling with children.  The house can sleep a maximum of 4 guests.\nThe thatched main area includes a swimming pool, a small library with a great selection of books, a bar with an extensive wine cellar, an airy lounge with a fireplace &amp; a dining room.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/mushara-lodge",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/mushara-lodge"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/mushara-outpost",
+    "title": "MUSHARA OUTPOST",
+    "description": "Mushara Outpost is located just 10km from the Von Lindequist Gate on the eastern boundary of Etosha National Park in northern Namibia.  \nAn ideal base for visitors to the reserve, Mushara Outpost is a luxurious tented camp that is loved by honeymooners or couples looking for peace &amp; tranquillity.  The camp does not allow children under the age of 12.\nThe name Mushara is derived from the Purple Pod Terminalia tree which grows abundantly on the lodge grounds &amp; in the surroundings.\n\nMushara Outpost consists of 8 custom-designed wood &amp; canvas tents, each with an en-suite bathroom.\nAll tents are nestled on the banks of a dry riverbed &amp; mounted on a wooden deck 1.5 m above the ground, providing unobstructed views of the bush.  \nThe lodge’s main area is styled like an old farmhouse with high walls, a corrugated iron roof &amp; a large wrap-around verandah facing northeast to take advantage of the shade. \n With a friendly ambience &amp; personalized service, guests will feel right at home.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/mushara-outpost",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/mushara-outpost"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/ongava-lodge",
+    "title": "ONGAVA LODGE",
+    "description": "Ongava Lodge is built on a small hill in the Ongava Game Reserve against the southern boundary of the world-renowned Etosha National Park in Namibia.\nOffering splendid views over an active waterhole, guests can enjoy a host of thirsty wildlife from the main viewing deck.\n\nOngava Lodge consists of 13 chalets &amp; 1 family suite - all built out of brick, rock &amp; thatch to blend into the natural environment.  \nEach chalet has an en-suite bathroom with a shower as well as air-conditioning &amp; overhead fans.  The rooms have glass-fronted doors leading out onto a private verandah overlooking the plains.\nImpressive waterhole views can be enjoyed from the comfort of the lodge’s main lounge, bar &amp; dining areas.  Dinners are either served in the main dining room under thatch or on the outdoor deck under the stars.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/ongava-lodge",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/ongava-lodge"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/ongava-tented-camp",
+    "title": "ONGAVA TENTED CAMP",
+    "description": "Ongava Tented Camp is one of Namibia’s hidden gems.  Located in the Ongava Game Reserve to the south of the Etosha National Park, it overlooks a nearby waterhole.\nSimilar in size to Switzerland, The Etosha National Park is one of Africa’s largest game reserves &amp; is famous for its excellent waterhole game viewing.\n\nOngava Tented Camp consists of 8 spacious Meru-style tents, all with en-suite bathrooms, open-air showers &amp; private verandahs looking out over the reserve.  \nOne of these tents is a 2-bedroom family unit that can sleep 4 guests &amp; also comes with en-suite bathrooms.\nThe main lodge features a relaxing bar, swimming pool &amp; deck area where guests can watch the wildlife quench their thirst at the nearby waterhole.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/ongava-tented-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/ongava-tented-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/onguma-bush-camp",
+    "title": "ONGUMA BUSH CAMP",
+    "description": "In the middle of the bush in Etosha’s Onguma Game Reserve, you will find Onguma Bush Camp – renowned for its excellent waterhole game viewing &amp; family-friendly safaris.\nThe reserve covers an area of over 34,000 hectares of savanna, bushveld &amp; dry pan, offering over 30 different animal species.  Plains game roam freely on the reserve &amp; predators are common residents in the area.\nThe reserve boasts the biggest breeding colony of white-backed vultures in Namibia.  During the summer, Onguma becomes a bird-watchers paradise with thousands of species migrating to wetlands created by the seasonal rains.\nIn the local Herero language, Onguma means, “the place you don’t want to leave.”  Onguma Bush Camp certainly lives up to its name.\n\nAccommodation at Onguma Bush Camp consists of 18 rooms &amp; is ideal for families with children.  The room categories include 2 standard loft rooms, 8 deluxe rooms, 3 rondavels, 3 family units &amp; 1 settler’s room (honeymoon suite).\nThe main area consists of a lounge &amp; dining room, both overlooking the active waterhole, attracting a variety of thirsty animals.  Relaxing sundowners can be enjoyed next to the swimming pool or thatched bar area.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/onguma-bush-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/onguma-bush-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/onguma-etosha-aoba-camp",
+    "title": "ONGUMA ETOSHA AOBA CAMP",
+    "description": "Onguma Etosha Aoba Camp is set within the Onguma Game Reserve in the Etosha National Park – renowned for its excellent waterhole game viewing &amp; white rhino tracking adventures.\nThe reserve covers an area of over 34,000 hectares of savanna, bushveld &amp; dry pan, offering over 30 different animal species.  Plains game roam freely on the reserve &amp; predators are common residents in the area.\nThe reserve boasts the biggest breeding colony of white-backed vultures in Namibia.  During the summer, Onguma becomes a bird-watchers paradise with thousands of species migrating to wetlands created by the seasonal rains.\n\nAoba is a word from the Bushman language, meaning “when the sun goes down.”  As the name suggests, guests can enjoy spectacular sunsets from their private bungalows.  \nThere are 4 heritage bungalows &amp; 3 two-bedroom bush suites that can accommodate 4 guests.  All rooms are equipped with private terraces &amp; en-suite bathrooms\nThe main lodge features a swimming pool, thatched bar, lounge &amp; dining room overlooking the waterhole.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/onguma-etosha-aoba-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/onguma-etosha-aoba-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/onguma-tented-camp",
+    "title": "ONGUMA TENTED CAMP",
+    "description": "Onguma Tented Camp is situated in the famous Onguma Game Reserve &amp; forms part of the world-renowned Etosha National Park in Northern Namibia.\nThe reserve covers an area of over 34,000 hectares of savanna, bushveld &amp; dry pan, offering over 30 different animal species.  Plains game roam freely on the reserve &amp; predators are common residents in the area.\nThe reserve boasts the biggest breeding colony of white-backed vultures in Namibia.  During the summer, Onguma becomes a bird-watchers paradise with thousands of species migrating to wetlands created by the seasonal rains.\n\nIn the local Herero language, Onguma means, “the place you don’t want to leave.”  \nLiving up to its name, accommodation at Onguma Tented Camp consists of 7 luxury tents, all designed to reflect earthy elegance.  \nThe camp is small &amp; intimate, providing an exclusive safari experience in a remote setting.  Romantics at heart will love the ‘under canvas’ feeling Onguma Tented Camp has to offer.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/onguma-tented-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/onguma-tented-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/onguma-the-fort",
+    "title": "ONGUMA THE FORT",
+    "description": "Onguma The Fort is situated within the Onguma Game Reserve in the Etosha National Park – renowned for its excellent waterhole game viewing &amp; home to the elusive black rhino.\nThe reserve covers an area of over 34,000 hectares of savanna, bushveld &amp; dry pan, offering over 30 different animal species.  Plains game roam freely on the reserve &amp; predators are common residents in the area.\nThe reserve boasts the biggest breeding colony of white-backed vultures in Namibia.  During the summer, Onguma becomes a bird-watchers paradise with thousands of species migrating to wetlands created by the seasonal rains.\n\nAccommodation at The Fort consists of 11 bush suites, 1 honeymoon suite &amp; 1 Sultan suite, each equipped with an en-suite bathroom, an air cooling system as well as an indoor &amp; outdoor shower.  \nThe honeymoon suite has a little more luxury &amp; includes a private lounge &amp; large viewing deck.  The spacious bathroom has an open-air shower &amp; bathtub.\nThe Sultan suite has a beautifully designed bedroom that leads into a lounge area &amp; out onto a private viewing deck.  The spacious bathroom boasts an open shower area for those wishing to get closer to nature.\nAll suites have private viewing decks with relaxing sun loungers overlooking the reserve.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/onguma-the-fort",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/onguma-the-fort"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/onguma-tree-top-camp",
+    "title": "ONGUMA TREE TOP CAMP",
+    "description": "In the heart of the Onguma Game Reserve in Etosha, you will find Onguma Tree Top Camp – renowned for its excellent waterhole game viewing &amp; rhino tracking adventures.\nThe reserve covers an area of over 34,000 hectares of savanna, bushveld &amp; dry pan, offering over 30 different animal species.  Plains game roam freely on the reserve &amp; predators are common residents in the area.\nThe reserve boasts the biggest breeding colony of white-backed vultures in Namibia.  During the summer, Onguma becomes a bird-watchers paradise with thousands of species migrating to wetlands created by the seasonal rains.\n\nAccommodation at Onguma Tree Top Camp consists of 4 tented treetop rooms, all built on stilts &amp; designed to fit into the natural surroundings.  \nThe camp is small &amp; intimate, providing an exclusive safari experience in a remote setting.  \nAdventurous travellers will love the rustic ‘tree top’ feel Onguma Tree Top Camp has to offer.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/onguma-tree-top-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/onguma-tree-top-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/safarihoek-lodge",
+    "title": "SAFARIHOEK LODGE",
+    "description": "Set on a hill in the exclusive Etosha Heights Private Reserve, bordering the world-renowned Etosha National Park, lies Safarihoek Lodge.\nWith uninterrupted views of the rugged yet beautiful landscape &amp; roaming wildlife, Safarihoek Lodge is a favourite among many travellers.\nHere, it is all about the views - &amp; wildlife, of course!  From every corner of the lodge – including the swimming pool, chalet &amp; dining area – Etosha’s unspoilt beauty is showcased.\nA highlight to Safarihoek is the nearby double story hide overlooking a waterhole where wildlife enthusiasts love to get up-close &amp; personal with some of their favourite animals.\n\nAccommodation consists of 2 classic chalets, 8 luxury chalets &amp; a 2-bedroom family chalet – all raised high above the savanna on wooden platforms.\nBeautiful views of the bush &amp; animals can be enjoyed from the chalets’ private decks.\nEach chalet features an en-suite bathroom with an indoor shower (the luxury chalets also have outdoor showers) as well as air-conditioning.\nThe central area of the camp comprises a large lounge area, wine cellar, dining room &amp; wooden deck where al fresco dinners are served.  There is also a cosy outdoor seating area complete with crackling fire as well as a bar &amp; swimming pool with infinite views of the plains below.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/safarihoek-lodge",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/safarihoek-lodge"
+  },
+  {
+    "folderName": "safaris/Namibia/etosha-national-park/villa-mushara",
+    "title": "VILLA MUSHARA",
+    "description": "The exclusive Villa Mushara consists of 2 stylish one-bedroom villas &amp; is located a mere 8 km from the bustling Etosha National Park’s eastern gate – thus allowing the best of both worlds.\nIndividually decorated, the 2 stylish villas offer a tranquil safari experience in the lap of luxury, making this an ideal choice for honeymooners or couples.\nAir-conditioning, private pools &amp; salas that are immersed in the bush are some of the modern-day comforts that can be found at this contemporary safari paradise.\n\nEach en-suite villa has been designed with a classic appeal &amp; features a 140 sqm living space, small library &amp; cosy lounge with fireplace. \nThere is also a plunge pool with sun loungers at each villa as well as a large veranda offering magnificent views over the bush.  \nThe bathrooms are lavish with double basins complete with indoor &amp; outdoor showers.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/etosha-national-park/villa-mushara",
+    "isFolder": false,
+    "url": "/safaris/Namibia/etosha-national-park/villa-mushara"
+  },
+  {
+    "folderName": "safaris/Namibia/kunene/nambwa-tented-lodge",
+    "title": "NAMBWA TENTED LODGE",
+    "description": "Nambwa Tented Lodge is a Namibian safari escape set in a canopy of trees inside the Bwabwata National Park in the heart of the Kavango Zambezi Transfrontier Conservation Area (KAZA) – Africa’s largest conservation area.\nThis protected area spans 109 million acres, almost three-quarters the size of Texas &amp; combines 36 individual nature preserves &amp; the land around them.\nHere at KAZA, you will find 44 per cent of Africa’s elephants, 600 plant species &amp; 3,000 species of birds.\nGuests visiting Nambwa Tented Lodge should know that elephants have right of way around camp!  Nambwa has been unobtrusively built on lengthy timber walkways above these large mammals’ migratory route, so guests will have ‘front row’ seats to the bush parade.\n\nThere are 10 tented suites at Nambwa, each comprising an en-suite bathroom with bathtub &amp; shower, a cosy lounge &amp; a private spacious deck offering marvellous views over the bush.\nGuests can lift their canvas walls to remove any separation from the bush or soak in a bubble bath while listening to the sounds of nature.\nThe central area includes a lounge, dining room, bar, library &amp; pool.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/kunene/nambwa-tented-lodge",
+    "isFolder": false,
+    "url": "/safaris/Namibia/kunene/nambwa-tented-lodge"
+  },
+  {
+    "folderName": "safaris/Namibia/kunene/okahirongo-river-camp",
+    "title": "OKAHIRONGO RIVER CAMP",
+    "description": "Okahirongo River Camp - as the name suggests - enjoys a spectacular location overlooking Namibia’s Kunene River in the rugged Marienfluss region.\nWith luxury &amp; sophistication in mind, Okahirongo River Camp provides an elegant haven in an otherwise rugged yet beautiful landscape.\nTravellers seeking to absorb the wonders of Namibia’s remote corners without compromising on modern-day comforts will fall in love with Okahirongo.\n\nWith only 6 well-appointed suites built on a ridge with spectacular views, Okahirongo River Camp offers guests a boutique-type safari experience with superior service.  \nOne of these units is a double-sized family suite, ideal for parents travelling with children.\nEach chalet has an en-suite bathroom with both indoor &amp; outdoor showers, a lounge area &amp; a small viewing deck.\nThe central lodge area overlooks the Kunene River &amp; comprises 2 lounges, a library, a dining room &amp; an expansive deck with a sparkling swimming pool.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/kunene/okahirongo-river-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/kunene/okahirongo-river-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/kunene/serra-cafema",
+    "title": "SERRA CAFEMA",
+    "description": "Serra Cafema, one of Southern Africa's most remote camps, is located within the far north-west corner of Namibia in an area known as the Kunene region.\nLocated on the Kunene River, the region's only water source – Serra Cafema enjoys sensational views of the lush green riverbanks.  \nThe camp is only reachable by small plane (3 hours from Windhoek), making this a stylish off-the-beaten-track safari destination.\n\nSerra Cafema is an intimate camp consisting of 8 riverside Meru-style canvas &amp; thatched tented villas built on elevated decks.  One of these tents is a family unit consisting of 2 en-suite bedrooms.  \nEach tent features an en suite bathroom with an indoor &amp; outdoor shower, an expansive wooden deck with a dining area, a hammock &amp; a comfortable bench with breathtaking river views.  \nThe Serra Cafema 'Ozonganda,' or main area, comprises indoor &amp; outdoor dining areas, a sunken lounge, library &amp; swimming pool, all sharing views of the beautiful Kunene River.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/kunene/serra-cafema",
+    "isFolder": false,
+    "url": "/safaris/Namibia/kunene/serra-cafema"
+  },
+  {
+    "folderName": "safaris/Namibia/skeleton-coast/hoanib-skeleton-coast-camp",
+    "title": "HOANIB SKELETON COAST CAMP",
+    "description": "In this very remote part of Namibia’s Skeleton Coast – known for its vast plains, dry riverbeds, haunting shipwrecks &amp; desert-adapted wildlife – lies Hoanib Skeleton Coast Camp.\nThe Skeleton Coast attracts adventure-seekers who are looking for a unique &amp; off-the-beaten-track safari experience.  \nThe area is home to the oldest living desert plant in the world – at 2,000 years: the preternatural welwitschias &amp; guests can visit the semi-nomadic Himba people who still live in this rugged desert terrain.\n\nThere are 7 luxury tents at Hoanib Skeleton Coast Camp as well as a 2-bedroom family tent comprising of 2 bedrooms.\nAll tents have en-suite facilities &amp; shaded decks offering beautiful views over the desert.\nThe main lodge includes a lounge &amp; dining area as well as a bar, library &amp; swimming pool where lazy afternoons are usually spent.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/skeleton-coast/hoanib-skeleton-coast-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/skeleton-coast/hoanib-skeleton-coast-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/skeleton-coast/okahirongo-elephant-lodge",
+    "title": "OKAHIRONGO ELEPHANT LODGE",
+    "description": "Okahirongo Elephant Lodge boasts a spectacular location in one of Namibia’s most remote regions:  the Purros Conservancy in the dramatic Kaokoland.\nAs the name suggests, this region in the far north is home to the famous desert-adaptive elephants, so guests can anticipate impressive encounters with these larger-than-life mammals.\nThe Kaokoland is also home to the enigmatic Himba people who, after many years have learned to adapt to this forbidding environment.\nTravellers seeking to absorb the wonders of Namibia’s remote corners without compromising on modern-day comforts will fall in love with Okahirongo.\n\nOkahirongo Elephant Lodge has 7 spacious chalets &amp; a presidential suite, each equipped with a private gazebo &amp; large day bed – the ideal place to relax after a fun-filled desert activity.\nEach chalet has an en-suite bathroom with a bathtub that overlooks the beautiful desert surroundings &amp; features an indoor &amp; outdoor shower.  The bathrooms are in a separate hut, connected to the bedrooms by a wooden walkway.\nThe presidential suite consists of 2 en-suite bedrooms, a private scenic entrance, a lounge area with outdoor veranda &amp; 2 gazebos with day beds.\nThe main area is shaped after the traditional African tribe village &amp; boasts an infinity pool, dining room, library, lounge, boma &amp; sun deck with stunning views.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/skeleton-coast/okahirongo-elephant-lodge",
+    "isFolder": false,
+    "url": "/safaris/Namibia/skeleton-coast/okahirongo-elephant-lodge"
+  },
+  {
+    "folderName": "safaris/Namibia/skeleton-coast/shipwreck-lodge",
+    "title": "SHIPWRECK LODGE",
+    "description": "Skeleton Coast National Park, named after the old shipwrecks that litter this stretch of Africa, is a mysterious &amp; remote region in Namibia where enormous sand dunes &amp; the roaring Atlantic Ocean meet.\nHere you will find Skeleton Coast Camp – the only camp situated in the national park &amp; home to the desert-dwelling elephants as well as the elusive desert-adapted lion &amp; brown hyena.\nWith nearly 250 species of birdlife &amp; the oldest (&amp; strangest) desert plant on earth, the Skeleton Coast offers a truly peculiar &amp; off-the-beaten-track safari experience.\n\nThere are only 10 unusual &amp; innovative cabins that have been constructed to resemble the shipwrecks that line the beach.  Two of these cabins are large enough to take extra beds – ideal for families travelling with young children.\nEach luxury cabin features an en-suite bathroom, wood-burning stove for chilly evenings.\nThe central area comprises an innovatively designed lounge &amp; dining area with a large wrap-around deck offering panoramic views across the sand all the way to the Atlantic Ocean.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/skeleton-coast/shipwreck-lodge",
+    "isFolder": false,
+    "url": "/safaris/Namibia/skeleton-coast/shipwreck-lodge"
+  },
+  {
+    "folderName": "safaris/Namibia/sossusvlei/hoodia-desert-lodge",
+    "title": "HOODIA DESERT LODGE",
+    "description": "Hoodia Desert Lodge is situated on the banks of the Tsauchab River, a mere 20 minutes outside the clay-panned Sossusvlei – one of Namibia’s most scenic desert locations.\nSossusvlei is the heart of Namibia &amp; famous for its thrilling hot air balloon safaris &amp; scenic helicopter flights over the red sand dunes that draw Instagram lovers &amp; photographers alike.\nWith uninterrupted desert &amp; mountain views, Hoodia Desert Lodge is the ideal getaway for safari-goers looking for a luxury Namibia safari experience.\n\nThe 11 luxury chalets are scattered widely across the lodge &amp; provide privacy &amp; comfort.  Each chalet boasts an en-suite bathroom, private viewing deck &amp; an open-air shower.\nThe main building at Hoodia features a comfortable lounge area with a fireplace, an elegant bar, a shaded outdoor deck &amp; a swimming pool.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/sossusvlei/hoodia-desert-lodge",
+    "isFolder": false,
+    "url": "/safaris/Namibia/sossusvlei/hoodia-desert-lodge"
+  },
+  {
+    "folderName": "safaris/Namibia/sossusvlei/kulala-desert-lodge",
+    "title": "KULALA DESERT LODGE",
+    "description": "Kulala Desert Lodge is located within the arid Namib Desert on a 37,000-hectare private reserve, closest to the iconic red sand dunes of Sossusvlei.\nThis region is probably the most popular destination in Namibia.  Red sand dunes, hot-air balloon safaris, beautiful landscapes &amp; excellent photographic opportunities all contribute to Sossusvlei’s claim to fame.\n\nKulala Desert Lodge’s accommodation comprises 23 thatched &amp; canvas tents.\nTwo of these units are family tents which can accommodate 2 adults &amp; 2 children.  Each tent is equipped with an en-suite bathroom &amp; private verandah.  \nEach tent is built on a wooden platform &amp; has a deck on the flat rooftop where bedrolls are placed for guests to sleep under the starry skies.  \nKulala Desert Lodge has a main area with a lounge, bar, dining room, plunge pool &amp; wrap-around verandah overlooking the waterhole.  An abundance of wildlife can be found here daily, quenching their thirst.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/sossusvlei/kulala-desert-lodge",
+    "isFolder": false,
+    "url": "/safaris/Namibia/sossusvlei/kulala-desert-lodge"
+  },
+  {
+    "folderName": "safaris/Namibia/sossusvlei/little-kulala",
+    "title": "LITTLE KULALA",
+    "description": "Little Kulala is a luxurious desert lodge situated in the 37,000 Kulala Wilderness Reserve – the gateway to Namibia’s towering red sand dunes &amp; clear starry skies.\nLittle Kulala is one of Namibia’s secret gems - providing a remote location, stylish interiors, excellent service, exciting activities &amp; magnificent desert views.\n\nAccommodation at Little Kulala consists of 11 luxury desert suites.  \nEach suite is set against the beautiful backdrop of Namibia’s desert landscape &amp; features a private plunge pool, a rooftop ‘sky bed’ for romantic stargazing &amp; an en-suite bathroom with both indoor &amp; outdoor showers.\nThe main area comprises a library, wine cellar, lounge &amp; dining room.  The interiors have been designed to provide an all-natural safari experience in this gorgeous desert environment.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/sossusvlei/little-kulala",
+    "isFolder": false,
+    "url": "/safaris/Namibia/sossusvlei/little-kulala"
+  },
+  {
+    "folderName": "safaris/Namibia/sossusvlei/sossus-dune-lodge",
+    "title": "SOSSUS DUNE LODGE",
+    "description": "The eco-friendly Sossus Dune Lodge is set at the base of a mountain inside the Namib Naukluft National Park in Namibia.\nWith easy access to the Sossusvlei &amp; Sesriem Canyon, the lodge provides a wonderful base from which to explore the Namib Desert.\nThis region is probably the most popular destination in Namibia.  Red sand dunes, hot-air balloon safaris, beautiful landscapes &amp; excellent photographic opportunities all contribute to Sossusvlei’s claim to fame.\n\nSossus Dune Lodge comprises 25 chalets – 13 with dune views &amp; 12 with mountain &amp; canyon views.\nEach chalet features an en-suite bathroom, floor-to-ceiling front glass windows &amp; fantastic desert views.  \nThe central areas of the lodge are raised on wooden decks &amp; include an open-plain dining room &amp; lounge, an elegant bar &amp; a sparkling swimming pool.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/sossusvlei/sossus-dune-lodge",
+    "isFolder": false,
+    "url": "/safaris/Namibia/sossusvlei/sossus-dune-lodge"
+  },
+  {
+    "folderName": "safaris/Namibia/sossusvlei/sossusvlei-desert-lodge",
+    "title": "SOSSUSVLEI DESERT LODGE",
+    "description": "Nestled deep in the heart of Namibia’s ancient Namib Desert in Southern Africa, Sossusvlei Desert Lodge is a secluded &amp; serene oasis that overlooks the awe-inspiring dunes of Sossusvlei.\nSet against a backdrop of ancient mountains, Sossusvlei Desert Lodge boasts a location that is at once dramatic &amp; serene.  \nStargazing at Sossusvlei Desert Lodge is, according to Conde Nast, one of the best recommendations in Africa.\n\nWith just 10 luxurious villas constructed of stone &amp; glass, guests can enjoy the solitary splendour of this remote landscape in privacy.  \nEach air-conditioned villa features an en-suite bathroom with a glass-encased rain shower &amp; outdoor shower, a living room with a cosy fireplace, a veranda with a private plunge pool &amp; a dramatic skylight over the bed for late-night stargazing. \nThe main lodge reflects earthy interiors &amp; comprises a lounge, dining area, bar, gym, Kids Club, library, swimming pool &amp; wellness spa.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/sossusvlei/sossusvlei-desert-lodge",
+    "isFolder": false,
+    "url": "/safaris/Namibia/sossusvlei/sossusvlei-desert-lodge"
+  },
+  {
+    "folderName": "safaris/Namibia/sossusvlei/sossusvlei-lodge",
+    "title": "SOSSUSVLEI LODGE",
+    "description": "Set in the heart of the world’s largest conservation area – the Namib Desert - &amp; adjacent to the entrance of Namib Naukluft Park, lies Sossusvlei Lodge. \nIts ideal location allows guests to have a great base from which to explore the oldest desert on Earth while retreating to contemporary - yet cosy - comfort at night.\nWith an in-house Adventure Centre offering a wide range of activities, Sossusvlei Lodge is an excellent choice for families who are looking for an adventurous &amp; luxurious Namibia safari.\n\nAccommodation at Sossusvlei Lodge comprises 44 superior rooms, 6 family units &amp; 1 junior suite.\nEach air-conditioned superior room features an en-suite bathroom with a corner bathtub &amp; spacious shower as well as a patio offering breathtaking views over the desert landscape.\nThe family units consist of 2 rooms each, connected by an inter-leading door between the 2 private bathrooms.  Each air-conditioned unit features a patio offering spectacular desert views.\nThe junior suite has been designed with privacy in mind &amp; offers fantastic views over the surrounding desert.  The suite consists of a spacious air-conditioned bedroom with an adjacent living area &amp; a private terrace with a plunge pool.  The en-suite bathroom has a walk-in shower &amp; freestanding bath underneath a skylight to admire the stars.\nThe main area includes a lounge, bar &amp; swimming pool.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/sossusvlei/sossusvlei-lodge",
+    "isFolder": false,
+    "url": "/safaris/Namibia/sossusvlei/sossusvlei-lodge"
+  },
+  {
+    "folderName": "safaris/Namibia/sossusvlei/wolwedans-boulders-camp",
+    "title": "WOLWEDANS BOULDERS CAMP",
+    "description": "Wolwedans Boulders Camp is hugged by massive desert rocks &amp; looks out over the Namib Rand Nature Reserve in Sossusvlei.  \nSossusvlei is famous for its gorgeous red sand dunes, dramatic landscape, excellent photographic opportunities &amp; hot-air balloon safaris.\nThe exclusive Boulders Camp has been designed to minimize environmental impact, exploring innovative building techniques &amp; utilizing sustainable technologies.\n\nSleeping a maximum of 10 guests in 5 luxurious &amp; spacious tents, Boulders Camp is undoubtedly one of the most exclusive camps in Sossusvlei.  Each tent is equipped with an en-suite bathroom, completed with magnificent desert views.\nThe main area consists of a dining &amp; lounge tent, a breakfast deck &amp; an open fireplace.  Sundowners can be enjoyed from the top of a mountainous rock plateau nearby, delivering epic impressions of the desert’s vast beauty.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/sossusvlei/wolwedans-boulders-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/sossusvlei/wolwedans-boulders-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/sossusvlei/wolwedans-dune-camp",
+    "title": "WOLWEDANS DUNE CAMP",
+    "description": "Deep in the heart of the Namib Rand Nature Reserve in Sossusvlei, lies Wolwedans Dune Camp.  \nAs the name suggests, this camp is positioned on a 250-meter high dune, providing breathtaking views over the desert.\nDune Camp has been designed to minimize environmental impact, exploring innovative building techniques &amp; utilizing sustainable technologies.  The camp provides a more down-to-earth, yet stylish experience for the adventurous traveller.\n\nDune Camp has just 6 tents, including 2 family units – sleeping a maximum of 16 guests.  \nThe spacious tents are pitched on wooden platforms &amp; include a private bathroom.  A generous deck allows for sleep-outs under the magnificent African skies.\nThe main tent features a romantic dining area, campfire, sundowner deck &amp; comfortable lounge where lazy afternoons are often spent reading or relaxing.  Guests can also chat with the dessert chef in the open-plan kitchen, while he prepares lavish meals.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/sossusvlei/wolwedans-dune-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/sossusvlei/wolwedans-dune-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/sossusvlei/wolwedans-dunes-lodge",
+    "title": "WOLWEDANS DUNES LODGE",
+    "description": "Wolwedans Dunes Lodge is perched on top of a dune plateau in the Namib Rand Nature Reserve in Sossusvlei.  \nThe building style is a combination of wooden structures &amp; canvas blinds that can roll up to maximize Namibia’s spectacular desert views.  \nDunes Lodge has been designed to minimize environmental impact, exploring innovative building techniques &amp; utilizing sustainable technologies.\n\nThe lodge reflects the ambience of a tented camp yet provides the comfort &amp; protection of a permanent building.  \nDune Lodge consists of 9 luxurious tented chalets with en-suite bathrooms &amp; private verandahs.   Sleeping with your canvas blinds open is just like sleeping under the stars.\nThe main lodge features 2 lounges, several sundowner decks, a fireplace, a tea deck, a library, a wine cellar &amp; 2 dining rooms.   The lodge also has a swimming pool, which is suspended above the sand.  All communal areas of the lodge open out onto decks with superb views.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/sossusvlei/wolwedans-dunes-lodge",
+    "isFolder": false,
+    "url": "/safaris/Namibia/sossusvlei/wolwedans-dunes-lodge"
+  },
+  {
+    "folderName": "safaris/Namibia/sossusvlei/wolwedans-private-camp",
+    "title": "WOLWEDANS PRIVATE CAMP",
+    "description": "Wolwedans Private Camp is located within a quiet &amp; idyllic valley in Sossusvlei’s Namib Rand Nature Reserve in Namibia.  It is the perfect getaway for honeymooners or individuals seeking uncompromising privacy &amp; solitude.  \nPrivate Camp has been designed to minimize environmental impact, exploring innovative building techniques &amp; utilizing sustainable technologies.  \nSossusvlei is famous for its gorgeous red sand dunes, dramatic landscape, excellent photographic opportunities &amp; hot-air balloon safaris.\n\nWolwedans Private Camp offers 3 spacious en-suite tents that are ideal for exclusive-use bookings.  \nThe camp has a day ‘sala’ where one can relax with a book, a central lounge, study, living room, dining area &amp; fully equipped kitchen.  The open-plan design &amp; various decks allow for uninterrupted views over the Sossusvlei desert.\nThe main area consists of a dining &amp; lounge tent, a breakfast deck &amp; an open fireplace.  Sundowners can be enjoyed from the top of a mountainous rock plateau close by, delivering epic impressions of the vast beauty of the surroundings.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/sossusvlei/wolwedans-private-camp",
+    "isFolder": false,
+    "url": "/safaris/Namibia/sossusvlei/wolwedans-private-camp"
+  },
+  {
+    "folderName": "safaris/Namibia/windhoek/hilton-windhoek",
+    "title": "THE HILTON WINDHOEK",
+    "description": "The Hilton Windhoek is located within the heart of Windhoek, Namibia’s capital city.  The hotel promises modern, lavish accommodation &amp; world-renowned hospitality.\nThe Hilton brand is renowned for its excellent hospitality, good choice of restaurants, luxurious accommodation &amp; family-friendly atmosphere – it is no wonder that many discerning travellers choose to spend a few nights here.\n\nThere are 150 rooms at The Hilton Windhoek, all spacious &amp; adorned in modern &amp; inviting African décor.\n The room categories are king rooms, executive rooms, junior suites &amp; presidential suites.  The king rooms offer en-suite bathrooms with rain showers.  The other room types are more spacious &amp; offer separate dining areas &amp; spectacular views over the city.  \nIn addition to 3 restaurants, The Hilton Windhoek also offers 2 coffee shops &amp; a deli.  The hotel also features an outdoor pool, a wellness spa &amp; a fitness facility.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/windhoek/hilton-windhoek",
+    "isFolder": false,
+    "url": "/safaris/Namibia/windhoek/hilton-windhoek"
+  },
+  {
+    "folderName": "safaris/Namibia/windhoek/omaanda",
+    "title": "OMAANDA",
+    "description": "Omaanda is a unique lodge located within a private nature reserve a short drive from Windhoek’s Hosea Kutako International &amp; Eros Domestic Airports.\nOmaanda is the ideal stop-over before or after a Namibia safari &amp; especially an ideal choice for guests who are looking for a nature-based stay, away from the city’s hustle &amp; bustle.\nSet in a 9,000-hectare Namibian wilderness, guests will have privileged access to a conservation reserve that offers incredible wildlife viewing &amp; an authentic, local experience.\n\nThere are 10 air-conditioned thatched chalets at Omaanda, each modelled on local Owambo huts &amp; featuring en-suite bathrooms.\nTwo of these chalets are larger &amp; can sleep up to 6 guests, making them ideal for families.\nThe lodge has a traditional feel but is modern in design – offering world-class facilities such as Wi-Fi, a Bluetooth television in each room, a heated pool &amp; a wellness spa.\nThe main lodge is home to an open-sided lounge, bar &amp; dining area as well as an outdoor deck with a heated swimming pool &amp; sun loungers offering spectacular views over the hills &amp; mountains.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/windhoek/omaanda",
+    "isFolder": false,
+    "url": "/safaris/Namibia/windhoek/omaanda"
+  },
+  {
+    "folderName": "safaris/Namibia/windhoek/the-olive-exclusive",
+    "title": "THE OLIVE EXCLUSIVE",
+    "description": "Contemporary &amp; stylish, The Olive Exclusive is tucked away in a quiet corner of Windhoek – Namibia’s capital city.\nSmall &amp; intimate, The Olive Exclusive is a luxurious choice for the discerning traveller hoping to stay over in Windhoek before or after a Namibia safari, &amp; the ideal base from which to explore the city &amp; surrounds.\n\nThe Olive Exclusive has 7 individually decorated suites, reflecting the different regions in Namibia.  \nEach suite has a lounge area with a fireplace, a dining room for in-room dining as well as a spacious deck with a day bed &amp; private plunge pool.\nThe restaurant at The Olive boasts a seasonal menu, offering inventive &amp; signature dishes &amp; the well-stocked bar features a classic selection of fine whisky &amp; premium wines.",
+    "image": "optimized-images/default.webp",
+    "type": "page",
+    "path": "safaris/Namibia/windhoek/the-olive-exclusive",
+    "isFolder": false,
+    "url": "/safaris/Namibia/windhoek/the-olive-exclusive"
   },
   {
     "folderName": "safaris/botswana/chobe-national-park/chobe-game-lodge",
@@ -5838,406 +6238,6 @@
     "path": "safaris/malawi/majete-wildlife-reserve/mkulumadzi-lodge",
     "isFolder": false,
     "url": "/safaris/malawi/majete-wildlife-reserve/mkulumadzi-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/damaraland/camp-kipwe",
-    "title": "CAMP KIPWE",
-    "description": "In the remote Twyfelfontein region of Namibia’s dramatic Damaraland, you will find the luxurious &amp; intimate Camp Kipwe.\nThe beautiful hut-styled camp is set amongst large boulders so that it blends in with the natural desert landscape.  \nTravellers looking for an off-the-beaten-track &amp; unique desert experience will fall in love with Camp Kipwe.\n\nThere are 9 elegant bungalows &amp; 1 suite – all offering spectacular views over the desert.\nThe bungalows have cave-like boulder, cement &amp; rock walls with outdoor decks to admire the view.  The en-suite open-air private bathrooms are built amongst the rocks, allowing guests to take advantage of the lovely weather.\nThe main area comprises a lounge, bar &amp; small plunge pool, offering 360-degree views over the desert.  Meals can be enjoyed under the thatched dining dome, outside in the boma or on your private wooden deck.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/damaraland/camp-kipwe",
-    "isFolder": false,
-    "url": "/safaris/namibia/damaraland/camp-kipwe"
-  },
-  {
-    "folderName": "safaris/namibia/damaraland/damaraland-camp",
-    "title": "DAMARALAND CAMP",
-    "description": "Damaraland Camp is situated in the Huab River Valley of Namibia, arguable the most pristine wilderness area in the country.  \nAs one of the country's most loved camps, Damaraland Camp offers sensational views over the surrounding desert, valleys &amp; mountains. \nDamaraland Camp is proud to present guests with an eco-friendly safari experience &amp; a wide range of exciting safari activities.\n\nThere are 9 luxury tents &amp; 1 family tent comprising of 2-bedrooms.\nEach en-suite tent is built on a raised wooden platform – part of which extends out to form a large viewing deck with magnificent views over the surrounding vistas.  \nThe main area consists of a spacious thatched lounge, dining room &amp; bar, complete with a fireplace for chilly winter evenings.  \nDinners are often prepared over an open fire &amp; served under the stars.  There is also a swimming pool &amp; outdoor boma where superb stargazing evenings can be enjoyed.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/damaraland/damaraland-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/damaraland/damaraland-camp"
-  },
-  {
-    "folderName": "safaris/namibia/damaraland/desert-rhino-camp",
-    "title": "DESERT RHINO CAMP",
-    "description": "Desert Rhino Camp lies in the 450,000 hectares Palmwag Concession in Namibia's Damaraland.  \nThis region is marked for its tranquil, minimalist beauty, wealth of desert-adapted wildlife &amp; the largest free-roaming black rhino population in Africa.\nDesert Rhino Camp enjoys magnificent views of the surrounding Etendeka Mountains.\n\nAccommodation at Desert Rhino Camp consists of 8 Meru-style canvas tents that sleep a maximum of 16 guests.  \nEach tent has been raised from the ground on a wooden deck &amp; features an en-suite bathroom with a shower.  \nThe main lodge area features a tented lounge &amp; dining room, also raised on a wooden deck – offering panoramic views through the tent's partially open sides.  \nDinners can be enjoyed al fresco around the firepit or on the deck.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/damaraland/desert-rhino-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/damaraland/desert-rhino-camp"
-  },
-  {
-    "folderName": "safaris/namibia/damaraland/doro-nawas-camp",
-    "title": "DORO NAWAS CAMP",
-    "description": "Doro Nawas Camp is tucked away in the dry Aba-Huab River Valley in central Damaraland &amp; commands magnificent mountain views to the north &amp; red sandstone cliffs of Twyfelfontein to the south.\nThe camp provides an excellent base for self-drive or fly-in guests wishing to explore one of Namibia's most remarkable areas. \n\nAccommodation at Doro Nawas consists of 15 chalets &amp; 1 two-bedroom family chalet, each built from natural stone, canvas, wood, glass &amp; thatch.  \nEach chalet has been carefully designed to blend into the surrounding scenery.  Completed by an en-suite bathroom with an outdoor shower &amp; bed with wheels that you can roll out to the verandah for romantic sleepouts, Doro Nawas provides the best in desert luxury.\nThe main area is perched on a rocky knoll &amp; offers unspoilt views over some of Namibia's most diverse &amp; dramatic landscapes.  There are indoor &amp; outdoor dining areas, a swimming pool, a bar &amp; a staircase to the roof where relaxing sundowners or stargazing can be enjoyed.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/damaraland/doro-nawas-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/damaraland/doro-nawas-camp"
-  },
-  {
-    "folderName": "safaris/namibia/damaraland/etendeka-mountain-camp",
-    "title": "ETENDEKA MOUNTAIN CAMP",
-    "description": "Amidst the raw &amp; natural beauty of dramatic Damaraland in Namibia, lies Etendeka Mountain Camp.\nRugged &amp; untouched Damaraland is a place of dramatic boulders, beautiful mountains &amp; an abundance of wildlife like African wildcats, aardwolves, mountain zebras &amp; even the Big 5. \nThe small &amp; intimate Etendeka Mountain Camp is popular among adventure-seekers who are looking for a special, off-the-beaten-track safari experience.\n\nWith only 10 Meru-style tents, Etendeka offers spectacular views over the desert landscape &amp; grazing wildlife.\nEach tent has a private patio &amp; an en-suite bathroom with an open-air bucket shower, flush toilet &amp; solar-heated water.\nThe main lodge area consists of a lounge, dining room, bar &amp; swimming pool – a favourite among travellers during the warm summer months.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/damaraland/etendeka-mountain-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/damaraland/etendeka-mountain-camp"
-  },
-  {
-    "folderName": "safaris/namibia/damaraland/hoanib-valley-camp",
-    "title": "HOANIB VALLEY CAMP",
-    "description": "The remote Hoanib Valley Camp boasts a spectacular setting in the unspoilt Sesfontein Community Conservation Area in Namibia’s Kaokoveld.\nThe Kaokoveld is one of Southern Africa’s last untouched wilderness areas &amp; home to a variety of wildlife, including the desert-adapted elephant, lion, oryx &amp; springbok.\nWith breathtaking views over the never-ending dunes &amp; picturesque Hoanib River Valley, a linear oasis of vegetation that runs through earth’s oldest wilderness – the Namib Desert – guests will be amazed at just how remote the camp’s location is.\n\nHoanib Valley Camp has 5 luxury tents as well as a 2-bedroom family tent, comprising of 2 adjoining tents.\nEach luxury tent has an en-suite bathroom &amp; private veranda that offers inviting views over the desert.  The family unit has 2 en-suite bedrooms with private verandas – ideal for 2 adults &amp; 2 children.\nThe communal area boasts an inviting tented lounge with a dining area where delicious dinners are served.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/damaraland/hoanib-valley-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/damaraland/hoanib-valley-camp"
-  },
-  {
-    "folderName": "safaris/namibia/damaraland/mowani-mountain-camp",
-    "title": "MOWANI MOUNTAIN CAMP",
-    "description": "Mowani Mountain Camp, as the name suggests, is perched on a high rock between a crescent of mountains in the Twyfelfontein Conservancy in Namibia.\nThis remote desert area is known for its frequent sightings of the rare black rhino &amp; the elusive desert elephant, making this one of Africa's most exciting safari destinations.\n\nMowani offers 12 view rooms (4 superior view rooms, 3 view rooms &amp; 5 standard rooms), 1 luxury room &amp; 2 suites.  All rooms have en-suite facilities.\nThe view rooms are built between large granite boulders &amp; offer uninterrupted views, private decks &amp; open-air bathrooms.\nThe luxury room boasts a private deck overlooking the valley.  It is situated close to the lodge &amp; is ideal for guests who are not too mobile.\nThe 2 suites have spectacular wrap-around views, private lounges, dining &amp; bar facilities where drinks are included.  A personal waiter will attend to guests’ needs &amp; requirements upon request.  These suites also feature outdoor bush baths &amp; showers with beautiful views over the desert.\nThe main area at Mowani Mountain Camp comprises a lounge, bar &amp; pool.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/damaraland/mowani-mountain-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/damaraland/mowani-mountain-camp"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/anderssons-at-ongava",
-    "title": "ANDERSSON’S AT ONGAVA",
-    "description": "Andersson’s at Ongava is located in one of Africa’s largest game reserves – the Etosha National Park in Northern Namibia.  \nThis family-friendly camp offers sensational waterhole game viewing, with frequent sightings of the famous white &amp; black rhino, amongst a variety of other game.\n\nSet against the backdrop of a spectacular mountain range, Andersson’s offers breathtaking views over the reserve.  \nThere are 6 standard suites &amp; 1 family unit, built from a combination of wood &amp; stone in keeping with Etosha’s natural surroundings.  All have en-suite facilities &amp; private viewing decks with 180-degree panoramic views.\nEach suite has a double-door entrance &amp; a small verandah offering privacy &amp; seclusion.  The family unit comprises 2 suites connected by a raised boardwalk.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/anderssons-at-ongava",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/anderssons-at-ongava"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/little-ongava",
-    "title": "LITTLE ONGAVA",
-    "description": "Little Ongava is one of Namibia’s most luxurious &amp; exclusive safari camps.  Built on a rocky outcrop in the Ongava Game Reserve to the south of Etosha, the lodge provides awe-inspiring views over the reserve.\nThe Etosha National Park is one of Africa’s largest game parks &amp; boasts a variety of wildlife &amp; large herds of plains game.  The elusive black rhino can also be found here.\n\nLittle Ongava, as the name suggests, consists of only 3 spacious, luxurious &amp; private suites.  Here guests will experience remote exclusivity like nowhere else in the country.\nEach suite features a private plunge pool, a sala &amp; an en suite bathroom with both indoor &amp; outdoor showers for those wishing to get closer to nature.  The bath has a magnificent view over the surrounding reserve.  \nThe main lodge consists of a dining &amp; lounge area, both looking out over the waterhole below.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/little-ongava",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/little-ongava"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/mushara-bush-camp",
-    "title": "MUSHARA BUSH CAMP",
-    "description": "Mushara Bush Camp is located just 10km from the Von Lindequist Gate on the eastern boundary of Etosha National Park in northern Namibia.  \nAn ideal base for visitors to the reserve, Mushara Bush Camp welcomes families with children of all ages.  Friendly &amp; hospitable staff will go out of their way to make your stay special.\nThe name Mushara is derived from the Purple Pod Terminalia tree which grows abundantly on the lodge grounds &amp; in the surroundings.\n\nMushara Bush Camp consists of 12 tents &amp; 4 family units sleeping 2 adults &amp; 3 children each.\nEach of the en-suite tents is built from canvas, wood &amp; local limestone.  The very spacious private verandah allows for quiet afternoon reading &amp; the shower offers beautiful views of the surrounding bush.\nThe main house is thatched &amp; has a true bush camp feel to it.  Drinks are often served around the campfire where stories are shared &amp; friendships are formed.  All meals are served under the thatched verandah with the bush being a mere step away.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/mushara-bush-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/mushara-bush-camp"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/mushara-lodge",
-    "title": "MUSHARA LODGE",
-    "description": "Mushara Lodge is located just 10km from the Von Lindequist Gate on the eastern boundary of Etosha National Park in northern Namibia.  \nAn ideal overnight stop for visitors to the reserve, Mushara Lodge welcomes families with children of all ages.  Friendly &amp; hospitable staff will go out of their way to make your stay special.\nThe name Mushara is derived from the Purple Pod Terminalia tree which grows abundantly on the lodge grounds &amp; in the surroundings.\n\nMushara Lodge consists of 10 en-suite luxury chalets &amp; 1 family house, ideal for families travelling with young children.  All chalets are arranged in a horseshoe shape around the swimming pool.\nThe spacious family house offers 2 bedrooms, each with an en-suite bathroom – making this an ideal option for families travelling with children.  The house can sleep a maximum of 4 guests.\nThe thatched main area includes a swimming pool, a small library with a great selection of books, a bar with an extensive wine cellar, an airy lounge with a fireplace &amp; a dining room.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/mushara-lodge",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/mushara-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/mushara-outpost",
-    "title": "MUSHARA OUTPOST",
-    "description": "Mushara Outpost is located just 10km from the Von Lindequist Gate on the eastern boundary of Etosha National Park in northern Namibia.  \nAn ideal base for visitors to the reserve, Mushara Outpost is a luxurious tented camp that is loved by honeymooners or couples looking for peace &amp; tranquillity.  The camp does not allow children under the age of 12.\nThe name Mushara is derived from the Purple Pod Terminalia tree which grows abundantly on the lodge grounds &amp; in the surroundings.\n\nMushara Outpost consists of 8 custom-designed wood &amp; canvas tents, each with an en-suite bathroom.\nAll tents are nestled on the banks of a dry riverbed &amp; mounted on a wooden deck 1.5 m above the ground, providing unobstructed views of the bush.  \nThe lodge’s main area is styled like an old farmhouse with high walls, a corrugated iron roof &amp; a large wrap-around verandah facing northeast to take advantage of the shade. \n With a friendly ambience &amp; personalized service, guests will feel right at home.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/mushara-outpost",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/mushara-outpost"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/ongava-lodge",
-    "title": "ONGAVA LODGE",
-    "description": "Ongava Lodge is built on a small hill in the Ongava Game Reserve against the southern boundary of the world-renowned Etosha National Park in Namibia.\nOffering splendid views over an active waterhole, guests can enjoy a host of thirsty wildlife from the main viewing deck.\n\nOngava Lodge consists of 13 chalets &amp; 1 family suite - all built out of brick, rock &amp; thatch to blend into the natural environment.  \nEach chalet has an en-suite bathroom with a shower as well as air-conditioning &amp; overhead fans.  The rooms have glass-fronted doors leading out onto a private verandah overlooking the plains.\nImpressive waterhole views can be enjoyed from the comfort of the lodge’s main lounge, bar &amp; dining areas.  Dinners are either served in the main dining room under thatch or on the outdoor deck under the stars.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/ongava-lodge",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/ongava-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/ongava-tented-camp",
-    "title": "ONGAVA TENTED CAMP",
-    "description": "Ongava Tented Camp is one of Namibia’s hidden gems.  Located in the Ongava Game Reserve to the south of the Etosha National Park, it overlooks a nearby waterhole.\nSimilar in size to Switzerland, The Etosha National Park is one of Africa’s largest game reserves &amp; is famous for its excellent waterhole game viewing.\n\nOngava Tented Camp consists of 8 spacious Meru-style tents, all with en-suite bathrooms, open-air showers &amp; private verandahs looking out over the reserve.  \nOne of these tents is a 2-bedroom family unit that can sleep 4 guests &amp; also comes with en-suite bathrooms.\nThe main lodge features a relaxing bar, swimming pool &amp; deck area where guests can watch the wildlife quench their thirst at the nearby waterhole.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/ongava-tented-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/ongava-tented-camp"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/onguma-bush-camp",
-    "title": "ONGUMA BUSH CAMP",
-    "description": "In the middle of the bush in Etosha’s Onguma Game Reserve, you will find Onguma Bush Camp – renowned for its excellent waterhole game viewing &amp; family-friendly safaris.\nThe reserve covers an area of over 34,000 hectares of savanna, bushveld &amp; dry pan, offering over 30 different animal species.  Plains game roam freely on the reserve &amp; predators are common residents in the area.\nThe reserve boasts the biggest breeding colony of white-backed vultures in Namibia.  During the summer, Onguma becomes a bird-watchers paradise with thousands of species migrating to wetlands created by the seasonal rains.\nIn the local Herero language, Onguma means, “the place you don’t want to leave.”  Onguma Bush Camp certainly lives up to its name.\n\nAccommodation at Onguma Bush Camp consists of 18 rooms &amp; is ideal for families with children.  The room categories include 2 standard loft rooms, 8 deluxe rooms, 3 rondavels, 3 family units &amp; 1 settler’s room (honeymoon suite).\nThe main area consists of a lounge &amp; dining room, both overlooking the active waterhole, attracting a variety of thirsty animals.  Relaxing sundowners can be enjoyed next to the swimming pool or thatched bar area.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/onguma-bush-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/onguma-bush-camp"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/onguma-etosha-aoba-camp",
-    "title": "ONGUMA ETOSHA AOBA CAMP",
-    "description": "Onguma Etosha Aoba Camp is set within the Onguma Game Reserve in the Etosha National Park – renowned for its excellent waterhole game viewing &amp; white rhino tracking adventures.\nThe reserve covers an area of over 34,000 hectares of savanna, bushveld &amp; dry pan, offering over 30 different animal species.  Plains game roam freely on the reserve &amp; predators are common residents in the area.\nThe reserve boasts the biggest breeding colony of white-backed vultures in Namibia.  During the summer, Onguma becomes a bird-watchers paradise with thousands of species migrating to wetlands created by the seasonal rains.\n\nAoba is a word from the Bushman language, meaning “when the sun goes down.”  As the name suggests, guests can enjoy spectacular sunsets from their private bungalows.  \nThere are 4 heritage bungalows &amp; 3 two-bedroom bush suites that can accommodate 4 guests.  All rooms are equipped with private terraces &amp; en-suite bathrooms\nThe main lodge features a swimming pool, thatched bar, lounge &amp; dining room overlooking the waterhole.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/onguma-etosha-aoba-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/onguma-etosha-aoba-camp"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/onguma-tented-camp",
-    "title": "ONGUMA TENTED CAMP",
-    "description": "Onguma Tented Camp is situated in the famous Onguma Game Reserve &amp; forms part of the world-renowned Etosha National Park in Northern Namibia.\nThe reserve covers an area of over 34,000 hectares of savanna, bushveld &amp; dry pan, offering over 30 different animal species.  Plains game roam freely on the reserve &amp; predators are common residents in the area.\nThe reserve boasts the biggest breeding colony of white-backed vultures in Namibia.  During the summer, Onguma becomes a bird-watchers paradise with thousands of species migrating to wetlands created by the seasonal rains.\n\nIn the local Herero language, Onguma means, “the place you don’t want to leave.”  \nLiving up to its name, accommodation at Onguma Tented Camp consists of 7 luxury tents, all designed to reflect earthy elegance.  \nThe camp is small &amp; intimate, providing an exclusive safari experience in a remote setting.  Romantics at heart will love the ‘under canvas’ feeling Onguma Tented Camp has to offer.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/onguma-tented-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/onguma-tented-camp"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/onguma-the-fort",
-    "title": "ONGUMA THE FORT",
-    "description": "Onguma The Fort is situated within the Onguma Game Reserve in the Etosha National Park – renowned for its excellent waterhole game viewing &amp; home to the elusive black rhino.\nThe reserve covers an area of over 34,000 hectares of savanna, bushveld &amp; dry pan, offering over 30 different animal species.  Plains game roam freely on the reserve &amp; predators are common residents in the area.\nThe reserve boasts the biggest breeding colony of white-backed vultures in Namibia.  During the summer, Onguma becomes a bird-watchers paradise with thousands of species migrating to wetlands created by the seasonal rains.\n\nAccommodation at The Fort consists of 11 bush suites, 1 honeymoon suite &amp; 1 Sultan suite, each equipped with an en-suite bathroom, an air cooling system as well as an indoor &amp; outdoor shower.  \nThe honeymoon suite has a little more luxury &amp; includes a private lounge &amp; large viewing deck.  The spacious bathroom has an open-air shower &amp; bathtub.\nThe Sultan suite has a beautifully designed bedroom that leads into a lounge area &amp; out onto a private viewing deck.  The spacious bathroom boasts an open shower area for those wishing to get closer to nature.\nAll suites have private viewing decks with relaxing sun loungers overlooking the reserve.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/onguma-the-fort",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/onguma-the-fort"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/onguma-tree-top-camp",
-    "title": "ONGUMA TREE TOP CAMP",
-    "description": "In the heart of the Onguma Game Reserve in Etosha, you will find Onguma Tree Top Camp – renowned for its excellent waterhole game viewing &amp; rhino tracking adventures.\nThe reserve covers an area of over 34,000 hectares of savanna, bushveld &amp; dry pan, offering over 30 different animal species.  Plains game roam freely on the reserve &amp; predators are common residents in the area.\nThe reserve boasts the biggest breeding colony of white-backed vultures in Namibia.  During the summer, Onguma becomes a bird-watchers paradise with thousands of species migrating to wetlands created by the seasonal rains.\n\nAccommodation at Onguma Tree Top Camp consists of 4 tented treetop rooms, all built on stilts &amp; designed to fit into the natural surroundings.  \nThe camp is small &amp; intimate, providing an exclusive safari experience in a remote setting.  \nAdventurous travellers will love the rustic ‘tree top’ feel Onguma Tree Top Camp has to offer.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/onguma-tree-top-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/onguma-tree-top-camp"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/safarihoek-lodge",
-    "title": "SAFARIHOEK LODGE",
-    "description": "Set on a hill in the exclusive Etosha Heights Private Reserve, bordering the world-renowned Etosha National Park, lies Safarihoek Lodge.\nWith uninterrupted views of the rugged yet beautiful landscape &amp; roaming wildlife, Safarihoek Lodge is a favourite among many travellers.\nHere, it is all about the views - &amp; wildlife, of course!  From every corner of the lodge – including the swimming pool, chalet &amp; dining area – Etosha’s unspoilt beauty is showcased.\nA highlight to Safarihoek is the nearby double story hide overlooking a waterhole where wildlife enthusiasts love to get up-close &amp; personal with some of their favourite animals.\n\nAccommodation consists of 2 classic chalets, 8 luxury chalets &amp; a 2-bedroom family chalet – all raised high above the savanna on wooden platforms.\nBeautiful views of the bush &amp; animals can be enjoyed from the chalets’ private decks.\nEach chalet features an en-suite bathroom with an indoor shower (the luxury chalets also have outdoor showers) as well as air-conditioning.\nThe central area of the camp comprises a large lounge area, wine cellar, dining room &amp; wooden deck where al fresco dinners are served.  There is also a cosy outdoor seating area complete with crackling fire as well as a bar &amp; swimming pool with infinite views of the plains below.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/safarihoek-lodge",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/safarihoek-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/etosha-national-park/villa-mushara",
-    "title": "VILLA MUSHARA",
-    "description": "The exclusive Villa Mushara consists of 2 stylish one-bedroom villas &amp; is located a mere 8 km from the bustling Etosha National Park’s eastern gate – thus allowing the best of both worlds.\nIndividually decorated, the 2 stylish villas offer a tranquil safari experience in the lap of luxury, making this an ideal choice for honeymooners or couples.\nAir-conditioning, private pools &amp; salas that are immersed in the bush are some of the modern-day comforts that can be found at this contemporary safari paradise.\n\nEach en-suite villa has been designed with a classic appeal &amp; features a 140 sqm living space, small library &amp; cosy lounge with fireplace. \nThere is also a plunge pool with sun loungers at each villa as well as a large veranda offering magnificent views over the bush.  \nThe bathrooms are lavish with double basins complete with indoor &amp; outdoor showers.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/etosha-national-park/villa-mushara",
-    "isFolder": false,
-    "url": "/safaris/namibia/etosha-national-park/villa-mushara"
-  },
-  {
-    "folderName": "safaris/namibia/kunene/nambwa-tented-lodge",
-    "title": "NAMBWA TENTED LODGE",
-    "description": "Nambwa Tented Lodge is a Namibian safari escape set in a canopy of trees inside the Bwabwata National Park in the heart of the Kavango Zambezi Transfrontier Conservation Area (KAZA) – Africa’s largest conservation area.\nThis protected area spans 109 million acres, almost three-quarters the size of Texas &amp; combines 36 individual nature preserves &amp; the land around them.\nHere at KAZA, you will find 44 per cent of Africa’s elephants, 600 plant species &amp; 3,000 species of birds.\nGuests visiting Nambwa Tented Lodge should know that elephants have right of way around camp!  Nambwa has been unobtrusively built on lengthy timber walkways above these large mammals’ migratory route, so guests will have ‘front row’ seats to the bush parade.\n\nThere are 10 tented suites at Nambwa, each comprising an en-suite bathroom with bathtub &amp; shower, a cosy lounge &amp; a private spacious deck offering marvellous views over the bush.\nGuests can lift their canvas walls to remove any separation from the bush or soak in a bubble bath while listening to the sounds of nature.\nThe central area includes a lounge, dining room, bar, library &amp; pool.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/kunene/nambwa-tented-lodge",
-    "isFolder": false,
-    "url": "/safaris/namibia/kunene/nambwa-tented-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/kunene/okahirongo-river-camp",
-    "title": "OKAHIRONGO RIVER CAMP",
-    "description": "Okahirongo River Camp - as the name suggests - enjoys a spectacular location overlooking Namibia’s Kunene River in the rugged Marienfluss region.\nWith luxury &amp; sophistication in mind, Okahirongo River Camp provides an elegant haven in an otherwise rugged yet beautiful landscape.\nTravellers seeking to absorb the wonders of Namibia’s remote corners without compromising on modern-day comforts will fall in love with Okahirongo.\n\nWith only 6 well-appointed suites built on a ridge with spectacular views, Okahirongo River Camp offers guests a boutique-type safari experience with superior service.  \nOne of these units is a double-sized family suite, ideal for parents travelling with children.\nEach chalet has an en-suite bathroom with both indoor &amp; outdoor showers, a lounge area &amp; a small viewing deck.\nThe central lodge area overlooks the Kunene River &amp; comprises 2 lounges, a library, a dining room &amp; an expansive deck with a sparkling swimming pool.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/kunene/okahirongo-river-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/kunene/okahirongo-river-camp"
-  },
-  {
-    "folderName": "safaris/namibia/kunene/serra-cafema",
-    "title": "SERRA CAFEMA",
-    "description": "Serra Cafema, one of Southern Africa's most remote camps, is located within the far north-west corner of Namibia in an area known as the Kunene region.\nLocated on the Kunene River, the region's only water source – Serra Cafema enjoys sensational views of the lush green riverbanks.  \nThe camp is only reachable by small plane (3 hours from Windhoek), making this a stylish off-the-beaten-track safari destination.\n\nSerra Cafema is an intimate camp consisting of 8 riverside Meru-style canvas &amp; thatched tented villas built on elevated decks.  One of these tents is a family unit consisting of 2 en-suite bedrooms.  \nEach tent features an en suite bathroom with an indoor &amp; outdoor shower, an expansive wooden deck with a dining area, a hammock &amp; a comfortable bench with breathtaking river views.  \nThe Serra Cafema 'Ozonganda,' or main area, comprises indoor &amp; outdoor dining areas, a sunken lounge, library &amp; swimming pool, all sharing views of the beautiful Kunene River.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/kunene/serra-cafema",
-    "isFolder": false,
-    "url": "/safaris/namibia/kunene/serra-cafema"
-  },
-  {
-    "folderName": "safaris/namibia/skeleton-coast/hoanib-skeleton-coast-camp",
-    "title": "HOANIB SKELETON COAST CAMP",
-    "description": "In this very remote part of Namibia’s Skeleton Coast – known for its vast plains, dry riverbeds, haunting shipwrecks &amp; desert-adapted wildlife – lies Hoanib Skeleton Coast Camp.\nThe Skeleton Coast attracts adventure-seekers who are looking for a unique &amp; off-the-beaten-track safari experience.  \nThe area is home to the oldest living desert plant in the world – at 2,000 years: the preternatural welwitschias &amp; guests can visit the semi-nomadic Himba people who still live in this rugged desert terrain.\n\nThere are 7 luxury tents at Hoanib Skeleton Coast Camp as well as a 2-bedroom family tent comprising of 2 bedrooms.\nAll tents have en-suite facilities &amp; shaded decks offering beautiful views over the desert.\nThe main lodge includes a lounge &amp; dining area as well as a bar, library &amp; swimming pool where lazy afternoons are usually spent.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/skeleton-coast/hoanib-skeleton-coast-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/skeleton-coast/hoanib-skeleton-coast-camp"
-  },
-  {
-    "folderName": "safaris/namibia/skeleton-coast/okahirongo-elephant-lodge",
-    "title": "OKAHIRONGO ELEPHANT LODGE",
-    "description": "Okahirongo Elephant Lodge boasts a spectacular location in one of Namibia’s most remote regions:  the Purros Conservancy in the dramatic Kaokoland.\nAs the name suggests, this region in the far north is home to the famous desert-adaptive elephants, so guests can anticipate impressive encounters with these larger-than-life mammals.\nThe Kaokoland is also home to the enigmatic Himba people who, after many years have learned to adapt to this forbidding environment.\nTravellers seeking to absorb the wonders of Namibia’s remote corners without compromising on modern-day comforts will fall in love with Okahirongo.\n\nOkahirongo Elephant Lodge has 7 spacious chalets &amp; a presidential suite, each equipped with a private gazebo &amp; large day bed – the ideal place to relax after a fun-filled desert activity.\nEach chalet has an en-suite bathroom with a bathtub that overlooks the beautiful desert surroundings &amp; features an indoor &amp; outdoor shower.  The bathrooms are in a separate hut, connected to the bedrooms by a wooden walkway.\nThe presidential suite consists of 2 en-suite bedrooms, a private scenic entrance, a lounge area with outdoor veranda &amp; 2 gazebos with day beds.\nThe main area is shaped after the traditional African tribe village &amp; boasts an infinity pool, dining room, library, lounge, boma &amp; sun deck with stunning views.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/skeleton-coast/okahirongo-elephant-lodge",
-    "isFolder": false,
-    "url": "/safaris/namibia/skeleton-coast/okahirongo-elephant-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/skeleton-coast/shipwreck-lodge",
-    "title": "SHIPWRECK LODGE",
-    "description": "Skeleton Coast National Park, named after the old shipwrecks that litter this stretch of Africa, is a mysterious &amp; remote region in Namibia where enormous sand dunes &amp; the roaring Atlantic Ocean meet.\nHere you will find Skeleton Coast Camp – the only camp situated in the national park &amp; home to the desert-dwelling elephants as well as the elusive desert-adapted lion &amp; brown hyena.\nWith nearly 250 species of birdlife &amp; the oldest (&amp; strangest) desert plant on earth, the Skeleton Coast offers a truly peculiar &amp; off-the-beaten-track safari experience.\n\nThere are only 10 unusual &amp; innovative cabins that have been constructed to resemble the shipwrecks that line the beach.  Two of these cabins are large enough to take extra beds – ideal for families travelling with young children.\nEach luxury cabin features an en-suite bathroom, wood-burning stove for chilly evenings.\nThe central area comprises an innovatively designed lounge &amp; dining area with a large wrap-around deck offering panoramic views across the sand all the way to the Atlantic Ocean.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/skeleton-coast/shipwreck-lodge",
-    "isFolder": false,
-    "url": "/safaris/namibia/skeleton-coast/shipwreck-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/sossusvlei/hoodia-desert-lodge",
-    "title": "HOODIA DESERT LODGE",
-    "description": "Hoodia Desert Lodge is situated on the banks of the Tsauchab River, a mere 20 minutes outside the clay-panned Sossusvlei – one of Namibia’s most scenic desert locations.\nSossusvlei is the heart of Namibia &amp; famous for its thrilling hot air balloon safaris &amp; scenic helicopter flights over the red sand dunes that draw Instagram lovers &amp; photographers alike.\nWith uninterrupted desert &amp; mountain views, Hoodia Desert Lodge is the ideal getaway for safari-goers looking for a luxury Namibia safari experience.\n\nThe 11 luxury chalets are scattered widely across the lodge &amp; provide privacy &amp; comfort.  Each chalet boasts an en-suite bathroom, private viewing deck &amp; an open-air shower.\nThe main building at Hoodia features a comfortable lounge area with a fireplace, an elegant bar, a shaded outdoor deck &amp; a swimming pool.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/sossusvlei/hoodia-desert-lodge",
-    "isFolder": false,
-    "url": "/safaris/namibia/sossusvlei/hoodia-desert-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/sossusvlei/kulala-desert-lodge",
-    "title": "KULALA DESERT LODGE",
-    "description": "Kulala Desert Lodge is located within the arid Namib Desert on a 37,000-hectare private reserve, closest to the iconic red sand dunes of Sossusvlei.\nThis region is probably the most popular destination in Namibia.  Red sand dunes, hot-air balloon safaris, beautiful landscapes &amp; excellent photographic opportunities all contribute to Sossusvlei’s claim to fame.\n\nKulala Desert Lodge’s accommodation comprises 23 thatched &amp; canvas tents.\nTwo of these units are family tents which can accommodate 2 adults &amp; 2 children.  Each tent is equipped with an en-suite bathroom &amp; private verandah.  \nEach tent is built on a wooden platform &amp; has a deck on the flat rooftop where bedrolls are placed for guests to sleep under the starry skies.  \nKulala Desert Lodge has a main area with a lounge, bar, dining room, plunge pool &amp; wrap-around verandah overlooking the waterhole.  An abundance of wildlife can be found here daily, quenching their thirst.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/sossusvlei/kulala-desert-lodge",
-    "isFolder": false,
-    "url": "/safaris/namibia/sossusvlei/kulala-desert-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/sossusvlei/little-kulala",
-    "title": "LITTLE KULALA",
-    "description": "Little Kulala is a luxurious desert lodge situated in the 37,000 Kulala Wilderness Reserve – the gateway to Namibia’s towering red sand dunes &amp; clear starry skies.\nLittle Kulala is one of Namibia’s secret gems - providing a remote location, stylish interiors, excellent service, exciting activities &amp; magnificent desert views.\n\nAccommodation at Little Kulala consists of 11 luxury desert suites.  \nEach suite is set against the beautiful backdrop of Namibia’s desert landscape &amp; features a private plunge pool, a rooftop ‘sky bed’ for romantic stargazing &amp; an en-suite bathroom with both indoor &amp; outdoor showers.\nThe main area comprises a library, wine cellar, lounge &amp; dining room.  The interiors have been designed to provide an all-natural safari experience in this gorgeous desert environment.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/sossusvlei/little-kulala",
-    "isFolder": false,
-    "url": "/safaris/namibia/sossusvlei/little-kulala"
-  },
-  {
-    "folderName": "safaris/namibia/sossusvlei/sossus-dune-lodge",
-    "title": "SOSSUS DUNE LODGE",
-    "description": "The eco-friendly Sossus Dune Lodge is set at the base of a mountain inside the Namib Naukluft National Park in Namibia.\nWith easy access to the Sossusvlei &amp; Sesriem Canyon, the lodge provides a wonderful base from which to explore the Namib Desert.\nThis region is probably the most popular destination in Namibia.  Red sand dunes, hot-air balloon safaris, beautiful landscapes &amp; excellent photographic opportunities all contribute to Sossusvlei’s claim to fame.\n\nSossus Dune Lodge comprises 25 chalets – 13 with dune views &amp; 12 with mountain &amp; canyon views.\nEach chalet features an en-suite bathroom, floor-to-ceiling front glass windows &amp; fantastic desert views.  \nThe central areas of the lodge are raised on wooden decks &amp; include an open-plain dining room &amp; lounge, an elegant bar &amp; a sparkling swimming pool.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/sossusvlei/sossus-dune-lodge",
-    "isFolder": false,
-    "url": "/safaris/namibia/sossusvlei/sossus-dune-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/sossusvlei/sossusvlei-desert-lodge",
-    "title": "SOSSUSVLEI DESERT LODGE",
-    "description": "Nestled deep in the heart of Namibia’s ancient Namib Desert in Southern Africa, Sossusvlei Desert Lodge is a secluded &amp; serene oasis that overlooks the awe-inspiring dunes of Sossusvlei.\nSet against a backdrop of ancient mountains, Sossusvlei Desert Lodge boasts a location that is at once dramatic &amp; serene.  \nStargazing at Sossusvlei Desert Lodge is, according to Conde Nast, one of the best recommendations in Africa.\n\nWith just 10 luxurious villas constructed of stone &amp; glass, guests can enjoy the solitary splendour of this remote landscape in privacy.  \nEach air-conditioned villa features an en-suite bathroom with a glass-encased rain shower &amp; outdoor shower, a living room with a cosy fireplace, a veranda with a private plunge pool &amp; a dramatic skylight over the bed for late-night stargazing. \nThe main lodge reflects earthy interiors &amp; comprises a lounge, dining area, bar, gym, Kids Club, library, swimming pool &amp; wellness spa.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/sossusvlei/sossusvlei-desert-lodge",
-    "isFolder": false,
-    "url": "/safaris/namibia/sossusvlei/sossusvlei-desert-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/sossusvlei/sossusvlei-lodge",
-    "title": "SOSSUSVLEI LODGE",
-    "description": "Set in the heart of the world’s largest conservation area – the Namib Desert - &amp; adjacent to the entrance of Namib Naukluft Park, lies Sossusvlei Lodge. \nIts ideal location allows guests to have a great base from which to explore the oldest desert on Earth while retreating to contemporary - yet cosy - comfort at night.\nWith an in-house Adventure Centre offering a wide range of activities, Sossusvlei Lodge is an excellent choice for families who are looking for an adventurous &amp; luxurious Namibia safari.\n\nAccommodation at Sossusvlei Lodge comprises 44 superior rooms, 6 family units &amp; 1 junior suite.\nEach air-conditioned superior room features an en-suite bathroom with a corner bathtub &amp; spacious shower as well as a patio offering breathtaking views over the desert landscape.\nThe family units consist of 2 rooms each, connected by an inter-leading door between the 2 private bathrooms.  Each air-conditioned unit features a patio offering spectacular desert views.\nThe junior suite has been designed with privacy in mind &amp; offers fantastic views over the surrounding desert.  The suite consists of a spacious air-conditioned bedroom with an adjacent living area &amp; a private terrace with a plunge pool.  The en-suite bathroom has a walk-in shower &amp; freestanding bath underneath a skylight to admire the stars.\nThe main area includes a lounge, bar &amp; swimming pool.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/sossusvlei/sossusvlei-lodge",
-    "isFolder": false,
-    "url": "/safaris/namibia/sossusvlei/sossusvlei-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/sossusvlei/wolwedans-boulders-camp",
-    "title": "WOLWEDANS BOULDERS CAMP",
-    "description": "Wolwedans Boulders Camp is hugged by massive desert rocks &amp; looks out over the Namib Rand Nature Reserve in Sossusvlei.  \nSossusvlei is famous for its gorgeous red sand dunes, dramatic landscape, excellent photographic opportunities &amp; hot-air balloon safaris.\nThe exclusive Boulders Camp has been designed to minimize environmental impact, exploring innovative building techniques &amp; utilizing sustainable technologies.\n\nSleeping a maximum of 10 guests in 5 luxurious &amp; spacious tents, Boulders Camp is undoubtedly one of the most exclusive camps in Sossusvlei.  Each tent is equipped with an en-suite bathroom, completed with magnificent desert views.\nThe main area consists of a dining &amp; lounge tent, a breakfast deck &amp; an open fireplace.  Sundowners can be enjoyed from the top of a mountainous rock plateau nearby, delivering epic impressions of the desert’s vast beauty.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/sossusvlei/wolwedans-boulders-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/sossusvlei/wolwedans-boulders-camp"
-  },
-  {
-    "folderName": "safaris/namibia/sossusvlei/wolwedans-dune-camp",
-    "title": "WOLWEDANS DUNE CAMP",
-    "description": "Deep in the heart of the Namib Rand Nature Reserve in Sossusvlei, lies Wolwedans Dune Camp.  \nAs the name suggests, this camp is positioned on a 250-meter high dune, providing breathtaking views over the desert.\nDune Camp has been designed to minimize environmental impact, exploring innovative building techniques &amp; utilizing sustainable technologies.  The camp provides a more down-to-earth, yet stylish experience for the adventurous traveller.\n\nDune Camp has just 6 tents, including 2 family units – sleeping a maximum of 16 guests.  \nThe spacious tents are pitched on wooden platforms &amp; include a private bathroom.  A generous deck allows for sleep-outs under the magnificent African skies.\nThe main tent features a romantic dining area, campfire, sundowner deck &amp; comfortable lounge where lazy afternoons are often spent reading or relaxing.  Guests can also chat with the dessert chef in the open-plan kitchen, while he prepares lavish meals.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/sossusvlei/wolwedans-dune-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/sossusvlei/wolwedans-dune-camp"
-  },
-  {
-    "folderName": "safaris/namibia/sossusvlei/wolwedans-dunes-lodge",
-    "title": "WOLWEDANS DUNES LODGE",
-    "description": "Wolwedans Dunes Lodge is perched on top of a dune plateau in the Namib Rand Nature Reserve in Sossusvlei.  \nThe building style is a combination of wooden structures &amp; canvas blinds that can roll up to maximize Namibia’s spectacular desert views.  \nDunes Lodge has been designed to minimize environmental impact, exploring innovative building techniques &amp; utilizing sustainable technologies.\n\nThe lodge reflects the ambience of a tented camp yet provides the comfort &amp; protection of a permanent building.  \nDune Lodge consists of 9 luxurious tented chalets with en-suite bathrooms &amp; private verandahs.   Sleeping with your canvas blinds open is just like sleeping under the stars.\nThe main lodge features 2 lounges, several sundowner decks, a fireplace, a tea deck, a library, a wine cellar &amp; 2 dining rooms.   The lodge also has a swimming pool, which is suspended above the sand.  All communal areas of the lodge open out onto decks with superb views.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/sossusvlei/wolwedans-dunes-lodge",
-    "isFolder": false,
-    "url": "/safaris/namibia/sossusvlei/wolwedans-dunes-lodge"
-  },
-  {
-    "folderName": "safaris/namibia/sossusvlei/wolwedans-private-camp",
-    "title": "WOLWEDANS PRIVATE CAMP",
-    "description": "Wolwedans Private Camp is located within a quiet &amp; idyllic valley in Sossusvlei’s Namib Rand Nature Reserve in Namibia.  It is the perfect getaway for honeymooners or individuals seeking uncompromising privacy &amp; solitude.  \nPrivate Camp has been designed to minimize environmental impact, exploring innovative building techniques &amp; utilizing sustainable technologies.  \nSossusvlei is famous for its gorgeous red sand dunes, dramatic landscape, excellent photographic opportunities &amp; hot-air balloon safaris.\n\nWolwedans Private Camp offers 3 spacious en-suite tents that are ideal for exclusive-use bookings.  \nThe camp has a day ‘sala’ where one can relax with a book, a central lounge, study, living room, dining area &amp; fully equipped kitchen.  The open-plan design &amp; various decks allow for uninterrupted views over the Sossusvlei desert.\nThe main area consists of a dining &amp; lounge tent, a breakfast deck &amp; an open fireplace.  Sundowners can be enjoyed from the top of a mountainous rock plateau close by, delivering epic impressions of the vast beauty of the surroundings.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/sossusvlei/wolwedans-private-camp",
-    "isFolder": false,
-    "url": "/safaris/namibia/sossusvlei/wolwedans-private-camp"
-  },
-  {
-    "folderName": "safaris/namibia/windhoek/hilton-windhoek",
-    "title": "THE HILTON WINDHOEK",
-    "description": "The Hilton Windhoek is located within the heart of Windhoek, Namibia’s capital city.  The hotel promises modern, lavish accommodation &amp; world-renowned hospitality.\nThe Hilton brand is renowned for its excellent hospitality, good choice of restaurants, luxurious accommodation &amp; family-friendly atmosphere – it is no wonder that many discerning travellers choose to spend a few nights here.\n\nThere are 150 rooms at The Hilton Windhoek, all spacious &amp; adorned in modern &amp; inviting African décor.\n The room categories are king rooms, executive rooms, junior suites &amp; presidential suites.  The king rooms offer en-suite bathrooms with rain showers.  The other room types are more spacious &amp; offer separate dining areas &amp; spectacular views over the city.  \nIn addition to 3 restaurants, The Hilton Windhoek also offers 2 coffee shops &amp; a deli.  The hotel also features an outdoor pool, a wellness spa &amp; a fitness facility.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/windhoek/hilton-windhoek",
-    "isFolder": false,
-    "url": "/safaris/namibia/windhoek/hilton-windhoek"
-  },
-  {
-    "folderName": "safaris/namibia/windhoek/omaanda",
-    "title": "OMAANDA",
-    "description": "Omaanda is a unique lodge located within a private nature reserve a short drive from Windhoek’s Hosea Kutako International &amp; Eros Domestic Airports.\nOmaanda is the ideal stop-over before or after a Namibia safari &amp; especially an ideal choice for guests who are looking for a nature-based stay, away from the city’s hustle &amp; bustle.\nSet in a 9,000-hectare Namibian wilderness, guests will have privileged access to a conservation reserve that offers incredible wildlife viewing &amp; an authentic, local experience.\n\nThere are 10 air-conditioned thatched chalets at Omaanda, each modelled on local Owambo huts &amp; featuring en-suite bathrooms.\nTwo of these chalets are larger &amp; can sleep up to 6 guests, making them ideal for families.\nThe lodge has a traditional feel but is modern in design – offering world-class facilities such as Wi-Fi, a Bluetooth television in each room, a heated pool &amp; a wellness spa.\nThe main lodge is home to an open-sided lounge, bar &amp; dining area as well as an outdoor deck with a heated swimming pool &amp; sun loungers offering spectacular views over the hills &amp; mountains.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/windhoek/omaanda",
-    "isFolder": false,
-    "url": "/safaris/namibia/windhoek/omaanda"
-  },
-  {
-    "folderName": "safaris/namibia/windhoek/the-olive-exclusive",
-    "title": "THE OLIVE EXCLUSIVE",
-    "description": "Contemporary &amp; stylish, The Olive Exclusive is tucked away in a quiet corner of Windhoek – Namibia’s capital city.\nSmall &amp; intimate, The Olive Exclusive is a luxurious choice for the discerning traveller hoping to stay over in Windhoek before or after a Namibia safari, &amp; the ideal base from which to explore the city &amp; surrounds.\n\nThe Olive Exclusive has 7 individually decorated suites, reflecting the different regions in Namibia.  \nEach suite has a lounge area with a fireplace, a dining room for in-room dining as well as a spacious deck with a day bed &amp; private plunge pool.\nThe restaurant at The Olive boasts a seasonal menu, offering inventive &amp; signature dishes &amp; the well-stocked bar features a classic selection of fine whisky &amp; premium wines.",
-    "image": "optimized-images/default.webp",
-    "type": "page",
-    "path": "safaris/namibia/windhoek/the-olive-exclusive",
-    "isFolder": false,
-    "url": "/safaris/namibia/windhoek/the-olive-exclusive"
   },
   {
     "folderName": "safaris/rwanda/akagera-national-park/magashi-camp",
